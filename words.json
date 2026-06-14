@@ -2510,5 +2510,119 @@
         "tip": "voluble = 滔滔不絕的，拼法相近但意思完全不同！"
       }
     ]
+  },
+  {
+    "id": "assured",
+    "date": "6/14",
+    "title": "assured",
+    "phonetic": "🔊 /əˈʃʊərd/",
+    "hint": "有把握的；確定的；被保證的",
+    "meanings": [
+      {
+        "pos": "adj",
+        "en": "有把握的、自信的",
+        "zh": "confident and showing no doubts",
+        "examples": [
+          "She spoke in an <em>assured</em> tone during the presentation.",
+          "He seemed completely <em>assured</em> of his decision."
+        ]
+      },
+      {
+        "pos": "adj",
+        "en": "確定的、已成定局的",
+        "zh": "certain to happen; guaranteed",
+        "examples": [
+          "Victory seemed <em>assured</em> after the competitor pulled out.",
+          "With this deal, our funding is <em>assured</em>."
+        ]
+      },
+      {
+        "pos": "v",
+        "en": "assure 的過去式／過去分詞：被保證、被告知可以放心",
+        "zh": "past tense of assure — told something confidently to remove doubt",
+        "examples": [
+          "I was <em>assured</em> that the data would be kept confidential.",
+          "You can rest <em>assured</em> — we'll handle it."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "assure",
+        "pos": "v.",
+        "zh": "保證、使放心"
+      },
+      {
+        "word": "assurance",
+        "pos": "n.",
+        "zh": "保證、擔保"
+      },
+      {
+        "word": "reassure",
+        "pos": "v.",
+        "zh": "再次保證、消除疑慮"
+      },
+      {
+        "word": "self-assured",
+        "pos": "adj.",
+        "zh": "自信的、有把握的"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "rest assured",
+        "zh": "放心、可以確定（固定用法）"
+      },
+      {
+        "en": "feel assured",
+        "zh": "感到有把握"
+      },
+      {
+        "en": "an assured manner",
+        "zh": "自信的態度"
+      },
+      {
+        "en": "assured success",
+        "zh": "確定的成功"
+      },
+      {
+        "en": "self-assured",
+        "zh": "自信的（形容詞）"
+      }
+    ],
+    "similar": [
+      {
+        "word": "confident",
+        "pos": "adj.",
+        "zh": "自信的",
+        "diff": "confident 是主動的自信；assured 帶有「已被確認、有依據」的安心感"
+      },
+      {
+        "word": "certain",
+        "pos": "adj.",
+        "zh": "確定的",
+        "diff": "certain 更廣泛；assured 強調來自外部保證或充分依據的確定"
+      },
+      {
+        "word": "guaranteed",
+        "pos": "adj.",
+        "zh": "被保證的",
+        "diff": "guaranteed 更正式，常有契約或承諾的意涵；assured 語感更個人"
+      }
+    ],
+    "lookalikes": [
+      {
+        "a": "assured",
+        "b": "ensured",
+        "zh": "有把握的／被保證的 vs 被確保（採取行動）",
+        "tip": "assured 重點是人的心理狀態（放心、有把握）；ensured 重點是採取了行動讓某結果一定發生。'I was assured it would work'（有人告訴我）vs 'I ensured it would work'（我採取行動讓它成功）"
+      },
+      {
+        "a": "self-assured",
+        "b": "self-confident",
+        "zh": "自信有把握的 vs 有自信的",
+        "tip": "兩者幾乎同義，self-assured 帶有更沉穩、不需要外界認可的語感"
+      }
+    ]
   }
 ]
