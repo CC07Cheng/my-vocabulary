@@ -1,0 +1,79 @@
+[
+  {
+    "id": "probe",
+    "date": "6/13",
+    "title": "probe",
+    "phonetic": "🔊 /proʊb/",
+    "hint": "調查、探索",
+    "meanings": [
+      {
+        "pos": "v",
+        "en": "深入調查",
+        "zh": "to investigate",
+        "examples": [
+          "The PM <em>probed</em> deeper."
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "en": "probe into",
+        "zh": "深入調查"
+      }
+    ],
+    "similar": [
+      {
+        "word": "investigate",
+        "pos": "v.",
+        "zh": "調查",
+        "diff": "更正式"
+      }
+    ],
+    "lookalikes": [
+      {
+        "a": "probe",
+        "b": "prove",
+        "zh": "調查 vs 證明",
+        "tip": "probe 是過程；prove 是結論"
+      }
+    ]
+  },
+  {
+    "id": "hone",
+    "date": "6/14",
+    "title": "hone",
+    "phonetic": "🔊 /hoʊn/",
+    "hint": "磨練、精進",
+    "meanings": [
+      {
+        "pos": "v",
+        "en": "精進、磨練（技能）",
+        "zh": "to refine and perfect a skill",
+        "examples": [
+          "She spent years <em>honing</em> her craft."
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "en": "hone a skill",
+        "zh": "磨練技能"
+      }
+    ],
+    "similar": [
+      {
+        "word": "refine",
+        "pos": "v.",
+        "zh": "精煉"
+      }
+    ],
+    "lookalikes": [
+      {
+        "a": "hone",
+        "b": "tone",
+        "zh": "磨練 vs 語氣",
+        "tip": "tone 是名詞（語氣）或動詞（緊實）"
+      }
+    ]
+  }
+]
