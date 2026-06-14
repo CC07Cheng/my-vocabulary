@@ -11,16 +11,35 @@
         "en": "深入調查、仔細探查",
         "zh": "to investigate thoroughly",
         "examples": [
-          "The PM <em>probed</em> deeper into why users were dropping off."
+          "The PM <em>probed</em> deeper into why users were dropping off.",
+          "She <em>probed</em> the interviewee with follow-up questions."
         ]
       },
       {
         "pos": "n",
-        "en": "調查；探針",
-        "zh": "an investigation",
+        "en": "調查；探針（醫療或太空用）",
+        "zh": "an investigation; or a device used to explore",
         "examples": [
-          "The audit was a <em>probe</em> into the team's decision-making process."
+          "The audit was a <em>probe</em> into the team's decision-making process.",
+          "NASA launched a new space <em>probe</em> toward Jupiter."
         ]
+      }
+    ],
+    "family": [
+      {
+        "word": "probe",
+        "pos": "v./n.",
+        "zh": "探查（動詞兼名詞）"
+      },
+      {
+        "word": "probing",
+        "pos": "adj.",
+        "zh": "深入探究的"
+      },
+      {
+        "word": "prober",
+        "pos": "n.",
+        "zh": "調查者"
       }
     ],
     "collocations": [
@@ -35,6 +54,10 @@
       {
         "en": "space probe",
         "zh": "太空探測器"
+      },
+      {
+        "en": "a probing question",
+        "zh": "一個深入的問題"
       }
     ],
     "similar": [
@@ -49,6 +72,12 @@
         "pos": "v.",
         "zh": "審視",
         "diff": "examine 較全面；probe 強調主動追問"
+      },
+      {
+        "word": "scrutinize",
+        "pos": "v.",
+        "zh": "仔細審查",
+        "diff": "scrutinize 更強調一字一句地檢視"
       }
     ],
     "lookalikes": [
@@ -56,7 +85,13 @@
         "a": "probe",
         "b": "prove",
         "zh": "調查 vs 證明",
-        "tip": "probe = 探查過程；prove = 得出結論"
+        "tip": "probe = 探查過程；prove = 得出結論，兩個字只差一個字母"
+      },
+      {
+        "a": "probe",
+        "b": "probe vs prod",
+        "zh": "探查 vs 戳、催促",
+        "tip": "prod = 用手指或棍子戳；也比喻催促某人做事，和 probe 語感相近但不同"
       }
     ]
   },
@@ -72,8 +107,29 @@
         "en": "細微的差異或差別（語氣、意義、情境上的）",
         "zh": "a very slight difference in meaning, feeling, or tone",
         "examples": [
-          "A good PM understands the <em>nuance</em> between user needs and user wants."
+          "A good PM understands the <em>nuance</em> between user needs and user wants.",
+          "The <em>nuance</em> in her tone suggested she wasn't fully convinced."
         ]
+      },
+      {
+        "pos": "v",
+        "en": "細緻地表達或區分（較少用）",
+        "zh": "to express or consider with subtle distinctions",
+        "examples": [
+          "He <em>nuanced</em> his argument to avoid overgeneralizing."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "nuanced",
+        "pos": "adj.",
+        "zh": "細緻入微的、有層次的"
+      },
+      {
+        "word": "nuance",
+        "pos": "v.",
+        "zh": "細緻地區分（較少用）"
       }
     ],
     "collocations": [
@@ -88,6 +144,10 @@
       {
         "en": "miss the nuance",
         "zh": "錯過細節"
+      },
+      {
+        "en": "a nuanced argument",
+        "zh": "有層次的論點"
       }
     ],
     "similar": [
@@ -102,6 +162,12 @@
         "pos": "n.",
         "zh": "區別",
         "diff": "distinction 較明顯；nuance 更微妙"
+      },
+      {
+        "word": "shade",
+        "pos": "n.",
+        "zh": "細微差別（比喻）",
+        "diff": "shade of meaning = 意義的細微層次，與 nuance 幾乎同義"
       }
     ],
     "lookalikes": [
@@ -110,6 +176,12 @@
         "b": "stance",
         "zh": "細微差異 vs 立場",
         "tip": "stance = 立場或姿勢，字尾相同但意思不同"
+      },
+      {
+        "a": "nuanced",
+        "b": "enhanced",
+        "zh": "細緻入微的 vs 增強的",
+        "tip": "enhanced = 被增強、被提升的，字尾相似但意思完全不同"
       }
     ]
   },
@@ -125,7 +197,16 @@
         "en": "強烈的吸引力或著迷感",
         "zh": "the state of being intensely attracted or interested",
         "examples": [
-          "There's a <em>fascination</em> with data that drives our analytics culture."
+          "There's a <em>fascination</em> with data that drives our analytics culture.",
+          "His <em>fascination</em> with user behavior led to several product breakthroughs."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "令人著迷的事物或特質",
+        "zh": "a quality or thing that attracts great interest",
+        "examples": [
+          "The ocean holds a deep <em>fascination</em> for scientists and explorers alike."
         ]
       }
     ],
@@ -139,6 +220,16 @@
         "word": "fascinating",
         "pos": "adj.",
         "zh": "令人著迷的"
+      },
+      {
+        "word": "fascinated",
+        "pos": "adj.",
+        "zh": "感到著迷的"
+      },
+      {
+        "word": "fascinatingly",
+        "pos": "adv.",
+        "zh": "令人著迷地"
       }
     ],
     "collocations": [
@@ -147,8 +238,16 @@
         "zh": "對⋯⋯的著迷"
       },
       {
+        "en": "hold a fascination",
+        "zh": "具有吸引力"
+      },
+      {
         "en": "morbid fascination",
         "zh": "病態的著迷"
+      },
+      {
+        "en": "grow into a fascination",
+        "zh": "逐漸變成一種著迷"
       }
     ],
     "similar": [
@@ -156,7 +255,19 @@
         "word": "obsession",
         "pos": "n.",
         "zh": "執念、痴迷",
-        "diff": "更強烈，常帶負面意味"
+        "diff": "obsession 更強烈，常帶負面意味，難以自拔"
+      },
+      {
+        "word": "captivation",
+        "pos": "n.",
+        "zh": "著迷",
+        "diff": "較少用，fascination 更常見"
+      },
+      {
+        "word": "intrigue",
+        "pos": "n.",
+        "zh": "好奇、著迷",
+        "diff": "intrigue 更強調因神秘感而產生的好奇"
       }
     ],
     "lookalikes": [
@@ -165,6 +276,12 @@
         "b": "fascism",
         "zh": "著迷 vs 法西斯主義",
         "tip": "字首相同但完全不同：fascism 是政治意識形態"
+      },
+      {
+        "a": "fascinating",
+        "b": "fascinated",
+        "zh": "令人著迷的 vs 感到著迷的",
+        "tip": "fascinating 描述事物（主動）；fascinated 描述人的感受（被動）——和 interesting/interested 一樣的邏輯"
       }
     ]
   },
@@ -172,16 +289,42 @@
     "id": "enroll",
     "date": "6/13",
     "title": "enroll",
-    "phonetic": "🔊 /ɪnˈroʊl/",
+    "phonetic": "🔊 /ɪnˈroʊl/（美式）；enrol（英式）",
     "hint": "報名、登記",
     "meanings": [
       {
         "pos": "v",
-        "en": "（讓某人）加入或報名（課程、計劃）",
-        "zh": "to officially register or join a program",
+        "en": "（讓某人）加入或報名（課程、計劃、機構）",
+        "zh": "to officially register or join a program, course, or organization",
         "examples": [
-          "We <em>enrolled</em> 500 beta users in our early access program."
+          "We <em>enrolled</em> 500 beta users in our early access program.",
+          "She <em>enrolled</em> in an MBA program last fall."
         ]
+      },
+      {
+        "pos": "v",
+        "en": "說服某人加入或參與",
+        "zh": "to persuade someone to join a cause or activity",
+        "examples": [
+          "He managed to <em>enroll</em> three senior engineers in the initiative."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "enrollment",
+        "pos": "n.",
+        "zh": "報名、入學（美式）"
+      },
+      {
+        "word": "enrolment",
+        "pos": "n.",
+        "zh": "報名、入學（英式）"
+      },
+      {
+        "word": "enrolled",
+        "pos": "adj.",
+        "zh": "已報名的、已入學的"
       }
     ],
     "collocations": [
@@ -190,8 +333,16 @@
         "zh": "報名課程"
       },
       {
+        "en": "enroll users",
+        "zh": "讓用戶加入"
+      },
+      {
         "en": "enrollment rate",
-        "zh": "報名率"
+        "zh": "報名率／加入率"
+      },
+      {
+        "en": "auto-enroll",
+        "zh": "自動加入（如退休金計劃）"
       }
     ],
     "similar": [
@@ -199,13 +350,19 @@
         "word": "register",
         "pos": "v.",
         "zh": "登記、報名",
-        "diff": "更廣泛"
+        "diff": "更廣泛，任何正式記錄都可用"
       },
       {
         "word": "sign up",
         "pos": "v. phr.",
         "zh": "報名（口語）",
         "diff": "更非正式"
+      },
+      {
+        "word": "subscribe",
+        "pos": "v.",
+        "zh": "訂閱、加入",
+        "diff": "subscribe 更常用於數位服務或內容"
       }
     ],
     "lookalikes": [
@@ -213,7 +370,13 @@
         "a": "enroll",
         "b": "enrol",
         "zh": "美式 vs 英式拼法",
-        "tip": "美式雙 l；英式單 l"
+        "tip": "美式雙 l；英式單 l，但都是同一個字"
+      },
+      {
+        "a": "enrollment",
+        "b": "enrolment",
+        "zh": "美式 vs 英式名詞拼法",
+        "tip": "同樣的規則，美式多一個 l"
       }
     ]
   },
@@ -227,18 +390,39 @@
       {
         "pos": "v",
         "en": "逐漸消耗、削弱（精力、信心、資源）",
-        "zh": "to gradually weaken or drain",
+        "zh": "to gradually weaken or drain energy, confidence, or resources",
         "examples": [
-          "Endless meetings <em>sap</em> the team's energy."
+          "Endless meetings <em>sap</em> the team's energy and creativity.",
+          "Micromanagement <em>saps</em> employee morale over time."
         ]
       },
       {
         "pos": "n",
-        "en": "樹液；（俚語）傻瓜",
-        "zh": "the liquid in plants",
+        "en": "樹液",
+        "zh": "the liquid that flows through a plant",
         "examples": [
-          "The maple tree produces <em>sap</em> in spring."
+          "The maple tree produces <em>sap</em> in spring, which is made into syrup."
         ]
+      },
+      {
+        "pos": "n",
+        "en": "（俚語）容易被騙的傻瓜",
+        "zh": "(slang) a foolish person who is easily deceived",
+        "examples": [
+          "Don't be a <em>sap</em> — read the contract before you sign."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "sappy",
+        "pos": "adj.",
+        "zh": "傻乎乎的；過度感情用事的"
+      },
+      {
+        "word": "sapwood",
+        "pos": "n.",
+        "zh": "邊材（樹木靠外的木材）"
       }
     ],
     "collocations": [
@@ -247,24 +431,50 @@
         "zh": "消耗精力"
       },
       {
+        "en": "sap confidence",
+        "zh": "削弱信心"
+      },
+      {
         "en": "sap morale",
         "zh": "打擊士氣"
+      },
+      {
+        "en": "sap strength",
+        "zh": "削弱力量"
       }
     ],
     "similar": [
       {
         "word": "drain",
         "pos": "v.",
-        "zh": "耗盡",
+        "zh": "耗盡、抽乾",
         "diff": "drain 更強調把東西抽走；sap 強調緩慢削弱"
+      },
+      {
+        "word": "deplete",
+        "pos": "v.",
+        "zh": "耗盡",
+        "diff": "deplete 更正式，常用於資源"
+      },
+      {
+        "word": "erode",
+        "pos": "v.",
+        "zh": "侵蝕、逐漸削弱",
+        "diff": "erode 強調長期慢慢損耗，和 sap 很像但更偏物理或抽象結構"
       }
     ],
     "lookalikes": [
       {
         "a": "sap",
         "b": "zap",
-        "zh": "消耗 vs 快速攻擊",
-        "tip": "zap = 快速擊中，語感更有力"
+        "zh": "消耗 vs 快速攻擊／消滅",
+        "tip": "zap = 快速擊中或消滅，語感更有力"
+      },
+      {
+        "a": "sap",
+        "b": "nap",
+        "zh": "消耗 vs 小睡",
+        "tip": "nap = 小睡一下；只差第一個字母，注意別看錯"
       }
     ]
   },
@@ -278,9 +488,18 @@
       {
         "pos": "adj",
         "en": "對某事同時持有正反兩面感受，無法決定",
-        "zh": "having mixed or contradictory feelings",
+        "zh": "having mixed or contradictory feelings about something",
         "examples": [
-          "I'm <em>ambivalent</em> about launching this feature."
+          "I'm <em>ambivalent</em> about launching this feature — the data is promising but the risk is high.",
+          "She felt <em>ambivalent</em> about the promotion: excited but also scared."
+        ]
+      },
+      {
+        "pos": "adj",
+        "en": "態度不明確的、模稜兩可的",
+        "zh": "uncertain or unclear in one's position",
+        "examples": [
+          "The committee's <em>ambivalent</em> response made it hard to move forward."
         ]
       }
     ],
@@ -288,7 +507,12 @@
       {
         "word": "ambivalence",
         "pos": "n.",
-        "zh": "矛盾情感"
+        "zh": "矛盾情感、猶豫不決"
+      },
+      {
+        "word": "ambivalently",
+        "pos": "adv.",
+        "zh": "矛盾地"
       }
     ],
     "collocations": [
@@ -299,6 +523,14 @@
       {
         "en": "ambivalent attitude",
         "zh": "矛盾的態度"
+      },
+      {
+        "en": "deep ambivalence",
+        "zh": "強烈的矛盾感"
+      },
+      {
+        "en": "remain ambivalent",
+        "zh": "持續感到矛盾"
       }
     ],
     "similar": [
@@ -306,13 +538,19 @@
         "word": "conflicted",
         "pos": "adj.",
         "zh": "內心衝突的",
-        "diff": "更口語"
+        "diff": "更口語；ambivalent 更精確指兩種相反情感並存"
       },
       {
         "word": "indecisive",
         "pos": "adj.",
         "zh": "優柔寡斷的",
-        "diff": "強調無法決定"
+        "diff": "indecisive 強調無法決定；ambivalent 強調情感的矛盾"
+      },
+      {
+        "word": "torn",
+        "pos": "adj.",
+        "zh": "左右為難的",
+        "diff": "torn 更口語，強調被兩個選項拉扯的感覺"
       }
     ],
     "lookalikes": [
@@ -320,7 +558,13 @@
         "a": "ambivalent",
         "b": "ambiguous",
         "zh": "情感矛盾 vs 意思模糊",
-        "tip": "ambiguous = 含義不清；ambivalent = 情感左右為難"
+        "tip": "ambiguous = 含義不清；ambivalent = 情感上左右為難"
+      },
+      {
+        "a": "ambivalence",
+        "b": "equivalence",
+        "zh": "矛盾情感 vs 等值、等價",
+        "tip": "equivalence = 兩者等值的狀態；字尾相同但意思完全不同"
       }
     ]
   },
@@ -328,35 +572,75 @@
     "id": "epitome",
     "date": "6/13",
     "title": "epitome",
-    "phonetic": "🔊 /ɪˈpɪt.ə.mi/",
+    "phonetic": "🔊 /ɪˈpɪt.ə.mi/（注意：不讀 epi-tome）",
     "hint": "典型、縮影",
     "meanings": [
       {
         "pos": "n",
         "en": "某事物的最典型代表或縮影",
-        "zh": "a perfect example or embodiment",
+        "zh": "a perfect example or embodiment of a quality or type",
         "examples": [
-          "She is the <em>epitome</em> of a data-driven PM."
+          "She is the <em>epitome</em> of a data-driven PM.",
+          "That product is the <em>epitome</em> of good UX design."
         ]
+      },
+      {
+        "pos": "n",
+        "en": "（文學）摘要、縮略版（古典用法）",
+        "zh": "a summary or abstract of a text",
+        "examples": [
+          "The author wrote an <em>epitome</em> of the longer work."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "epitomize",
+        "pos": "v.",
+        "zh": "體現、是⋯⋯的典型"
+      },
+      {
+        "word": "epitomized",
+        "pos": "adj./v.",
+        "zh": "被體現的；體現了（過去式）"
       }
     ],
     "collocations": [
       {
         "en": "the epitome of",
-        "zh": "⋯⋯的典型"
+        "zh": "⋯⋯的典型 / 縮影"
+      },
+      {
+        "en": "epitomize a value",
+        "zh": "體現某種價值"
+      },
+      {
+        "en": "the very epitome of",
+        "zh": "最最典型的⋯⋯（加強語氣）"
+      },
+      {
+        "en": "epitomize success",
+        "zh": "體現成功"
       }
     ],
     "similar": [
       {
         "word": "embodiment",
         "pos": "n.",
-        "zh": "具體體現"
+        "zh": "具體體現",
+        "diff": "更強調「把某種特質化為實體」"
       },
       {
         "word": "quintessence",
         "pos": "n.",
-        "zh": "精髓",
+        "zh": "精髓、最典型",
         "diff": "更正式、文學性強"
+      },
+      {
+        "word": "paragon",
+        "pos": "n.",
+        "zh": "楷模、完美典範",
+        "diff": "paragon 強調道德上或品質上的完美典範"
       }
     ],
     "lookalikes": [
@@ -365,6 +649,12 @@
         "b": "episode",
         "zh": "典型 vs 集、插曲",
         "tip": "都是 epi- 開頭，但完全不同"
+      },
+      {
+        "a": "epitomize",
+        "b": "epitaph",
+        "zh": "體現 vs 墓誌銘",
+        "tip": "epitaph = 刻在墓碑上的悼念文字；都以 epi- 開頭但語義差距極大"
       }
     ]
   },
@@ -380,7 +670,16 @@
         "en": "極度混亂、無秩序的",
         "zh": "in a state of complete confusion or disorder",
         "examples": [
-          "The sprint planning was <em>chaotic</em> — no one agreed on priorities."
+          "The sprint planning was <em>chaotic</em> — no one agreed on priorities.",
+          "Startup environments can feel <em>chaotic</em> but also energizing."
+        ]
+      },
+      {
+        "pos": "adj",
+        "en": "（數學／物理）混沌的（指混沌理論）",
+        "zh": "relating to chaos theory — sensitive to initial conditions",
+        "examples": [
+          "The weather system is inherently <em>chaotic</em> and hard to predict."
         ]
       }
     ],
@@ -388,17 +687,35 @@
       {
         "word": "chaos",
         "pos": "n.",
-        "zh": "混亂"
+        "zh": "混亂、混沌"
+      },
+      {
+        "word": "chaotically",
+        "pos": "adv.",
+        "zh": "混亂地"
+      },
+      {
+        "word": "chaotic neutral",
+        "pos": "phr.",
+        "zh": "混沌中立（角色扮演遊戲術語，現常用於形容人）"
       }
     ],
     "collocations": [
       {
+        "en": "chaotic environment",
+        "zh": "混亂的環境"
+      },
+      {
         "en": "organized chaos",
-        "zh": "有組織的混亂"
+        "zh": "有組織的混亂（褒義）"
       },
       {
         "en": "descend into chaos",
         "zh": "陷入混亂"
+      },
+      {
+        "en": "chaotic schedule",
+        "zh": "一團亂的行程"
       }
     ],
     "similar": [
@@ -406,13 +723,19 @@
         "word": "turbulent",
         "pos": "adj.",
         "zh": "動盪的",
-        "diff": "更常形容局勢"
+        "diff": "turbulent 更常形容局勢；chaotic 強調秩序全無"
       },
       {
         "word": "disorganized",
         "pos": "adj.",
         "zh": "雜亂無章的",
-        "diff": "程度較輕"
+        "diff": "disorganized 較輕；chaotic 程度更強"
+      },
+      {
+        "word": "frantic",
+        "pos": "adj.",
+        "zh": "忙亂的、瘋狂的",
+        "diff": "frantic 強調因焦慮而忙亂；chaotic 強調秩序的崩潰"
       }
     ],
     "lookalikes": [
@@ -421,6 +744,12 @@
         "b": "exotic",
         "zh": "混亂的 vs 異國風情的",
         "tip": "字尾相同 -otic，但意思完全不同"
+      },
+      {
+        "a": "chaos",
+        "b": "chasm",
+        "zh": "混亂 vs 深淵、鴻溝",
+        "tip": "chasm = 巨大的裂縫或分歧，字首相近但意思不同"
       }
     ]
   },
@@ -433,11 +762,37 @@
     "meanings": [
       {
         "pos": "n",
-        "en": "比喻、隱喻（直接說某事「是」另一件事）",
+        "en": "比喻、隱喻（直接說某事「是」另一件事，不用 like 或 as）",
         "zh": "a figure of speech where one thing is described as another",
         "examples": [
-          "'This product is a leaky bucket' is a <em>metaphor</em> for high churn."
+          "'This product is a leaky bucket' is a <em>metaphor</em> for high churn.",
+          "Roadmaps are a <em>metaphor</em> for strategic direction, not a promise."
         ]
+      },
+      {
+        "pos": "n",
+        "en": "（比喻用法）象徵某事物的概念或意象",
+        "zh": "something used as a symbol for something else",
+        "examples": [
+          "The startup is a <em>metaphor</em> for the founder's own journey."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "metaphorical",
+        "pos": "adj.",
+        "zh": "比喻的、隱喻的"
+      },
+      {
+        "word": "metaphorically",
+        "pos": "adv.",
+        "zh": "比喻地"
+      },
+      {
+        "word": "metaphor",
+        "pos": "n.",
+        "zh": "隱喻"
       }
     ],
     "collocations": [
@@ -448,6 +803,14 @@
       {
         "en": "mixed metaphor",
         "zh": "混用比喻（誤用）"
+      },
+      {
+        "en": "extend the metaphor",
+        "zh": "延伸比喻"
+      },
+      {
+        "en": "speaking metaphorically",
+        "zh": "比喻地說"
       }
     ],
     "similar": [
@@ -460,7 +823,14 @@
       {
         "word": "analogy",
         "pos": "n.",
-        "zh": "類比"
+        "zh": "類比",
+        "diff": "analogy 是完整的比較說明；metaphor 是直接替換"
+      },
+      {
+        "word": "allegory",
+        "pos": "n.",
+        "zh": "寓言、象徵性敘事",
+        "diff": "allegory 是整篇故事都是比喻；metaphor 只是單一概念替換"
       }
     ],
     "lookalikes": [
@@ -468,7 +838,13 @@
         "a": "metaphor",
         "b": "metaphysics",
         "zh": "比喻 vs 形而上學",
-        "tip": "同樣 meta- 開頭，但完全不同領域"
+        "tip": "同樣 meta- 開頭（希臘文「超越」），但完全不同領域"
+      },
+      {
+        "a": "metaphorical",
+        "b": "literal",
+        "zh": "比喻的 vs 字面的",
+        "tip": "這兩個詞是反義詞，經常成對出現：literally vs metaphorically"
       }
     ]
   },
@@ -484,16 +860,35 @@
         "en": "荒野、未開發的自然地區",
         "zh": "a large natural area with no human habitation",
         "examples": [
-          "The team retreated to the <em>wilderness</em> for an offsite."
+          "The team retreated to the <em>wilderness</em> for an offsite.",
+          "Alaska is known for its vast <em>wilderness</em>."
         ]
       },
       {
         "pos": "n",
         "en": "（比喻）政治失勢期；迷茫期",
-        "zh": "a period of being out of favor",
+        "zh": "a period of being out of power or out of favor",
         "examples": [
-          "After the failed launch, the product team spent months in the <em>wilderness</em>."
+          "After the failed launch, the product team spent months in the <em>wilderness</em>.",
+          "The politician returned from years in the <em>wilderness</em>."
         ]
+      }
+    ],
+    "family": [
+      {
+        "word": "wild",
+        "pos": "adj./n.",
+        "zh": "野生的；荒野"
+      },
+      {
+        "word": "wildlife",
+        "pos": "n.",
+        "zh": "野生動物"
+      },
+      {
+        "word": "wildly",
+        "pos": "adv.",
+        "zh": "瘋狂地；大幅地"
       }
     ],
     "collocations": [
@@ -503,7 +898,15 @@
       },
       {
         "en": "voice in the wilderness",
-        "zh": "孤掌難鳴"
+        "zh": "曠野中的聲音（孤掌難鳴）"
+      },
+      {
+        "en": "wilderness area",
+        "zh": "自然保護區"
+      },
+      {
+        "en": "wander in the wilderness",
+        "zh": "在荒野中徘徊（比喻：迷失方向）"
       }
     ],
     "similar": [
@@ -512,14 +915,32 @@
         "pos": "n./adj.",
         "zh": "荒野；野生的",
         "diff": "wild 是形容詞；wilderness 是名詞"
+      },
+      {
+        "word": "outback",
+        "pos": "n.",
+        "zh": "（澳洲）內陸荒漠",
+        "diff": "特指澳洲地理"
+      },
+      {
+        "word": "hinterland",
+        "pos": "n.",
+        "zh": "內陸、腹地",
+        "diff": "hinterland 偏地理用語，指遠離中心的邊遠地區"
       }
     ],
     "lookalikes": [
       {
         "a": "wilderness",
         "b": "wildness",
-        "zh": "荒野 vs 野性",
+        "zh": "荒野 vs 野性、狂亂",
         "tip": "wildness 是 wild 的名詞形式；wilderness 特指無人荒野"
+      },
+      {
+        "a": "wilderness",
+        "b": "wildlife",
+        "zh": "荒野 vs 野生動物",
+        "tip": "wildlife = 野生動物（集合名詞）；wilderness = 荒野地區"
       }
     ]
   },
@@ -533,10 +954,36 @@
       {
         "pos": "n",
         "en": "（有目的的）探險、遠征行動",
-        "zh": "a journey made for a specific purpose",
+        "zh": "a journey made for a specific purpose, often exploration",
         "examples": [
-          "The team treated the product discovery as an <em>expedition</em>."
+          "The team treated the product discovery as an <em>expedition</em> into unknown user territory.",
+          "They organized an <em>expedition</em> to the Arctic."
         ]
+      },
+      {
+        "pos": "n",
+        "en": "（正式）迅速、效率",
+        "zh": "speed and efficiency",
+        "examples": [
+          "Please handle this matter with all due <em>expedition</em>."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "expedite",
+        "pos": "v.",
+        "zh": "加速處理、加快進程"
+      },
+      {
+        "word": "expeditious",
+        "pos": "adj.",
+        "zh": "迅速的、有效率的"
+      },
+      {
+        "word": "expeditionary",
+        "pos": "adj.",
+        "zh": "遠征的（如 expeditionary force 遠征軍）"
       }
     ],
     "collocations": [
@@ -545,8 +992,16 @@
         "zh": "進行探險"
       },
       {
+        "en": "expedition team",
+        "zh": "探險隊"
+      },
+      {
         "en": "scientific expedition",
         "zh": "科學考察"
+      },
+      {
+        "en": "lead an expedition",
+        "zh": "帶領一支探險隊"
       }
     ],
     "similar": [
@@ -554,13 +1009,19 @@
         "word": "journey",
         "pos": "n.",
         "zh": "旅程",
-        "diff": "journey 更廣泛"
+        "diff": "journey 更廣泛；expedition 強調有目的、有組織的探索"
       },
       {
         "word": "mission",
         "pos": "n.",
         "zh": "任務",
-        "diff": "更強調目標導向"
+        "diff": "mission 更強調目標導向"
+      },
+      {
+        "word": "quest",
+        "pos": "n.",
+        "zh": "探尋、追求",
+        "diff": "quest 帶有更強的文學或英雄主義色彩"
       }
     ],
     "lookalikes": [
@@ -568,7 +1029,13 @@
         "a": "expedition",
         "b": "expedite",
         "zh": "探險 vs 加速處理",
-        "tip": "expedite = 加快進程；同字根"
+        "tip": "expedite = 加快進程；同字根，都有「向前推進」的概念"
+      },
+      {
+        "a": "expeditious",
+        "b": "auspicious",
+        "zh": "迅速的 vs 吉祥的、吉兆的",
+        "tip": "auspicious = 吉利的，字尾相同 -icious 但意思完全不同"
       }
     ]
   },
@@ -582,9 +1049,18 @@
       {
         "pos": "n",
         "en": "禮貌的行為或態度",
-        "zh": "the quality of being respectful and considerate",
+        "zh": "the quality of being respectful and considerate in behavior",
         "examples": [
-          "Sometimes excessive <em>politeness</em> prevents honest feedback."
+          "In Japanese culture, <em>politeness</em> is deeply embedded in communication style.",
+          "Sometimes excessive <em>politeness</em> in meetings prevents honest feedback."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "（語言學）禮貌策略",
+        "zh": "in linguistics, strategies used to maintain social harmony",
+        "examples": [
+          "Using indirect language is a form of <em>politeness</em> in many cultures."
         ]
       }
     ],
@@ -595,9 +1071,19 @@
         "zh": "有禮貌的"
       },
       {
+        "word": "politely",
+        "pos": "adv.",
+        "zh": "有禮貌地"
+      },
+      {
         "word": "impolite",
         "pos": "adj.",
         "zh": "不禮貌的"
+      },
+      {
+        "word": "impoliteness",
+        "pos": "n.",
+        "zh": "不禮貌"
       }
     ],
     "collocations": [
@@ -608,6 +1094,14 @@
       {
         "en": "basic politeness",
         "zh": "基本禮貌"
+      },
+      {
+        "en": "social politeness",
+        "zh": "社交禮儀"
+      },
+      {
+        "en": "radical candor vs politeness",
+        "zh": "直接反饋 vs 表面客氣"
       }
     ],
     "similar": [
@@ -615,13 +1109,19 @@
         "word": "courtesy",
         "pos": "n.",
         "zh": "禮貌、禮節",
-        "diff": "更正式"
+        "diff": "courtesy 更正式、儀式感更強"
       },
       {
         "word": "manners",
         "pos": "n.",
         "zh": "禮儀、舉止",
-        "diff": "manners 指具體行為"
+        "diff": "manners 指具體行為；politeness 是整體特質"
+      },
+      {
+        "word": "tact",
+        "pos": "n.",
+        "zh": "圓融、得體",
+        "diff": "tact 強調說話得體、不傷人，比 politeness 更強調技巧"
       }
     ],
     "lookalikes": [
@@ -629,7 +1129,13 @@
         "a": "politeness",
         "b": "politics",
         "zh": "禮貌 vs 政治",
-        "tip": "都源自希臘文 polis（城邦）"
+        "tip": "polite 和 politics 都源自希臘文 polis（城邦），但意思早已分岔"
+      },
+      {
+        "a": "polite",
+        "b": "impolite",
+        "zh": "有禮貌的 vs 不禮貌的",
+        "tip": "im- 字首表示否定，是常見的反義構詞方式"
       }
     ]
   },
@@ -645,7 +1151,7 @@
         "en": "（疾病的）症狀、徵兆",
         "zh": "a sign of illness felt by the patient",
         "examples": [
-          "Common <em>symptoms</em> of burnout include fatigue."
+          "Common <em>symptoms</em> of burnout include fatigue and reduced performance."
         ]
       },
       {
@@ -653,8 +1159,26 @@
         "en": "（比喻）某問題的徵兆",
         "zh": "a sign that a larger problem exists",
         "examples": [
-          "High churn is a <em>symptom</em> of a deeper product-market fit issue."
+          "High churn is a <em>symptom</em> of a deeper product-market fit issue.",
+          "Poor communication is a <em>symptom</em>, not the root cause."
         ]
+      }
+    ],
+    "family": [
+      {
+        "word": "symptomatic",
+        "pos": "adj.",
+        "zh": "有症狀的；有徵兆的"
+      },
+      {
+        "word": "asymptomatic",
+        "pos": "adj.",
+        "zh": "無症狀的（a- = 沒有）"
+      },
+      {
+        "word": "symptom-free",
+        "pos": "adj.",
+        "zh": "無症狀的（口語說法）"
       }
     ],
     "collocations": [
@@ -665,6 +1189,14 @@
       {
         "en": "treat the symptoms",
         "zh": "治標（不治本）"
+      },
+      {
+        "en": "early symptoms",
+        "zh": "早期症狀"
+      },
+      {
+        "en": "a symptom of a larger problem",
+        "zh": "更大問題的表徵"
       }
     ],
     "similar": [
@@ -672,7 +1204,19 @@
         "word": "sign",
         "pos": "n.",
         "zh": "徵兆",
-        "diff": "sign 是醫生觀察的；symptom 是病人感受到的"
+        "diff": "醫學上 sign 是醫生觀察的客觀現象；symptom 是病人感受到的"
+      },
+      {
+        "word": "indicator",
+        "pos": "n.",
+        "zh": "指標、指示",
+        "diff": "更中性、廣泛；symptom 通常暗示有問題存在"
+      },
+      {
+        "word": "warning sign",
+        "pos": "phr.",
+        "zh": "警示徵兆",
+        "diff": "warning sign 更強調預警性質"
       }
     ],
     "lookalikes": [
@@ -680,7 +1224,13 @@
         "a": "symptom",
         "b": "syndrome",
         "zh": "症狀 vs 症候群",
-        "tip": "syndrome = 一組 symptoms 同時出現"
+        "tip": "syndrome = 一組 symptoms 同時出現的病症，如 burnout syndrome"
+      },
+      {
+        "a": "symptomatic",
+        "b": "asymptomatic",
+        "zh": "有症狀的 vs 無症狀的",
+        "tip": "a- 字首表示「沒有、相反」，COVID 期間這個詞大量出現在新聞中"
       }
     ]
   },
@@ -693,26 +1243,44 @@
     "meanings": [
       {
         "pos": "n",
-        "en": "課程綱要、全部課程內容",
-        "zh": "the subjects included in a course of study",
+        "en": "（學校或課程的）課程綱要、全部課程內容",
+        "zh": "the subjects and content included in a course of study",
         "examples": [
-          "The <em>curriculum</em> was redesigned to include more hands-on projects."
+          "The <em>curriculum</em> was redesigned to include more hands-on projects.",
+          "Our onboarding <em>curriculum</em> covers product vision, roadmap, and team norms."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "（比喻）一套有系統的學習內容",
+        "zh": "a structured set of things to learn",
+        "examples": [
+          "She built a <em>curriculum</em> for new PMs joining the team."
         ]
       }
     ],
     "family": [
       {
+        "word": "curricular",
+        "pos": "adj.",
+        "zh": "課程的"
+      },
+      {
         "word": "extracurricular",
         "pos": "adj.",
-        "zh": "課外的"
+        "zh": "課外的、非必修的"
       },
       {
         "word": "curriculum vitae",
         "pos": "phr.",
-        "zh": "CV、履歷"
+        "zh": "CV、履歷（正式用法）"
       }
     ],
     "collocations": [
+      {
+        "en": "design a curriculum",
+        "zh": "設計課程"
+      },
       {
         "en": "core curriculum",
         "zh": "核心課程"
@@ -720,6 +1288,10 @@
       {
         "en": "curriculum vitae (CV)",
         "zh": "個人履歷"
+      },
+      {
+        "en": "extracurricular activities",
+        "zh": "課外活動"
       }
     ],
     "similar": [
@@ -727,15 +1299,33 @@
         "word": "syllabus",
         "pos": "n.",
         "zh": "課程大綱",
-        "diff": "syllabus 是單一課程；curriculum 是整個學程"
+        "diff": "syllabus 是單一課程的大綱；curriculum 是整個學程的全部課程"
+      },
+      {
+        "word": "program",
+        "pos": "n.",
+        "zh": "課程、計劃",
+        "diff": "更廣泛，可指任何有系統的計畫"
+      },
+      {
+        "word": "course",
+        "pos": "n.",
+        "zh": "課程（單一）",
+        "diff": "course 是 curriculum 的組成單位"
       }
     ],
     "lookalikes": [
       {
         "a": "curriculum",
         "b": "curricula",
-        "zh": "單數 vs 複數（拉丁文）",
-        "tip": "正式複數是 curricula"
+        "zh": "單數 vs 複數（拉丁文複數）",
+        "tip": "curriculum 是拉丁文借詞，正式複數是 curricula，不是 curriculums"
+      },
+      {
+        "a": "curriculum",
+        "b": "curriculum vitae",
+        "zh": "課程 vs 履歷（CV）",
+        "tip": "curriculum vitae 字面意思是「人生的跑道」，就是你的履歷"
       }
     ]
   },
@@ -748,10 +1338,19 @@
     "meanings": [
       {
         "pos": "adj",
-        "en": "已具備所需工具、技能或資源的",
+        "en": "已具備所需工具、技能或資源的；有準備的",
         "zh": "having the necessary tools, skills, or resources",
         "examples": [
-          "Are you <em>equipped</em> to handle this level of ambiguity?"
+          "Are you <em>equipped</em> to handle this level of ambiguity as a PM?",
+          "The team is well-<em>equipped</em> to tackle the technical challenges ahead."
+        ]
+      },
+      {
+        "pos": "v",
+        "en": "equip 的過去式——為某人提供所需的工具或能力",
+        "zh": "past tense of equip: to provide with necessary tools or skills",
+        "examples": [
+          "The training <em>equipped</em> her with the skills to lead cross-functional teams."
         ]
       }
     ],
@@ -759,17 +1358,22 @@
       {
         "word": "equip",
         "pos": "v.",
-        "zh": "裝備"
+        "zh": "裝備、配備"
       },
       {
         "word": "equipment",
         "pos": "n.",
-        "zh": "設備"
+        "zh": "設備、裝備"
       },
       {
         "word": "well-equipped",
         "pos": "adj.",
         "zh": "裝備齊全的"
+      },
+      {
+        "word": "unequipped",
+        "pos": "adj.",
+        "zh": "未具備的、沒有準備的"
       }
     ],
     "collocations": [
@@ -780,6 +1384,14 @@
       {
         "en": "equipped with",
         "zh": "配備有⋯⋯"
+      },
+      {
+        "en": "equipped to handle",
+        "zh": "有能力應對"
+      },
+      {
+        "en": "fully equipped",
+        "zh": "全面裝備、完全準備好"
       }
     ],
     "similar": [
@@ -787,15 +1399,33 @@
         "word": "prepared",
         "pos": "adj.",
         "zh": "準備好的",
-        "diff": "prepared 強調心理準備；equipped 強調工具和能力"
+        "diff": "prepared 強調心理準備；equipped 強調工具或能力的配備"
+      },
+      {
+        "word": "armed with",
+        "pos": "phr.",
+        "zh": "武裝有⋯⋯",
+        "diff": "armed with 強調帶著某種優勢出發"
+      },
+      {
+        "word": "capable",
+        "pos": "adj.",
+        "zh": "有能力的",
+        "diff": "capable 強調本身能力；equipped 強調外部工具和資源到位"
       }
     ],
     "lookalikes": [
       {
         "a": "equipped",
         "b": "equip",
-        "zh": "過去式 vs 原形",
+        "zh": "過去式 / 形容詞 vs 原形動詞",
         "tip": "equip → equipped，雙 p 是常見拼字陷阱"
+      },
+      {
+        "a": "well-equipped",
+        "b": "well-prepared",
+        "zh": "設備齊全 vs 準備充分",
+        "tip": "well-equipped 強調有工具資源；well-prepared 強調有計劃心理準備，語意接近但出發點不同"
       }
     ]
   },
@@ -808,11 +1438,37 @@
     "meanings": [
       {
         "pos": "n",
-        "en": "物理上的摩擦力；（比喻）阻力、衝突",
-        "zh": "resistance; conflict or tension",
+        "en": "物理上的摩擦力",
+        "zh": "the resistance between two surfaces in contact",
         "examples": [
-          "There's too much <em>friction</em> in the checkout flow."
+          "Friction between the parts causes heat buildup."
         ]
+      },
+      {
+        "pos": "n",
+        "en": "（比喻）阻力、衝突、不順暢",
+        "zh": "conflict or resistance between people or in a process",
+        "examples": [
+          "There's too much <em>friction</em> in the checkout flow — users are dropping off.",
+          "Reduce <em>friction</em> between teams by aligning on goals."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "frictional",
+        "pos": "adj.",
+        "zh": "摩擦的"
+      },
+      {
+        "word": "frictionless",
+        "pos": "adj.",
+        "zh": "無摩擦的（UX 常用）"
+      },
+      {
+        "word": "friction-free",
+        "pos": "adj.",
+        "zh": "無阻力的（同 frictionless）"
       }
     ],
     "collocations": [
@@ -821,28 +1477,50 @@
         "zh": "減少阻力"
       },
       {
-        "en": "user friction",
-        "zh": "用戶體驗阻力（UX 術語）"
+        "en": "create friction",
+        "zh": "製造阻力"
+      },
+      {
+        "en": "internal friction",
+        "zh": "內部摩擦"
+      },
+      {
+        "en": "frictionless experience",
+        "zh": "無阻力的體驗（UX 術語）"
       }
     ],
     "similar": [
       {
         "word": "resistance",
         "pos": "n.",
-        "zh": "阻力"
+        "zh": "阻力",
+        "diff": "resistance 可指物理或心理阻力；friction 更強調接觸面的衝突"
       },
       {
         "word": "tension",
         "pos": "n.",
-        "zh": "張力、緊張關係"
+        "zh": "張力、緊張關係",
+        "diff": "tension 常指人際或情境的緊繃"
+      },
+      {
+        "word": "obstacle",
+        "pos": "n.",
+        "zh": "障礙",
+        "diff": "obstacle 是具體的障礙物；friction 是抽象的阻力感"
       }
     ],
     "lookalikes": [
       {
         "a": "friction",
         "b": "traction",
-        "zh": "摩擦阻力 vs 牽引力",
-        "tip": "traction = 獲得動力；friction = 阻礙進展，意思相反"
+        "zh": "摩擦阻力 vs 牽引力、進展",
+        "tip": "traction = 獲得動力和進展；friction = 阻礙進展，意思相反但字尾相同"
+      },
+      {
+        "a": "frictionless",
+        "b": "seamless",
+        "zh": "無摩擦的 vs 無縫的",
+        "tip": "frictionless 和 seamless 在 UX 語境中幾乎同義，都形容體驗流暢"
       }
     ]
   },
@@ -854,30 +1532,81 @@
     "hint": "划船",
     "meanings": [
       {
-        "pos": "n",
+        "pos": "n/v",
         "en": "划船（row 的動名詞）",
         "zh": "the activity of propelling a boat with oars",
         "examples": [
-          "She took up <em>rowing</em> as a form of cross-training."
+          "She took up <em>rowing</em> as a form of cross-training.",
+          "They went <em>rowing</em> on the lake every Sunday."
         ]
+      },
+      {
+        "pos": "n",
+        "en": "（英式口語）爭吵、爭論",
+        "zh": "(British informal) a noisy argument",
+        "examples": [
+          "There was a huge <em>rowing</em> between stakeholders over the roadmap direction."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "row",
+        "pos": "v./n.",
+        "zh": "划（船）；爭吵（英式）"
+      },
+      {
+        "word": "rower",
+        "pos": "n.",
+        "zh": "划船者"
+      },
+      {
+        "word": "rowboat",
+        "pos": "n.",
+        "zh": "划艇（美式）"
+      },
+      {
+        "word": "rowing machine",
+        "pos": "n.",
+        "zh": "划船機（健身器材）"
       }
     ],
     "collocations": [
       {
+        "en": "rowing team",
+        "zh": "划船隊"
+      },
+      {
         "en": "rowing machine",
-        "zh": "划船機"
+        "zh": "划船機（健身器材）"
       },
       {
         "en": "go rowing",
         "zh": "去划船"
+      },
+      {
+        "en": "competitive rowing",
+        "zh": "競技划船"
       }
     ],
     "similar": [
       {
         "word": "paddling",
         "pos": "n.",
-        "zh": "划槳",
-        "diff": "rowing 用雙槳；paddling 用單槳"
+        "zh": "划槳（用槳）",
+        "diff": "rowing 用雙槳固定在船上；paddling 用手持單槳"
+      },
+      {
+        "word": "sculling",
+        "pos": "n.",
+        "zh": "賽艇（競技划船）",
+        "diff": "sculling 是競技用法，每隻手各持一支槳"
+      },
+      {
+        "word": "canoeing",
+        "pos": "n.",
+        "zh": "獨木舟",
+        "diff": "canoeing 是坐在獨木舟裡划行"
       }
     ],
     "lookalikes": [
@@ -885,7 +1614,13 @@
         "a": "rowing",
         "b": "roaming",
         "zh": "划船 vs 漫遊",
-        "tip": "roam = 漫遊；兩者發音和長相都有點像"
+        "tip": "roam = 漫遊、流浪；rowing 和 roaming 發音和長相都有點像但意思完全不同"
+      },
+      {
+        "a": "rowing",
+        "b": "mowing",
+        "zh": "划船 vs 割草",
+        "tip": "mow = 割草；mowing 是割草的動名詞，字尾相同 -owing"
       }
     ]
   },
@@ -899,10 +1634,36 @@
       {
         "pos": "n",
         "en": "颶風（大西洋地區的熱帶氣旋）",
-        "zh": "a tropical storm with very strong winds",
+        "zh": "a tropical storm with very strong winds, occurring in the Atlantic",
         "examples": [
-          "The project hit us like a <em>hurricane</em>."
+          "The project hit us like a <em>hurricane</em> — everything changed overnight.",
+          "Hurricane season runs from June to November in the Atlantic."
         ]
+      },
+      {
+        "pos": "n",
+        "en": "（比喻）來勢洶洶的事物",
+        "zh": "something that arrives with great force and disruption",
+        "examples": [
+          "She entered the meeting like a <em>hurricane</em>, reshaping the entire agenda."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "hurricane",
+        "pos": "n.",
+        "zh": "颶風（無變形，但有衍生詞）"
+      },
+      {
+        "word": "hurricane-force",
+        "pos": "adj.",
+        "zh": "颶風等級的"
+      },
+      {
+        "word": "post-hurricane",
+        "pos": "adj.",
+        "zh": "颶風後的"
       }
     ],
     "collocations": [
@@ -911,20 +1672,36 @@
         "zh": "颶風季節"
       },
       {
+        "en": "hurricane warning",
+        "zh": "颶風警報"
+      },
+      {
         "en": "weather a hurricane",
-        "zh": "撐過危機（比喻）"
+        "zh": "度過颶風（比喻：撐過危機）"
+      },
+      {
+        "en": "eye of the hurricane",
+        "zh": "颶風眼（比喻：危機中心的平靜）"
       }
     ],
     "similar": [
       {
         "word": "typhoon",
         "pos": "n.",
-        "zh": "颱風（西太平洋）"
+        "zh": "颱風（西太平洋）",
+        "diff": "同類風暴，颱風在西太平洋，颶風在大西洋"
       },
       {
         "word": "cyclone",
         "pos": "n.",
-        "zh": "氣旋（印度洋）"
+        "zh": "氣旋（印度洋）",
+        "diff": "印度洋和南半球的說法"
+      },
+      {
+        "word": "storm",
+        "pos": "n.",
+        "zh": "暴風雨",
+        "diff": "更廣泛，hurricane 是 storm 的一種極端形式"
       }
     ],
     "lookalikes": [
@@ -932,7 +1709,13 @@
         "a": "hurricane",
         "b": "typhoon",
         "zh": "颶風 vs 颱風",
-        "tip": "都是熱帶氣旋，只是地區不同叫法"
+        "tip": "都是熱帶氣旋，只是地區不同叫法：大西洋叫 hurricane，西太平洋叫 typhoon"
+      },
+      {
+        "a": "hurricane",
+        "b": "hurricane lamp",
+        "zh": "颶風 vs 颶風燈",
+        "tip": "hurricane lamp = 防風燈，設計上能在颶風中不被吹熄"
       }
     ]
   },
@@ -944,26 +1727,49 @@
     "hint": "超越、不止於此",
     "meanings": [
       {
-        "pos": "prep",
-        "en": "在⋯⋯之外、超越",
+        "pos": "prep/adv",
+        "en": "在⋯⋯之外、超越（空間、時間、範圍）",
         "zh": "further than; more than",
         "examples": [
-          "Our goals go <em>beyond</em> just hitting KPIs."
+          "Our goals go <em>beyond</em> just hitting KPIs.",
+          "The impact extends <em>beyond</em> what we initially expected."
         ]
       },
       {
         "pos": "phr",
         "en": "move beyond = 超越過去、向前走",
-        "zh": "to progress past something",
+        "zh": "to progress past something; to no longer be limited by something",
         "examples": [
-          "We need to <em>move beyond</em> our reliance on manual processes."
+          "It's time to <em>move beyond</em> our reliance on manual processes.",
+          "We need to <em>move beyond</em> the feature-factory mindset."
         ]
+      }
+    ],
+    "family": [
+      {
+        "word": "beyond",
+        "pos": "prep./adv./n.",
+        "zh": "超越（可作名詞：the great beyond = 來世）"
+      },
+      {
+        "word": "go beyond",
+        "pos": "phr. v.",
+        "zh": "超出範圍"
+      },
+      {
+        "word": "move beyond",
+        "pos": "phr. v.",
+        "zh": "超越過去、向前"
       }
     ],
     "collocations": [
       {
         "en": "move beyond",
-        "zh": "超越"
+        "zh": "超越、跨越"
+      },
+      {
+        "en": "go beyond",
+        "zh": "超出範圍"
       },
       {
         "en": "beyond expectations",
@@ -972,6 +1778,10 @@
       {
         "en": "beyond repair",
         "zh": "無法修復"
+      },
+      {
+        "en": "beyond reasonable doubt",
+        "zh": "排除合理懷疑（法律用語）"
       }
     ],
     "similar": [
@@ -980,6 +1790,18 @@
         "pos": "v.",
         "zh": "超越",
         "diff": "更正式、帶有哲學意涵"
+      },
+      {
+        "word": "surpass",
+        "pos": "v.",
+        "zh": "超越、勝過",
+        "diff": "強調在數量或品質上超越"
+      },
+      {
+        "word": "exceed",
+        "pos": "v.",
+        "zh": "超過",
+        "diff": "exceed 偏數字或範圍上的超過；beyond 更抽象"
       }
     ],
     "lookalikes": [
@@ -987,7 +1809,13 @@
         "a": "beyond",
         "b": "beneath",
         "zh": "超越 vs 在⋯⋯之下",
-        "tip": "beneath = 在下方；beyond = 超越"
+        "tip": "beneath = 在下方；beyond = 在外面、超越，方向完全不同"
+      },
+      {
+        "a": "beyond",
+        "b": "beside",
+        "zh": "超越 vs 在⋯⋯旁邊",
+        "tip": "beside = 在旁邊；besides = 除此之外，這三個字都長很像"
       }
     ]
   },
@@ -1001,24 +1829,52 @@
       {
         "pos": "n",
         "en": "大拇指",
-        "zh": "the short thick finger",
+        "zh": "the short thick finger on the hand",
         "examples": [
-          "He gave a <em>thumbs up</em> after the demo."
+          "He gave a <em>thumbs up</em> after the demo.",
+          "She hurt her <em>thumb</em> while moving furniture."
         ]
       },
       {
         "pos": "v",
-        "en": "用拇指翻閱",
-        "zh": "to flip through pages",
+        "en": "用拇指翻閱；搭便車",
+        "zh": "to flip through pages; or to hitchhike",
         "examples": [
-          "She <em>thumbed</em> through the research report."
+          "She <em>thumbed</em> through the research report.",
+          "He <em>thumbed</em> a ride to the conference."
         ]
+      }
+    ],
+    "family": [
+      {
+        "word": "thumbnail",
+        "pos": "n.",
+        "zh": "縮圖；指甲蓋大小的"
+      },
+      {
+        "word": "thumbscrew",
+        "pos": "n.",
+        "zh": "拇指螺絲（歷史酷刑工具）"
+      },
+      {
+        "word": "thumbs-up",
+        "pos": "n.",
+        "zh": "讚、同意"
+      },
+      {
+        "word": "all thumbs",
+        "pos": "phr.",
+        "zh": "笨手笨腳的"
       }
     ],
     "collocations": [
       {
-        "en": "thumbs up / down",
-        "zh": "讚 / 踩"
+        "en": "thumbs up / thumbs down",
+        "zh": "讚 / 踩（同意 / 不同意）"
+      },
+      {
+        "en": "thumb through",
+        "zh": "快速翻閱"
       },
       {
         "en": "rule of thumb",
@@ -1027,22 +1883,44 @@
       {
         "en": "under someone's thumb",
         "zh": "受人控制"
+      },
+      {
+        "en": "thumbnail sketch",
+        "zh": "縮圖；概略描述"
       }
     ],
     "similar": [
+      {
+        "word": "finger",
+        "pos": "n.",
+        "zh": "手指（泛指）",
+        "diff": "thumb 專指大拇指；finger 是其他四指"
+      },
       {
         "word": "scroll",
         "pos": "v.",
         "zh": "滾動（數位）",
         "diff": "scroll 是數位時代的 thumb through"
+      },
+      {
+        "word": "browse",
+        "pos": "v.",
+        "zh": "瀏覽",
+        "diff": "browse 更廣泛，可指網路或書架瀏覽"
       }
     ],
     "lookalikes": [
       {
         "a": "thumb",
         "b": "thump",
-        "zh": "大拇指 vs 重擊",
-        "tip": "thump = 用力打；多一個 p，意思差很多"
+        "zh": "大拇指 vs 重擊、砰地一聲",
+        "tip": "thump = 用力打或砰的聲音；多一個 p，意思差很多"
+      },
+      {
+        "a": "thumbnail",
+        "b": "thumbnail sketch",
+        "zh": "縮圖 vs 概略描述",
+        "tip": "thumbnail sketch 字面是「指甲大小的素描」，比喻對某事的簡短描述"
       }
     ]
   },
@@ -1054,11 +1932,20 @@
     "hint": "放大的、增強的",
     "meanings": [
       {
-        "pos": "adj",
-        "en": "被放大的、增強的",
+        "pos": "adj/v",
+        "en": "被放大的、增強的（amplify 的過去式）",
         "zh": "made larger, louder, or stronger",
         "examples": [
-          "The problem was <em>amplified</em> by poor communication."
+          "The problem was <em>amplified</em> by poor communication across teams.",
+          "Social media <em>amplified</em> the product feedback loop."
+        ]
+      },
+      {
+        "pos": "v",
+        "en": "詳述、進一步說明（正式用法）",
+        "zh": "to expand on or add detail to something said",
+        "examples": [
+          "Could you <em>amplify</em> on what you mean by 'product-led growth'?"
         ]
       }
     ],
@@ -1066,18 +1953,40 @@
       {
         "word": "amplify",
         "pos": "v.",
-        "zh": "放大"
+        "zh": "放大、擴大"
       },
       {
         "word": "amplifier",
         "pos": "n.",
-        "zh": "擴大器"
+        "zh": "擴大器、放大器"
+      },
+      {
+        "word": "amplitude",
+        "pos": "n.",
+        "zh": "振幅；幅度"
+      },
+      {
+        "word": "amplification",
+        "pos": "n.",
+        "zh": "放大、擴大（名詞）"
       }
     ],
     "collocations": [
       {
         "en": "amplify the impact",
         "zh": "放大影響力"
+      },
+      {
+        "en": "amplify a signal",
+        "zh": "放大信號"
+      },
+      {
+        "en": "amplify a message",
+        "zh": "擴大信息傳播"
+      },
+      {
+        "en": "amplify the effect",
+        "zh": "放大效果"
       }
     ],
     "similar": [
@@ -1085,15 +1994,33 @@
         "word": "magnify",
         "pos": "v.",
         "zh": "放大",
-        "diff": "magnify 偏視覺放大；amplify 偏聲音或影響力"
+        "diff": "magnify 更偏向視覺放大；amplify 偏向聲音或影響力"
+      },
+      {
+        "word": "intensify",
+        "pos": "v.",
+        "zh": "加強、增強",
+        "diff": "intensify 強調強度增加；amplify 強調規模或聲量擴大"
+      },
+      {
+        "word": "boost",
+        "pos": "v.",
+        "zh": "提升、增強",
+        "diff": "boost 更口語，強調快速提升"
       }
     ],
     "lookalikes": [
       {
         "a": "amplified",
         "b": "amplifier",
-        "zh": "形容詞 vs 名詞",
-        "tip": "amplifier 是做放大這件事的裝置"
+        "zh": "過去式 / 形容詞 vs 放大器（名詞）",
+        "tip": "amplifier 是做放大這件事的裝置或人"
+      },
+      {
+        "a": "amplitude",
+        "b": "attitude",
+        "zh": "振幅 vs 態度",
+        "tip": "amplitude 是物理學術語指波的幅度；attitude = 態度，字尾相似"
       }
     ]
   },
@@ -1106,34 +2033,75 @@
     "meanings": [
       {
         "pos": "adj",
-        "en": "（海浪）波濤起伏的；（比喻）不流暢的",
-        "zh": "having small waves; lacking smooth flow",
+        "en": "（海浪、水面）波濤起伏的",
+        "zh": "having many small waves; rough",
         "examples": [
-          "The user journey is too <em>choppy</em>."
+          "The waters were too <em>choppy</em> for kayaking."
         ]
+      },
+      {
+        "pos": "adj",
+        "en": "（比喻）不流暢的、斷斷續續的",
+        "zh": "lacking smooth flow; jerky or disjointed",
+        "examples": [
+          "The presentation felt <em>choppy</em> — the transitions between slides were abrupt.",
+          "The user journey is too <em>choppy</em>; we need smoother onboarding steps."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "chop",
+        "pos": "v./n.",
+        "zh": "砍、切；砍切聲"
+      },
+      {
+        "word": "chopper",
+        "pos": "n.",
+        "zh": "斧頭；直升機（口語）"
+      },
+      {
+        "word": "choppiness",
+        "pos": "n.",
+        "zh": "波濤起伏的狀態；不流暢感"
       }
     ],
     "collocations": [
       {
         "en": "choppy waters",
-        "zh": "波濤洶湧（比喻困難時期）"
+        "zh": "波濤洶湧的水面（也比喻困難時期）"
+      },
+      {
+        "en": "choppy writing",
+        "zh": "不流暢的文字"
       },
       {
         "en": "choppy experience",
         "zh": "體驗不順暢"
+      },
+      {
+        "en": "choppy market",
+        "zh": "震盪市場（金融術語）"
       }
     ],
     "similar": [
       {
         "word": "rough",
         "pos": "adj.",
-        "zh": "粗糙的"
+        "zh": "粗糙的、波濤洶湧的",
+        "diff": "rough 更廣泛；choppy 強調短促起伏的感覺"
       },
       {
         "word": "turbulent",
         "pos": "adj.",
         "zh": "動盪的",
-        "diff": "turbulent 更嚴重"
+        "diff": "turbulent 更嚴重，choppy 是小幅波動"
+      },
+      {
+        "word": "jagged",
+        "pos": "adj.",
+        "zh": "鋸齒狀的、不規則的",
+        "diff": "jagged 強調形狀上的不規則；choppy 強調節奏或流暢度"
       }
     ],
     "lookalikes": [
@@ -1141,7 +2109,13 @@
         "a": "choppy",
         "b": "chop",
         "zh": "形容詞 vs 動詞：砍切",
-        "tip": "chop = 砍切；choppy = 被砍切後的效果"
+        "tip": "chop = 砍、切；choppy = 被砍切後的效果（波浪或節奏感）"
+      },
+      {
+        "a": "choppy",
+        "b": "soppy",
+        "zh": "不流暢的 vs 感情用事的",
+        "tip": "soppy = 過於感情用事的（英式口語）；字尾 -oppy 相同但意思完全不同"
       }
     ]
   },
@@ -1155,10 +2129,43 @@
       {
         "pos": "n",
         "en": "浮潛用的呼吸管",
-        "zh": "a breathing tube used for swimming near the surface",
+        "zh": "a breathing tube used for swimming just below the surface",
         "examples": [
-          "She packed her <em>snorkel</em> for the Hawaii trip."
+          "She packed her <em>snorkel</em> and fins for the Hawaii trip."
         ]
+      },
+      {
+        "pos": "v",
+        "en": "進行浮潛",
+        "zh": "to swim using a snorkel",
+        "examples": [
+          "We went <em>snorkeling</em> in the Great Barrier Reef."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "（軍事）潛水艇通氣管",
+        "zh": "a device allowing a submarine to run its engine underwater",
+        "examples": [
+          "The submarine used its <em>snorkel</em> to recharge batteries without surfacing."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "snorkeling",
+        "pos": "n./v.",
+        "zh": "浮潛（動名詞）"
+      },
+      {
+        "word": "snorkeler",
+        "pos": "n.",
+        "zh": "浮潛者"
+      },
+      {
+        "word": "snorkel mask",
+        "pos": "n.",
+        "zh": "浮潛面罩"
       }
     ],
     "collocations": [
@@ -1169,14 +2176,34 @@
       {
         "en": "snorkel gear",
         "zh": "浮潛裝備"
+      },
+      {
+        "en": "snorkel mask",
+        "zh": "浮潛面罩"
+      },
+      {
+        "en": "snorkel tube",
+        "zh": "呼吸管"
       }
     ],
     "similar": [
       {
         "word": "scuba dive",
         "pos": "v. phr.",
-        "zh": "水肺潛水",
-        "diff": "snorkel 在水面；scuba 可潛入深水"
+        "zh": "水肺潛水（潛更深）",
+        "diff": "snorkel 在水面附近；scuba 可潛入深水"
+      },
+      {
+        "word": "swim",
+        "pos": "v.",
+        "zh": "游泳",
+        "diff": "swim 是泛指；snorkel 特指用呼吸管游"
+      },
+      {
+        "word": "freedive",
+        "pos": "v.",
+        "zh": "自由潛水（憋氣）",
+        "diff": "freedive 靠憋氣，不使用任何輔助裝置"
       }
     ],
     "lookalikes": [
@@ -1184,7 +2211,13 @@
         "a": "snorkel",
         "b": "snore",
         "zh": "浮潛 vs 打鼾",
-        "tip": "snore = 打鼾；字形相近"
+        "tip": "snore = 打鼾；snorkel 的水中呼吸聲讓人聯想到打鼾聲"
+      },
+      {
+        "a": "snorkel",
+        "b": "snout",
+        "zh": "呼吸管 vs 動物的鼻口部",
+        "tip": "snout = 動物的鼻子和嘴部；snorkel 的外形有點像動物的 snout"
       }
     ]
   },
@@ -1197,11 +2230,44 @@
     "meanings": [
       {
         "pos": "n",
-        "en": "水肺潛水（Self-Contained Underwater Breathing Apparatus）",
-        "zh": "diving using a self-contained underwater breathing apparatus",
+        "en": "水肺潛水裝備（縮寫：Self-Contained Underwater Breathing Apparatus）",
+        "zh": "self-contained underwater breathing apparatus",
         "examples": [
           "He got his <em>scuba</em> certification last summer."
         ]
+      },
+      {
+        "pos": "v",
+        "en": "進行水肺潛水",
+        "zh": "to dive using scuba equipment",
+        "examples": [
+          "We went <em>scuba diving</em> in the Maldives."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "水肺潛水這項活動",
+        "zh": "the activity of diving with scuba equipment",
+        "examples": [
+          "<em>Scuba</em> allows divers to stay underwater for extended periods."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "scuba diving",
+        "pos": "n.",
+        "zh": "水肺潛水"
+      },
+      {
+        "word": "scuba diver",
+        "pos": "n.",
+        "zh": "水肺潛水員"
+      },
+      {
+        "word": "scuba gear",
+        "pos": "n.",
+        "zh": "潛水裝備"
       }
     ],
     "collocations": [
@@ -1210,15 +2276,36 @@
         "zh": "水肺潛水"
       },
       {
+        "en": "scuba gear",
+        "zh": "潛水裝備"
+      },
+      {
         "en": "scuba certification",
         "zh": "潛水執照"
+      },
+      {
+        "en": "go scuba diving",
+        "zh": "去水肺潛水"
       }
     ],
     "similar": [
       {
+        "word": "snorkeling",
+        "pos": "n.",
+        "zh": "浮潛",
+        "diff": "snorkeling 在水面；scuba 可潛入更深"
+      },
+      {
         "word": "freediving",
         "pos": "n.",
-        "zh": "自由潛水（不用氧氣瓶）"
+        "zh": "自由潛水（不用氧氣瓶）",
+        "diff": "freediving 靠憋氣；scuba 靠氧氣瓶"
+      },
+      {
+        "word": "deep-sea diving",
+        "pos": "n.",
+        "zh": "深海潛水",
+        "diff": "deep-sea diving 特指極深的潛水，scuba 是廣義的器材式潛水"
       }
     ],
     "lookalikes": [
@@ -1226,7 +2313,13 @@
         "a": "scuba",
         "b": "samba",
         "zh": "水肺潛水 vs 森巴舞",
-        "tip": "只差中間一個字母！"
+        "tip": "只差中間一個字母，不要搞混了！"
+      },
+      {
+        "a": "scuba",
+        "b": "scrub",
+        "zh": "水肺潛水 vs 刷洗；取消",
+        "tip": "scrub = 用力刷洗，也可指取消計畫；字母順序稍有不同"
       }
     ]
   },
@@ -1240,10 +2333,36 @@
       {
         "pos": "n",
         "en": "犯罪者、罪魁禍首；（比喻）問題的主因",
-        "zh": "a person or thing responsible for a problem",
+        "zh": "a person or thing responsible for a problem or offense",
         "examples": [
-          "The real <em>culprit</em> behind the bug was an unhandled edge case."
+          "The real <em>culprit</em> behind the bug was an unhandled edge case.",
+          "Slow page load was identified as the <em>culprit</em> for high bounce rates."
         ]
+      },
+      {
+        "pos": "n",
+        "en": "（法律古語）待受審的被告",
+        "zh": "(archaic legal) a person accused of a crime",
+        "examples": [
+          "The <em>culprit</em> was brought before the court."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "culpable",
+        "pos": "adj.",
+        "zh": "有過失的、應受責備的"
+      },
+      {
+        "word": "culpability",
+        "pos": "n.",
+        "zh": "過失、該受責備的程度"
+      },
+      {
+        "word": "exculpate",
+        "pos": "v.",
+        "zh": "使無罪、開脫"
       }
     ],
     "collocations": [
@@ -1252,8 +2371,16 @@
         "zh": "找出罪魁禍首"
       },
       {
+        "en": "the main culprit",
+        "zh": "主要原因"
+      },
+      {
         "en": "the likely culprit",
         "zh": "最可能的原因"
+      },
+      {
+        "en": "the real culprit",
+        "zh": "真正的罪魁禍首"
       }
     ],
     "similar": [
@@ -1261,13 +2388,19 @@
         "word": "perpetrator",
         "pos": "n.",
         "zh": "犯罪者（正式）",
-        "diff": "更正式法律用語"
+        "diff": "perpetrator 更正式法律用語；culprit 更口語且可用於比喻"
       },
       {
         "word": "cause",
         "pos": "n.",
         "zh": "原因",
-        "diff": "中性詞；culprit 帶有「應受責怪」的意涵"
+        "diff": "cause 是中性詞；culprit 帶有「應受責怪」的意涵"
+      },
+      {
+        "word": "offender",
+        "pos": "n.",
+        "zh": "違規者、犯罪者",
+        "diff": "offender 強調違反規則；culprit 更強調「是誰的錯」"
       }
     ],
     "lookalikes": [
@@ -1275,7 +2408,13 @@
         "a": "culprit",
         "b": "culture",
         "zh": "罪犯 vs 文化",
-        "tip": "開頭 cul- 相同，但完全不同"
+        "tip": "開頭 cul- 相同，但完全不同的詞"
+      },
+      {
+        "a": "culpable",
+        "b": "capable",
+        "zh": "有過失的 vs 有能力的",
+        "tip": "culpable = 應受責備；capable = 有能力；字形相似但意思相反"
       }
     ]
   },
@@ -1288,19 +2427,38 @@
     "meanings": [
       {
         "pos": "n",
-        "en": "授權、使命；任務授權",
-        "zh": "an official order or authorization",
+        "en": "授權、使命；（政府或機構的）任務授權",
+        "zh": "an official order or authorization to do something",
         "examples": [
-          "Our team's <em>mandate</em> is to improve retention by 20%."
+          "Our team's <em>mandate</em> is to improve retention by 20%.",
+          "The new CEO has a clear <em>mandate</em> to transform the culture."
         ]
       },
       {
         "pos": "v",
-        "en": "強制規定",
-        "zh": "to officially require something",
+        "en": "強制規定、授權要求",
+        "zh": "to officially require or authorize something",
         "examples": [
-          "The board <em>mandated</em> a full product audit."
+          "The board <em>mandated</em> a full product audit.",
+          "The policy <em>mandates</em> quarterly reviews."
         ]
+      }
+    ],
+    "family": [
+      {
+        "word": "mandatory",
+        "pos": "adj.",
+        "zh": "強制的、必須的"
+      },
+      {
+        "word": "mandated",
+        "pos": "adj./v.",
+        "zh": "被授權的；規定了（過去式）"
+      },
+      {
+        "word": "mandator",
+        "pos": "n.",
+        "zh": "授權者（法律用語）"
       }
     ],
     "collocations": [
@@ -1309,8 +2467,16 @@
         "zh": "有授權去做⋯⋯"
       },
       {
+        "en": "mandate change",
+        "zh": "強制推動改變"
+      },
+      {
         "en": "clear mandate",
         "zh": "明確的使命"
+      },
+      {
+        "en": "electoral mandate",
+        "zh": "選舉授權"
       }
     ],
     "similar": [
@@ -1318,7 +2484,19 @@
         "word": "directive",
         "pos": "n.",
         "zh": "指令",
-        "diff": "從上而下的命令；mandate 帶有授權和責任"
+        "diff": "directive 是從上而下的命令；mandate 帶有授權和責任的意涵"
+      },
+      {
+        "word": "authority",
+        "pos": "n.",
+        "zh": "權威、授權",
+        "diff": "authority 是抽象的；mandate 是具體的任務委託"
+      },
+      {
+        "word": "commission",
+        "pos": "n./v.",
+        "zh": "授權、委托",
+        "diff": "commission 更強調委託某人做某件具體的事"
       }
     ],
     "lookalikes": [
@@ -1326,7 +2504,13 @@
         "a": "mandate",
         "b": "mandatory",
         "zh": "名詞：授權 vs 形容詞：強制的",
-        "tip": "mandatory = 強制的（形容詞）"
+        "tip": "mandatory = 強制的（形容詞）；mandate = 授權 / 強制規定（名詞 / 動詞）"
+      },
+      {
+        "a": "mandate",
+        "b": "mantle",
+        "zh": "授權 vs 責任；地函",
+        "tip": "mantle = 一件外套，也比喻責任或角色（take on the mantle of）；字形和 mandate 有點像"
       }
     ]
   },
@@ -1339,11 +2523,43 @@
     "meanings": [
       {
         "pos": "n",
-        "en": "動物的角；（車子的）喇叭；（音樂的）號角",
-        "zh": "a hard growth on an animal; a warning device; a musical instrument",
+        "en": "動物的角",
+        "zh": "a hard pointed growth on the head of an animal",
         "examples": [
-          "He honked the <em>horn</em> in traffic."
+          "The bull lowered its <em>horn</em> and charged.",
+          "Rhinoceros <em>horns</em> are made of keratin, not bone."
         ]
+      },
+      {
+        "pos": "n",
+        "en": "（車子的）喇叭；（音樂的）號角、管樂器",
+        "zh": "a warning device on a vehicle; or a brass musical instrument",
+        "examples": [
+          "He honked the <em>horn</em> in traffic.",
+          "She plays the French <em>horn</em> in the orchestra."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "horned",
+        "pos": "adj.",
+        "zh": "有角的"
+      },
+      {
+        "word": "hornless",
+        "pos": "adj.",
+        "zh": "無角的"
+      },
+      {
+        "word": "French horn",
+        "pos": "n.",
+        "zh": "法國號（樂器）"
+      },
+      {
+        "word": "foghorn",
+        "pos": "n.",
+        "zh": "霧笛（大聲的警報聲）"
       }
     ],
     "collocations": [
@@ -1352,20 +2568,40 @@
         "zh": "按喇叭"
       },
       {
+        "en": "French horn",
+        "zh": "法國號"
+      },
+      {
         "en": "blow your own horn",
-        "zh": "自吹自擂"
+        "zh": "自吹自擂（美式）"
       },
       {
         "en": "lock horns",
-        "zh": "起衝突"
+        "zh": "起衝突、正面交鋒"
+      },
+      {
+        "en": "on the horns of a dilemma",
+        "zh": "進退兩難（慣用語）"
       }
     ],
     "similar": [
       {
+        "word": "alarm",
+        "pos": "n.",
+        "zh": "警報",
+        "diff": "alarm 更廣泛；horn 特指發出號聲的裝置"
+      },
+      {
         "word": "siren",
         "pos": "n.",
         "zh": "警笛",
-        "diff": "用於緊急車輛；horn 是一般喇叭"
+        "diff": "siren 用於緊急車輛；horn 是一般喇叭"
+      },
+      {
+        "word": "antler",
+        "pos": "n.",
+        "zh": "鹿角",
+        "diff": "antler 專指鹿的分叉角；horn 是實心的角（牛、犀牛等）"
       }
     ],
     "lookalikes": [
@@ -1373,7 +2609,13 @@
         "a": "horn",
         "b": "corn",
         "zh": "角 / 喇叭 vs 玉米",
-        "tip": "只差一個字母！"
+        "tip": "只差一個字母，發音也很像，注意區分！"
+      },
+      {
+        "a": "foghorn",
+        "b": "fog horn",
+        "zh": "兩種寫法都有",
+        "tip": "foghorn 是大聲的警報，也比喻說話聲音非常大的人"
       }
     ]
   },
@@ -1387,21 +2629,46 @@
       {
         "pos": "v",
         "en": "（鳥或飛機）俯衝、急降",
-        "zh": "to move rapidly downward",
+        "zh": "to move rapidly downward through the air",
         "examples": [
-          "The eagle <em>swooped</em> down to catch its prey."
+          "The eagle <em>swooped</em> down to catch its prey.",
+          "The helicopter <em>swooped</em> in for a rescue."
+        ]
+      },
+      {
+        "pos": "v",
+        "en": "突然出現並奪取或介入",
+        "zh": "to arrive suddenly and take or do something",
+        "examples": [
+          "A competitor <em>swooped</em> in and acquired the startup we were eyeing."
         ]
       },
       {
         "pos": "phr",
         "en": "in one fell swoop = 一舉、一次搞定",
-        "zh": "all at once",
+        "zh": "all at once; with a single decisive action",
         "examples": [
           "We fixed three bugs in one fell <em>swoop</em>."
         ]
       }
     ],
+    "family": [
+      {
+        "word": "swoop",
+        "pos": "v./n.",
+        "zh": "俯衝（動詞兼名詞）"
+      },
+      {
+        "word": "swooping",
+        "pos": "adj./v.",
+        "zh": "俯衝的；正在俯衝"
+      }
+    ],
     "collocations": [
+      {
+        "en": "swoop down on",
+        "zh": "俯衝攻擊"
+      },
       {
         "en": "in one fell swoop",
         "zh": "一舉、一次搞定"
@@ -1409,22 +2676,44 @@
       {
         "en": "swoop in",
         "zh": "突然出現並介入"
+      },
+      {
+        "en": "swoop up",
+        "zh": "俯衝後帶走"
       }
     ],
     "similar": [
       {
         "word": "dive",
         "pos": "v.",
-        "zh": "俯衝",
+        "zh": "俯衝、潛入",
         "diff": "dive 更廣泛；swoop 強調從上方急速俯衝"
+      },
+      {
+        "word": "descend",
+        "pos": "v.",
+        "zh": "下降",
+        "diff": "descend 更緩慢、正式"
+      },
+      {
+        "word": "plunge",
+        "pos": "v.",
+        "zh": "猛然投入、急速下降",
+        "diff": "plunge 更強調力道和速度，常帶有衝入的意涵"
       }
     ],
     "lookalikes": [
       {
         "a": "swoop",
         "b": "sweep",
-        "zh": "俯衝 vs 掃過",
-        "tip": "sweep = 橫向掃過；swoop = 由上往下衝擊"
+        "zh": "俯衝 vs 掃過、橫掃",
+        "tip": "sweep = 橫向掃過；swoop = 由上往下急速衝擊"
+      },
+      {
+        "a": "swoop",
+        "b": "snoop",
+        "zh": "俯衝 vs 偷偷打探",
+        "tip": "snoop = 偷窺、探聽別人的事；字形有點像但意思不同"
       }
     ]
   },
@@ -1438,9 +2727,18 @@
       {
         "pos": "v",
         "en": "介入、干預（某情況或衝突）",
-        "zh": "to come between parties to change what is happening",
+        "zh": "to come between parties or events to change what is happening",
         "examples": [
-          "The manager had to <em>intervene</em> when the two teams couldn't agree."
+          "The manager had to <em>intervene</em> when the two teams couldn't agree.",
+          "Regulators may <em>intervene</em> if the company continues these practices."
+        ]
+      },
+      {
+        "pos": "v",
+        "en": "（時間或事件）在中間發生",
+        "zh": "to occur between events in time",
+        "examples": [
+          "Several months <em>intervened</em> between the proposal and the final decision."
         ]
       }
     ],
@@ -1449,6 +2747,16 @@
         "word": "intervention",
         "pos": "n.",
         "zh": "介入、干預行動"
+      },
+      {
+        "word": "interventionist",
+        "pos": "adj./n.",
+        "zh": "干預主義的 / 干預者"
+      },
+      {
+        "word": "intervening",
+        "pos": "adj.",
+        "zh": "居中的、介入的（如 intervening period 中間這段時間）"
       }
     ],
     "collocations": [
@@ -1457,16 +2765,36 @@
         "zh": "介入⋯⋯"
       },
       {
+        "en": "military intervention",
+        "zh": "軍事干預"
+      },
+      {
         "en": "early intervention",
         "zh": "早期介入"
+      },
+      {
+        "en": "intervene on behalf of",
+        "zh": "代表某人介入"
       }
     ],
     "similar": [
       {
+        "word": "intercede",
+        "pos": "v.",
+        "zh": "（代為）調解、說情",
+        "diff": "intercede 強調為他人說情；intervene 更中性"
+      },
+      {
         "word": "mediate",
         "pos": "v.",
         "zh": "調解",
-        "diff": "以中立者身份調解"
+        "diff": "mediate 是以中立者身份調解"
+      },
+      {
+        "word": "interfere",
+        "pos": "v.",
+        "zh": "干涉",
+        "diff": "interfere 帶有更強的負面意涵，暗示不受歡迎的介入"
       }
     ],
     "lookalikes": [
@@ -1474,7 +2802,13 @@
         "a": "intervene",
         "b": "interview",
         "zh": "介入 vs 面試、採訪",
-        "tip": "inter- = 在之間；-vene = 來；-view = 看"
+        "tip": "inter- 都是「在⋯⋯之間」，-vene 是「來」；-view 是「看」——面試是雙方互看！"
+      },
+      {
+        "a": "intervene",
+        "b": "intervene vs prevent",
+        "zh": "介入 vs 阻止",
+        "tip": "intervene = 介入改變情況；prevent = 阻止某事發生，目的不同"
       }
     ]
   },
@@ -1488,9 +2822,10 @@
       {
         "pos": "v",
         "en": "跳躍；突然快速移動",
-        "zh": "to jump far or high",
+        "zh": "to jump far or high; to move suddenly and quickly",
         "examples": [
-          "The startup took a <em>leap</em> of faith and pivoted."
+          "The startup took a <em>leap</em> of faith and pivoted.",
+          "She <em>leaped</em> at the opportunity to lead the new product."
         ]
       },
       {
@@ -1498,8 +2833,31 @@
         "en": "跳躍；重大進步",
         "zh": "a big jump; a major advance",
         "examples": [
-          "This is a <em>leap</em> forward in our data infrastructure."
+          "This is a <em>leap</em> forward in our data infrastructure.",
+          "It was a huge <em>leap</em> from intern to senior PM in three years."
         ]
+      }
+    ],
+    "family": [
+      {
+        "word": "leap",
+        "pos": "v./n.",
+        "zh": "跳躍（動詞兼名詞）"
+      },
+      {
+        "word": "leapfrog",
+        "pos": "v./n.",
+        "zh": "跨越超越（比喻）；青蛙跳遊戲"
+      },
+      {
+        "word": "leap year",
+        "pos": "n.",
+        "zh": "閏年"
+      },
+      {
+        "word": "leapt / leaped",
+        "pos": "v.",
+        "zh": "leap 的過去式（英式 leapt；美式 leaped）"
       }
     ],
     "collocations": [
@@ -1508,8 +2866,16 @@
         "zh": "信念的跳躍（冒險一試）"
       },
       {
+        "en": "leap forward",
+        "zh": "大幅躍進"
+      },
+      {
         "en": "quantum leap",
         "zh": "量子躍進（大幅進步）"
+      },
+      {
+        "en": "leap at the chance",
+        "zh": "抓住機會"
       }
     ],
     "similar": [
@@ -1517,7 +2883,19 @@
         "word": "jump",
         "pos": "v.",
         "zh": "跳",
-        "diff": "jump 更口語；leap 更有力"
+        "diff": "jump 更口語；leap 更有力、更強調距離或幅度"
+      },
+      {
+        "word": "bound",
+        "pos": "v.",
+        "zh": "大步跳躍",
+        "diff": "bound 強調連續跳躍"
+      },
+      {
+        "word": "spring",
+        "pos": "v.",
+        "zh": "彈跳、突然跳起",
+        "diff": "spring 強調彈力帶動的跳躍"
       }
     ],
     "lookalikes": [
@@ -1525,7 +2903,13 @@
         "a": "leap",
         "b": "heap",
         "zh": "跳躍 vs 一堆",
-        "tip": "heap = 一堆；只差第一個字母"
+        "tip": "heap = 一堆、一大量；leap = 跳躍，只差第一個字母"
+      },
+      {
+        "a": "leapfrog",
+        "b": "leapfrog strategy",
+        "zh": "跳蛙遊戲 vs 跨越競爭對手的策略",
+        "tip": "leapfrog strategy = 直接跳過現有競爭格局，採用更先進技術的商業策略"
       }
     ]
   },
@@ -1538,11 +2922,38 @@
     "meanings": [
       {
         "pos": "v",
-        "en": "囤積、大量積存",
-        "zh": "to collect and store large amounts, often secretly",
+        "en": "囤積、大量積存（通常出於恐懼或貪婪）",
+        "zh": "to collect and store large amounts of something, often secretly",
         "examples": [
+          "During the pandemic, people <em>hoarded</em> toilet paper.",
           "The product team was <em>hoarding</em> data instead of sharing insights."
         ]
+      },
+      {
+        "pos": "n",
+        "en": "囤積的物品、大量儲存",
+        "zh": "a large stock of something stored away",
+        "examples": [
+          "They discovered a <em>hoard</em> of vintage game cartridges.",
+          "A <em>hoard</em> of gold coins was found buried in the garden."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "hoarder",
+        "pos": "n.",
+        "zh": "囤積者"
+      },
+      {
+        "word": "hoarding",
+        "pos": "n./v.",
+        "zh": "囤積（動名詞）；廣告看板（英式）"
+      },
+      {
+        "word": "hoard",
+        "pos": "v./n.",
+        "zh": "囤積（動詞兼名詞）"
       }
     ],
     "collocations": [
@@ -1553,14 +2964,34 @@
       {
         "en": "hoard information",
         "zh": "囤積資訊（不分享）"
+      },
+      {
+        "en": "a hoard of",
+        "zh": "大量的⋯⋯"
+      },
+      {
+        "en": "hoard cash",
+        "zh": "囤積現金"
       }
     ],
     "similar": [
       {
         "word": "stockpile",
         "pos": "v./n.",
-        "zh": "大量囤積",
-        "diff": "stockpile 更中性；hoard 暗示過度、隱密"
+        "zh": "大量囤積 / 庫存",
+        "diff": "stockpile 更中性，常用於戰略儲備；hoard 暗示過度、隱密"
+      },
+      {
+        "word": "accumulate",
+        "pos": "v.",
+        "zh": "積累",
+        "diff": "accumulate 更正式中性"
+      },
+      {
+        "word": "amass",
+        "pos": "v.",
+        "zh": "積聚大量",
+        "diff": "amass 強調規模大，帶有刻意積累的意涵"
       }
     ],
     "lookalikes": [
@@ -1568,7 +2999,13 @@
         "a": "hoard",
         "b": "horde",
         "zh": "囤積 vs 一大群人",
-        "tip": "horde = 一大群人；拼法差一個字母"
+        "tip": "horde = 一大群人（尤指入侵的）；hoard = 囤積物，拼法差一個字母"
+      },
+      {
+        "a": "hoarding",
+        "b": "boarding",
+        "zh": "囤積 vs 登機、登船；木板圍欄",
+        "tip": "boarding = 登上交通工具；也可指臨時木板牆。hoarding 在英式英語中也可指廣告看板"
       }
     ]
   },
@@ -1584,7 +3021,16 @@
         "en": "明確地、清楚地表達（不留含糊空間）",
         "zh": "in a clear and detailed manner, leaving nothing implied",
         "examples": [
-          "The requirements weren't <em>explicitly</em> stated, leading to misalignment."
+          "The requirements weren't <em>explicitly</em> stated, leading to misalignment.",
+          "We need to <em>explicitly</em> define what success looks like."
+        ]
+      },
+      {
+        "pos": "adv",
+        "en": "直接地說出（毫不迴避）",
+        "zh": "directly and without any vagueness or hesitation",
+        "examples": [
+          "She <em>explicitly</em> told the team that the deadline was non-negotiable."
         ]
       }
     ],
@@ -1592,12 +3038,17 @@
       {
         "word": "explicit",
         "pos": "adj.",
-        "zh": "明確的"
+        "zh": "明確的、清楚表達的"
+      },
+      {
+        "word": "explicitly",
+        "pos": "adv.",
+        "zh": "明確地"
       },
       {
         "word": "implicit",
         "pos": "adj.",
-        "zh": "隱含的"
+        "zh": "隱含的、未明說的"
       },
       {
         "word": "implicitly",
@@ -1613,6 +3064,14 @@
       {
         "en": "explicitly define",
         "zh": "明確定義"
+      },
+      {
+        "en": "explicitly say",
+        "zh": "明確說出"
+      },
+      {
+        "en": "explicitly prohibited",
+        "zh": "明確禁止"
       }
     ],
     "similar": [
@@ -1620,7 +3079,19 @@
         "word": "clearly",
         "pos": "adv.",
         "zh": "清楚地",
-        "diff": "clearly 更口語；explicitly 強調沒有留下模糊空間"
+        "diff": "clearly 更口語廣泛；explicitly 強調沒有留下任何模糊空間"
+      },
+      {
+        "word": "directly",
+        "pos": "adv.",
+        "zh": "直接地",
+        "diff": "directly 強調方式直接；explicitly 強調內容完整無歧義"
+      },
+      {
+        "word": "unambiguously",
+        "pos": "adv.",
+        "zh": "毫無歧義地",
+        "diff": "更正式；explicitly 更常用於日常和職場"
       }
     ],
     "lookalikes": [
@@ -1628,7 +3099,13 @@
         "a": "explicitly",
         "b": "implicitly",
         "zh": "明確地 vs 隱含地",
-        "tip": "ex- = 向外說出；im- = 向內藏著，是反義詞"
+        "tip": "ex- = 向外（說出來）；im- = 向內（藏在裡面）；是一對反義詞"
+      },
+      {
+        "a": "explicit",
+        "b": "explicit content",
+        "zh": "明確的 vs 成人內容",
+        "tip": "explicit content 特指成人或限制級內容；要注意語境，避免誤用"
       }
     ]
   },
@@ -1637,15 +3114,41 @@
     "date": "6/13",
     "title": "lingering",
     "phonetic": "🔊 /ˈlɪŋ.ɡər.ɪŋ/",
-    "hint": "揮之不去的",
+    "hint": "揮之不去的、遲遲不散的",
     "meanings": [
       {
         "pos": "adj",
-        "en": "持續存在的、揮之不去的",
-        "zh": "lasting for a long time; slow to end",
+        "en": "持續存在的、揮之不去的（通常是令人不快的事物）",
+        "zh": "lasting for a long time; slow to end or leave",
         "examples": [
-          "There's a <em>lingering</em> distrust between the two teams."
+          "There's a <em>lingering</em> distrust between the two teams after the failed project.",
+          "The <em>lingering</em> question is whether users will actually pay for this."
         ]
+      },
+      {
+        "pos": "v",
+        "en": "（linger 的動名詞）逗留、徘徊",
+        "zh": "staying or taking a long time to leave",
+        "examples": [
+          "She was <em>lingering</em> at the whiteboard, reluctant to erase her ideas."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "linger",
+        "pos": "v.",
+        "zh": "逗留、徘徊"
+      },
+      {
+        "word": "lingerer",
+        "pos": "n.",
+        "zh": "逗留者"
+      },
+      {
+        "word": "lingeringly",
+        "pos": "adv.",
+        "zh": "遲遲地、依依不捨地"
       }
     ],
     "collocations": [
@@ -1654,16 +3157,36 @@
         "zh": "揮之不去的疑慮"
       },
       {
+        "en": "lingering effects",
+        "zh": "持續存在的影響"
+      },
+      {
         "en": "lingering question",
         "zh": "懸而未決的問題"
+      },
+      {
+        "en": "linger on",
+        "zh": "繼續徘徊、持續存在"
       }
     ],
     "similar": [
       {
         "word": "persistent",
         "pos": "adj.",
-        "zh": "持續的",
-        "diff": "persistent 更中性；lingering 帶有慢慢消失但還未消失的感覺"
+        "zh": "持續的、頑固的",
+        "diff": "persistent 更中性；lingering 帶有「慢慢消失但還未消失」的感覺"
+      },
+      {
+        "word": "enduring",
+        "pos": "adj.",
+        "zh": "持久的",
+        "diff": "enduring 更正面（持久的價值）；lingering 偏負面（揮之不去的問題）"
+      },
+      {
+        "word": "residual",
+        "pos": "adj.",
+        "zh": "殘留的、剩餘的",
+        "diff": "residual 更中性偏技術；lingering 帶有情感的重量"
       }
     ],
     "lookalikes": [
@@ -1671,7 +3194,13 @@
         "a": "lingering",
         "b": "longing",
         "zh": "揮之不去 vs 渴望、思念",
-        "tip": "longing = 強烈渴望；lingering = 遲遲不散"
+        "tip": "longing = 強烈渴望或思念某事物；lingering = 遲遲不散"
+      },
+      {
+        "a": "linger",
+        "b": "lunge",
+        "zh": "逗留 vs 猛衝、刺擊",
+        "tip": "lunge = 突然向前猛衝；和 linger 的起步字母相近但意思截然不同"
       }
     ]
   },
@@ -1685,9 +3214,10 @@
       {
         "pos": "n",
         "en": "槓桿作用；影響力、優勢",
-        "zh": "the power to influence a situation",
+        "zh": "the power to influence a situation; mechanical advantage",
         "examples": [
-          "Data is our biggest <em>leverage</em> in this negotiation."
+          "Data is our biggest <em>leverage</em> in this negotiation.",
+          "Having a large user base gives us significant <em>leverage</em>."
         ]
       },
       {
@@ -1695,8 +3225,26 @@
         "en": "善用、發揮（資源或優勢）",
         "zh": "to use something to maximum advantage",
         "examples": [
-          "We should <em>leverage</em> our existing user base to drive referrals."
+          "We should <em>leverage</em> our existing user base to drive referrals.",
+          "<em>Leverage</em> your network to find the right candidates."
         ]
+      }
+    ],
+    "family": [
+      {
+        "word": "lever",
+        "pos": "n./v.",
+        "zh": "槓桿；撬動"
+      },
+      {
+        "word": "leveraged",
+        "pos": "adj.",
+        "zh": "使用槓桿的（如 leveraged buyout 槓桿收購）"
+      },
+      {
+        "word": "deleveraging",
+        "pos": "n.",
+        "zh": "去槓桿化（降低負債）"
       }
     ],
     "collocations": [
@@ -1707,6 +3255,14 @@
       {
         "en": "leverage data",
         "zh": "善用數據"
+      },
+      {
+        "en": "financial leverage",
+        "zh": "財務槓桿"
+      },
+      {
+        "en": "leverage a relationship",
+        "zh": "善用關係"
       }
     ],
     "similar": [
@@ -1714,15 +3270,33 @@
         "word": "utilize",
         "pos": "v.",
         "zh": "利用",
-        "diff": "utilize 更正式；leverage 帶有最大化效益的意涵"
+        "diff": "utilize 更正式、中性；leverage 帶有「最大化效益」的積極意涵"
+      },
+      {
+        "word": "exploit",
+        "pos": "v.",
+        "zh": "利用（可能含負面意涵）",
+        "diff": "exploit 可以是負面的剝削；leverage 通常正面"
+      },
+      {
+        "word": "capitalize on",
+        "pos": "phr. v.",
+        "zh": "利用、把握",
+        "diff": "capitalize on = 趁機利用某個機會，與 leverage 語意最接近"
       }
     ],
     "lookalikes": [
       {
         "a": "leverage",
         "b": "leviathan",
-        "zh": "槓桿 vs 巨型事物",
-        "tip": "leviathan = 龐大的組織；都以 lev- 開頭"
+        "zh": "槓桿 vs 巨型事物（比喻）",
+        "tip": "leviathan = 龐大的東西或組織；都以 lev- 開頭，但完全不同"
+      },
+      {
+        "a": "lever",
+        "b": "leverage",
+        "zh": "槓桿（名詞）vs 槓桿力 / 善用（名詞 / 動詞）",
+        "tip": "lever 是物理的槓桿；leverage 是它的衍生詞，指槓桿帶來的力量或比喻用法"
       }
     ]
   },
@@ -1736,11 +3310,36 @@
       {
         "pos": "v",
         "en": "磨利（刀具）；精進、磨練（技能）",
-        "zh": "to sharpen; to refine and perfect a skill",
+        "zh": "to sharpen a blade; to refine and perfect a skill",
         "examples": [
           "She spent years <em>honing</em> her craft as a product designer.",
           "We need to <em>hone</em> our pitch before the investor meeting."
         ]
+      },
+      {
+        "pos": "n",
+        "en": "磨刀石",
+        "zh": "a whetstone used to sharpen blades",
+        "examples": [
+          "He ran the knife along the <em>hone</em> before cooking."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "hone",
+        "pos": "v./n.",
+        "zh": "磨練（動詞兼名詞）"
+      },
+      {
+        "word": "honed",
+        "pos": "adj.",
+        "zh": "磨練過的、精煉的"
+      },
+      {
+        "word": "well-honed",
+        "pos": "adj.",
+        "zh": "訓練有素的、精煉的"
       }
     ],
     "collocations": [
@@ -1754,7 +3353,7 @@
       },
       {
         "en": "hone in on",
-        "zh": "聚焦於、鎖定"
+        "zh": "聚焦於、鎖定（常見誤用，正確是 home in on）"
       },
       {
         "en": "a finely honed argument",
@@ -1765,17 +3364,20 @@
       {
         "word": "sharpen",
         "pos": "v.",
-        "zh": "磨利"
+        "zh": "磨利、提升",
+        "diff": "更口語，可指磨刀或提升能力"
       },
       {
         "word": "refine",
         "pos": "v.",
-        "zh": "精煉"
+        "zh": "精煉、改良",
+        "diff": "強調去除缺陷、讓事物更完善"
       },
       {
         "word": "polish",
         "pos": "v.",
-        "zh": "打磨"
+        "zh": "打磨、潤飾",
+        "diff": "強調讓某事物更光滑、更完美，常用於演講或文章"
       }
     ],
     "lookalikes": [
@@ -1783,13 +3385,13 @@
         "a": "hone",
         "b": "home in on",
         "zh": "磨練 vs 鎖定目標",
-        "tip": "hone in on 是常見誤用，正確是 home in on"
+        "tip": "'hone in on' 是常見誤用，正確是 'home in on'（像鴿子歸巢般鎖定目標）"
       },
       {
         "a": "hone",
         "b": "tone",
-        "zh": "磨練 vs 語氣",
-        "tip": "tone 可以是名詞（語氣）或動詞（緊實）"
+        "zh": "磨練 vs 語氣／肌肉緊實",
+        "tip": "tone 可以是名詞（語氣）或動詞（緊實肌肉），長相相近"
       }
     ]
   },
@@ -1803,10 +3405,18 @@
       {
         "pos": "n",
         "en": "依賴、依靠；信任",
-        "zh": "the state of depending on or trusting something",
+        "zh": "the state of depending on or trusting something/someone",
         "examples": [
           "Our team's <em>reliance</em> on manual processes is slowing us down.",
           "Self-<em>reliance</em> is a key trait for senior PMs."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "對某事物的信任程度",
+        "zh": "the degree to which something is trusted or depended upon",
+        "examples": [
+          "Our <em>reliance</em> on third-party APIs creates a single point of failure."
         ]
       }
     ],
@@ -1814,7 +3424,7 @@
       {
         "word": "rely",
         "pos": "v.",
-        "zh": "依賴"
+        "zh": "依賴、依靠"
       },
       {
         "word": "reliable",
@@ -1839,11 +3449,15 @@
       },
       {
         "en": "reduce reliance on",
-        "zh": "減少依賴"
+        "zh": "減少對⋯⋯的依賴"
       },
       {
         "en": "self-reliance",
         "zh": "自力更生"
+      },
+      {
+        "en": "heavy reliance",
+        "zh": "高度依賴"
       }
     ],
     "similar": [
@@ -1851,13 +3465,19 @@
         "word": "dependence",
         "pos": "n.",
         "zh": "依賴",
-        "diff": "語氣更強，常帶負面含意"
+        "diff": "語氣更強，常帶負面含意（如藥物依賴）"
       },
       {
         "word": "trust",
         "pos": "n.",
         "zh": "信任",
-        "diff": "trust 更偏情感信任"
+        "diff": "reliance 強調行為上的依靠；trust 更偏情感信任"
+      },
+      {
+        "word": "confidence",
+        "pos": "n.",
+        "zh": "信心",
+        "diff": "confidence 是對自己或某事的把握，reliance 是對外部事物的依靠"
       }
     ],
     "lookalikes": [
@@ -1865,13 +3485,13 @@
         "a": "reliance",
         "b": "alliance",
         "zh": "依賴 vs 聯盟",
-        "tip": "alliance 是兩方合作；reliance 是依靠"
+        "tip": "alliance 是 al- + liance，指兩方合作；reliance 是 re- + liance，指依靠"
       },
       {
         "a": "reliable",
         "b": "reliant",
         "zh": "可靠的 vs 依賴的",
-        "tip": "reliable = 值得信賴；reliant = 依賴某物的"
+        "tip": "reliable = 值得信賴的（描述被依靠的事物）；reliant = 依賴某物的（描述依賴者）"
       }
     ]
   },
@@ -1887,7 +3507,24 @@
         "en": "保證、擔保；讓人放心的話",
         "zh": "a confident statement that something is true or will happen",
         "examples": [
-          "The PM gave the team <em>assurance</em> that the deadline would not change."
+          "The PM gave the team <em>assurance</em> that the deadline would not change.",
+          "Despite his <em>assurances</em>, the project was delayed."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "自信、篤定的態度",
+        "zh": "confidence and certainty in one's manner",
+        "examples": [
+          "She spoke with great <em>assurance</em> during the board presentation."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "（英式英語）人壽保險",
+        "zh": "life assurance (UK term for life insurance)",
+        "examples": [
+          "He took out a life <em>assurance</em> policy."
         ]
       }
     ],
@@ -1898,14 +3535,19 @@
         "zh": "保證、使放心"
       },
       {
+        "word": "assured",
+        "pos": "adj.",
+        "zh": "確定的；自信的"
+      },
+      {
         "word": "reassure",
         "pos": "v.",
-        "zh": "再次保證"
+        "zh": "再次保證、消除疑慮"
       },
       {
         "word": "reassurance",
         "pos": "n.",
-        "zh": "安慰"
+        "zh": "再次保證、安慰"
       }
     ],
     "collocations": [
@@ -1914,26 +3556,36 @@
         "zh": "給予保證"
       },
       {
+        "en": "seek assurance",
+        "zh": "尋求保證"
+      },
+      {
         "en": "quality assurance (QA)",
-        "zh": "品質保證"
+        "zh": "品質保證（職場常見縮寫）"
       },
       {
         "en": "with assurance",
-        "zh": "有把握地"
+        "zh": "有把握地、自信地"
       }
     ],
     "similar": [
       {
         "word": "guarantee",
         "pos": "n.",
-        "zh": "保證",
-        "diff": "更正式具法律效力"
+        "zh": "保證、擔保",
+        "diff": "guarantee 更正式、具法律約束力；assurance 偏向口頭或情感上的保證"
       },
       {
         "word": "promise",
         "pos": "n.",
         "zh": "承諾",
-        "diff": "promise 是個人承諾；assurance 更強調消除疑慮"
+        "diff": "promise 是個人承諾；assurance 更強調消除對方的疑慮"
+      },
+      {
+        "word": "confidence",
+        "pos": "n.",
+        "zh": "信心",
+        "diff": "confidence 是內在的信心；assurance 是給別人的保證"
       }
     ],
     "lookalikes": [
@@ -1941,13 +3593,13 @@
         "a": "assurance",
         "b": "insurance",
         "zh": "保證 vs 保險",
-        "tip": "insurance 是商業保險；assurance 在英式英語中指人壽保險"
+        "tip": "insurance 是商業保險產品；assurance 在英式英語中特指人壽保險，在美式英語中多指保證"
       },
       {
         "a": "assure",
         "b": "ensure",
         "zh": "使放心 vs 確保",
-        "tip": "assure = 讓人放心；ensure = 確保某事發生"
+        "tip": "assure = 讓某人放心；ensure = 確保某事發生（採取行動）"
       }
     ]
   },
@@ -1960,25 +3612,57 @@
     "meanings": [
       {
         "pos": "n",
-        "en": "repetitions 縮寫：（運動的）次數",
-        "zh": "short for repetitions",
+        "en": "repetitions 的縮寫，指（運動的）次數、組數",
+        "zh": "short for repetitions — the number of times you do an exercise",
         "examples": [
-          "Do 3 sets of 10 <em>reps</em>."
+          "Do 3 sets of 10 <em>reps</em>.",
+          "More <em>reps</em> with lighter weights builds endurance."
         ]
       },
       {
         "pos": "n",
-        "en": "representatives 縮寫：業務代表",
-        "zh": "short for representatives",
+        "en": "representatives 的縮寫，指業務代表、銷售代表",
+        "zh": "short for representatives — sales or customer service reps",
         "examples": [
-          "Our sales <em>reps</em> are hitting their quarterly targets."
+          "Our sales <em>reps</em> are hitting their quarterly targets.",
+          "Customer service <em>reps</em> need strong empathy skills."
         ]
+      }
+    ],
+    "family": [
+      {
+        "word": "rep",
+        "pos": "n.",
+        "zh": "單數（一個代表；一次）"
+      },
+      {
+        "word": "repetition",
+        "pos": "n.",
+        "zh": "重複、次數（完整說法）"
+      },
+      {
+        "word": "representative",
+        "pos": "n.",
+        "zh": "代表（完整說法）"
+      },
+      {
+        "word": "reputation",
+        "pos": "n.",
+        "zh": "名聲（rep 也可以是這個的縮寫）"
       }
     ],
     "collocations": [
       {
+        "en": "do reps",
+        "zh": "做（幾）下"
+      },
+      {
         "en": "sales reps",
         "zh": "業務代表"
+      },
+      {
+        "en": "customer reps",
+        "zh": "客服代表"
       },
       {
         "en": "3 sets of 12 reps",
@@ -1989,21 +3673,34 @@
       {
         "word": "repetitions",
         "pos": "n.",
-        "zh": "重複次數（完整說法）"
+        "zh": "（完整說法）重複次數",
+        "diff": "正式說法，口語中幾乎都說 reps"
+      },
+      {
+        "word": "sets",
+        "pos": "n.",
+        "zh": "組數",
+        "diff": "reps 是每組的次數；sets 是總共幾組"
+      },
+      {
+        "word": "representatives",
+        "pos": "n.",
+        "zh": "代表（完整說法）",
+        "diff": "正式說法，縮寫 reps 在商業場合很常見"
       }
     ],
     "lookalikes": [
       {
         "a": "reps",
         "b": "raps",
-        "zh": "次數 vs 說唱",
-        "tip": "rap = 說唱或輕敲"
+        "zh": "重複次數／代表 vs 說唱 / 敲打",
+        "tip": "rap = 說唱（音樂）或輕敲，發音相同只是拼法不同"
       },
       {
         "a": "rep",
         "b": "rep (reputation)",
         "zh": "代表 vs 名聲",
-        "tip": "rep 也可以是 reputation 的縮寫"
+        "tip": "rep 也可以是 reputation 的縮寫：'She has a great rep in the industry.'"
       }
     ]
   },
@@ -2017,9 +3714,18 @@
       {
         "pos": "adj",
         "en": "自滿的、得過且過的；因滿足現狀而失去警惕",
-        "zh": "smug and uncritically satisfied; unaware of potential risks",
+        "zh": "smug and uncritically satisfied with oneself or one's situation; unaware of potential risks",
         "examples": [
-          "After a successful launch, the team became <em>complacent</em> and stopped iterating."
+          "After a successful launch, the team became <em>complacent</em> and stopped iterating.",
+          "We can't afford to be <em>complacent</em> — competitors are catching up."
+        ]
+      },
+      {
+        "pos": "adj",
+        "en": "對問題漠然、不採取行動的",
+        "zh": "showing a lack of concern about problems that need attention",
+        "examples": [
+          "The <em>complacent</em> attitude of management led to the company falling behind."
         ]
       }
     ],
@@ -2027,12 +3733,17 @@
       {
         "word": "complacency",
         "pos": "n.",
-        "zh": "自滿"
+        "zh": "自滿、安於現狀"
       },
       {
         "word": "complacently",
         "pos": "adv.",
         "zh": "自滿地"
+      },
+      {
+        "word": "self-complacent",
+        "pos": "adj.",
+        "zh": "自我滿足的（較少用）"
       }
     ],
     "collocations": [
@@ -2041,36 +3752,50 @@
         "zh": "變得自滿"
       },
       {
+        "en": "breed complacency",
+        "zh": "滋生自滿情緒"
+      },
+      {
+        "en": "complacency sets in",
+        "zh": "自滿情緒開始蔓延"
+      },
+      {
         "en": "guard against complacency",
         "zh": "防範自滿"
       }
     ],
     "similar": [
       {
+        "word": "self-satisfied",
+        "pos": "adj.",
+        "zh": "自我滿足的",
+        "diff": "語氣稍輕，complacent 更強調忽視風險的危險性"
+      },
+      {
         "word": "smug",
         "pos": "adj.",
         "zh": "沾沾自喜的",
-        "diff": "更強烈，暗示讓人反感的自大"
+        "diff": "smug 帶有更強的負面含意，暗示讓人反感的自大"
       },
       {
         "word": "content",
         "pos": "adj.",
         "zh": "滿足的",
-        "diff": "content 是正面的；complacent 帶有危險的鬆懈意味"
+        "diff": "content 是中性甚至正面的；complacent 帶有負面的「鬆懈、危險」意味"
       }
     ],
     "lookalikes": [
       {
         "a": "complacent",
         "b": "complaisant",
-        "zh": "自滿的 vs 順從的",
-        "tip": "complaisant = 願意取悅他人，差一個字母但意思天差地別！"
+        "zh": "自滿的 vs 順從的、討好的",
+        "tip": "complaisant（/kəmˈpleɪ.zənt/）= 願意取悅他人的，差一個字母但意思完全不同！"
       },
       {
         "a": "complacency",
         "b": "compliance",
-        "zh": "自滿 vs 遵從",
-        "tip": "compliance 是遵守規則；complacency 是自滿放鬆"
+        "zh": "自滿 vs 遵從、合規",
+        "tip": "compliance 是遵守規則；complacency 是自滿放鬆，是 PM 的大忌"
       }
     ]
   },
@@ -2083,11 +3808,37 @@
     "meanings": [
       {
         "pos": "adj",
-        "en": "少得可憐的、貧乏的；數量不足的",
-        "zh": "lacking in quantity or quality; insufficient",
+        "en": "少得可憐的、貧乏的；（數量或品質）不足的",
+        "zh": "lacking in quantity or quality; very small or insufficient",
         "examples": [
-          "The startup launched with a <em>meager</em> budget of $5,000."
+          "The startup launched with a <em>meager</em> budget of $5,000.",
+          "The report offered only <em>meager</em> evidence to support the claim."
         ]
+      },
+      {
+        "pos": "adj",
+        "en": "（人）瘦弱的、骨瘦如柴的（較古典用法）",
+        "zh": "(of a person) thin and weak",
+        "examples": [
+          "The prisoner looked <em>meager</em> and exhausted after months of hardship."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "meagerly",
+        "pos": "adv.",
+        "zh": "貧乏地、稀少地"
+      },
+      {
+        "word": "meagerness",
+        "pos": "n.",
+        "zh": "貧乏、稀少"
+      },
+      {
+        "word": "meagre",
+        "pos": "adj.",
+        "zh": "英式拼法"
       }
     ],
     "collocations": [
@@ -2098,23 +3849,34 @@
       {
         "en": "meager resources",
         "zh": "稀少的資源"
+      },
+      {
+        "en": "meager results",
+        "zh": "少得可憐的成果"
+      },
+      {
+        "en": "meager evidence",
+        "zh": "不足的證據"
       }
     ],
     "similar": [
       {
         "word": "scarce",
         "pos": "adj.",
-        "zh": "稀缺的"
+        "zh": "稀缺的",
+        "diff": "強調供給不足；meager 強調數量少到不夠用"
       },
       {
         "word": "insufficient",
         "pos": "adj.",
-        "zh": "不足夠的"
+        "zh": "不足夠的",
+        "diff": "更正式、客觀的說法"
       },
       {
         "word": "sparse",
         "pos": "adj.",
-        "zh": "稀疏的"
+        "zh": "稀疏的",
+        "diff": "sparse 常形容分散、稀疏；meager 強調量的貧乏"
       }
     ],
     "lookalikes": [
@@ -2122,13 +3884,13 @@
         "a": "meager",
         "b": "eager",
         "zh": "貧乏的 vs 熱切的",
-        "tip": "都是 -ager 結尾，但意思完全不同！"
+        "tip": "都是 -ager 結尾，但意思完全不同！eager = 非常熱衷的"
       },
       {
         "a": "meager",
         "b": "meagre",
-        "zh": "美式 vs 英式拼法",
-        "tip": "同一個字"
+        "zh": "美式拼法 vs 英式拼法",
+        "tip": "同一個字，美式用 meager，英式用 meagre"
       }
     ]
   },
@@ -2140,12 +3902,38 @@
     "hint": "由外而內（從顧客角度出發）",
     "meanings": [
       {
-        "pos": "adj",
-        "en": "由外而內的；從顧客或市場角度出發",
-        "zh": "starting from the customer or market perspective",
+        "pos": "adj/adv",
+        "en": "由外而內的（思維方式）；從顧客或市場角度出發，再回頭設計內部流程或產品",
+        "zh": "starting from the customer or market perspective rather than internal processes",
         "examples": [
-          "We need to adopt an <em>outside-in</em> approach."
+          "We need to adopt an <em>outside-in</em> approach and start with what users actually need.",
+          "An <em>outside-in</em> strategy means listening to customers before building features."
         ]
+      },
+      {
+        "pos": "phr",
+        "en": "（描述方向）由外往內",
+        "zh": "from the outside to the inside",
+        "examples": [
+          "The wind turned the umbrella <em>outside-in</em>."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "outside-in",
+        "pos": "adj./adv.",
+        "zh": "由外而內（兼作形容詞和副詞）"
+      },
+      {
+        "word": "inside-out",
+        "pos": "adj./adv.",
+        "zh": "由內而外（反義）"
+      },
+      {
+        "word": "outside-in thinking",
+        "pos": "phr.",
+        "zh": "由外而內的思維方式"
       }
     ],
     "collocations": [
@@ -2156,18 +3944,34 @@
       {
         "en": "outside-in thinking",
         "zh": "由外而內的思維"
+      },
+      {
+        "en": "outside-in perspective",
+        "zh": "外部視角"
+      },
+      {
+        "en": "outside-in strategy",
+        "zh": "由外而內的策略"
       }
     ],
     "similar": [
       {
         "word": "customer-centric",
         "pos": "adj.",
-        "zh": "以客戶為中心的"
+        "zh": "以客戶為中心的",
+        "diff": "強調以客戶為核心，outside-in 強調思考的出發點和方向"
+      },
+      {
+        "word": "user-led",
+        "pos": "adj.",
+        "zh": "由使用者主導的",
+        "diff": "更偏向設計領域的用語"
       },
       {
         "word": "market-driven",
         "pos": "adj.",
-        "zh": "市場驅動的"
+        "zh": "市場驅動的",
+        "diff": "強調市場力量（競爭、需求）主導決策"
       }
     ],
     "lookalikes": [
@@ -2175,7 +3979,13 @@
         "a": "outside-in",
         "b": "inside-out",
         "zh": "由外而內 vs 由內而外",
-        "tip": "inside-out = 從公司內部能力出發；兩者是相反策略思維"
+        "tip": "inside-out = 從公司內部能力或技術出發來決定做什麼，兩者是相反的策略思維"
+      },
+      {
+        "a": "outside-in",
+        "b": "top-down / bottom-up",
+        "zh": "外部視角 vs 由上而下／由下而上",
+        "tip": "top-down 和 bottom-up 是指組織內部的方向，outside-in 是外部到內部的視角"
       }
     ]
   },
@@ -2191,8 +4001,39 @@
         "en": "想像、設想（未來的狀態或可能性）",
         "zh": "to imagine or picture something in the future",
         "examples": [
-          "I <em>envision</em> a product that makes onboarding effortless."
+          "I <em>envision</em> a product that makes onboarding effortless.",
+          "Can you <em>envision</em> what the user experience will look like in three years?"
         ]
+      },
+      {
+        "pos": "v",
+        "en": "預期某事發生（帶有計劃性的想像）",
+        "zh": "to expect or plan for something to happen",
+        "examples": [
+          "We <em>envision</em> launching in three new markets by Q4."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "envisage",
+        "pos": "v.",
+        "zh": "設想（英式，與 envision 幾乎同義）"
+      },
+      {
+        "word": "vision",
+        "pos": "n.",
+        "zh": "願景"
+      },
+      {
+        "word": "visionary",
+        "pos": "adj./n.",
+        "zh": "有遠見的；有遠見的人"
+      },
+      {
+        "word": "visual",
+        "pos": "adj.",
+        "zh": "視覺的"
       }
     ],
     "collocations": [
@@ -2203,6 +4044,14 @@
       {
         "en": "envision the end state",
         "zh": "設想最終狀態"
+      },
+      {
+        "en": "envision a world where...",
+        "zh": "想像一個⋯⋯的世界"
+      },
+      {
+        "en": "as I envision it",
+        "zh": "依我的設想"
       }
     ],
     "similar": [
@@ -2210,18 +4059,19 @@
         "word": "imagine",
         "pos": "v.",
         "zh": "想像",
-        "diff": "更口語"
+        "diff": "更口語、廣泛；envision 更強調帶有目的性的未來規劃"
       },
       {
         "word": "visualize",
         "pos": "v.",
-        "zh": "視覺化"
+        "zh": "視覺化、在腦海中呈現",
+        "diff": "更強調在腦中形成清晰的圖像"
       },
       {
         "word": "foresee",
         "pos": "v.",
         "zh": "預見",
-        "diff": "foresee 強調預測；envision 強調主動描繪理想狀態"
+        "diff": "foresee 強調預測某事會發生；envision 更強調主動描繪一個理想狀態"
       }
     ],
     "lookalikes": [
@@ -2229,13 +4079,13 @@
         "a": "envision",
         "b": "envisage",
         "zh": "兩者幾乎同義",
-        "tip": "envisage 英式；envision 美式"
+        "tip": "envisage 更常見於英式英語；envision 更常見於美式英語，PM 簡報中 envision 更常用"
       },
       {
         "a": "envision",
         "b": "vision",
-        "zh": "動詞 vs 名詞",
-        "tip": "vision 是名詞；envision 是動詞"
+        "zh": "動詞：設想 vs 名詞：願景",
+        "tip": "vision 是名詞（產品願景）；envision 是動詞（去設想）"
       }
     ]
   },
@@ -2251,64 +4101,99 @@
         "en": "動作、移動；（會議中的）提案、動議",
         "zh": "movement; or a formal proposal in a meeting",
         "examples": [
-          "The team seconded the <em>motion</em> to postpone the release."
+          "The team seconded the <em>motion</em> to postpone the release.",
+          "The app uses <em>motion</em> design to guide users through the flow."
         ]
       },
       {
         "pos": "v",
-        "en": "用手勢示意",
-        "zh": "to signal or gesture",
+        "en": "用手勢示意某人做某事",
+        "zh": "to signal or gesture to someone",
         "examples": [
           "She <em>motioned</em> for everyone to sit down."
         ]
       },
       {
         "pos": "phr",
-        "en": "set something in motion = 啟動某件事",
+        "en": "set something in motion = 啟動某件事、讓某事開始運轉",
         "zh": "to start a process",
         "examples": [
           "The CEO's announcement set a major reorganization in <em>motion</em>."
         ]
       }
     ],
-    "collocations": [
+    "family": [
       {
-        "en": "set in motion",
-        "zh": "啟動"
+        "word": "move",
+        "pos": "v./n.",
+        "zh": "移動；行動"
       },
-      {
-        "en": "motion design",
-        "zh": "動態設計（UI/UX）"
-      },
-      {
-        "en": "go through the motions",
-        "zh": "做表面功夫"
-      }
-    ],
-    "similar": [
       {
         "word": "movement",
         "pos": "n.",
         "zh": "移動；運動"
       },
       {
+        "word": "motivate",
+        "pos": "v.",
+        "zh": "激勵（同字根 mot-）"
+      },
+      {
+        "word": "emotion",
+        "pos": "n.",
+        "zh": "情緒（e- + motion）"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "set in motion",
+        "zh": "啟動、推動"
+      },
+      {
+        "en": "motion design",
+        "zh": "動態設計（UI/UX 領域）"
+      },
+      {
+        "en": "pass a motion",
+        "zh": "通過動議"
+      },
+      {
+        "en": "go through the motions",
+        "zh": "做表面功夫、敷衍了事"
+      }
+    ],
+    "similar": [
+      {
+        "word": "movement",
+        "pos": "n.",
+        "zh": "移動；運動（社會）",
+        "diff": "movement 更強調位移或社會運動；motion 更常用於物理學或正式程序"
+      },
+      {
+        "word": "proposal",
+        "pos": "n.",
+        "zh": "提案",
+        "diff": "在會議語境中 motion 是正式用法；proposal 更廣泛"
+      },
+      {
         "word": "gesture",
         "pos": "n./v.",
-        "zh": "手勢"
+        "zh": "手勢",
+        "diff": "gesture 是肢體語言；motion（動詞）也有用手示意的意思"
       }
     ],
     "lookalikes": [
       {
         "a": "motion",
         "b": "emotion",
-        "zh": "動作 vs 情緒",
-        "tip": "emotion 字根是「往外動的東西」"
+        "zh": "動作／動議 vs 情緒",
+        "tip": "e-motion 字面是「往外動的東西」，情緒讓你有所行動——有趣的字源！"
       },
       {
         "a": "motion",
         "b": "notion",
-        "zh": "移動 vs 想法",
-        "tip": "notion = 模糊的想法；只差一個字母"
+        "zh": "移動 vs 想法、概念",
+        "tip": "notion = 一個模糊的想法或概念；motion = 移動或動議，只差一個字母"
       }
     ]
   },
@@ -2321,10 +4206,19 @@
     "meanings": [
       {
         "pos": "adj",
-        "en": "現象級的、非凡的、驚人的",
+        "en": "現象級的、非凡的、驚人的（口語中表示極好）",
         "zh": "remarkably exceptional; extraordinary",
         "examples": [
-          "The product achieved <em>phenomenal</em> growth in its first quarter."
+          "The product achieved <em>phenomenal</em> growth in its first quarter.",
+          "She did a <em>phenomenal</em> job leading the launch."
+        ]
+      },
+      {
+        "pos": "adj",
+        "en": "（學術用法）現象的、感官可感知的",
+        "zh": "relating to phenomena; perceptible by the senses",
+        "examples": [
+          "Kant distinguished between the <em>phenomenal</em> world and the noumenal world."
         ]
       }
     ],
@@ -2342,7 +4236,12 @@
       {
         "word": "phenomenally",
         "pos": "adv.",
-        "zh": "非凡地"
+        "zh": "非凡地、驚人地"
+      },
+      {
+        "word": "phenomenology",
+        "pos": "n.",
+        "zh": "現象學（哲學分支）"
       }
     ],
     "collocations": [
@@ -2353,31 +4252,48 @@
       {
         "en": "phenomenal success",
         "zh": "非凡的成功"
+      },
+      {
+        "en": "phenomenal talent",
+        "zh": "驚人的才能"
+      },
+      {
+        "en": "phenomenally well",
+        "zh": "表現得非常好"
       }
     ],
     "similar": [
       {
         "word": "extraordinary",
         "pos": "adj.",
-        "zh": "非凡的"
+        "zh": "非凡的",
+        "diff": "更正式；phenomenal 口語中更強調讓人驚嘆的程度"
       },
       {
         "word": "exceptional",
         "pos": "adj.",
-        "zh": "卓越的"
+        "zh": "卓越的",
+        "diff": "強調優於一般水平；phenomenal 語氣更強烈"
       },
       {
         "word": "remarkable",
         "pos": "adj.",
-        "zh": "值得注意的"
+        "zh": "值得注意的、非凡的",
+        "diff": "remarkable 較為中性；phenomenal 帶有強烈讚嘆"
       }
     ],
     "lookalikes": [
       {
         "a": "phenomenal",
         "b": "phenomenon",
-        "zh": "形容詞 vs 名詞",
-        "tip": "phenomenon 複數是 phenomena，不加 s！"
+        "zh": "形容詞：非凡的 vs 名詞：現象",
+        "tip": "phenomenon（單數）→ phenomena（複數），注意複數不加 s！"
+      },
+      {
+        "a": "phenomenal",
+        "b": "phenomenological",
+        "zh": "非凡的 vs 現象學的",
+        "tip": "phenomenological 是哲學術語，跟日常用法的 phenomenal 完全不同"
       }
     ]
   },
@@ -2390,10 +4306,19 @@
     "meanings": [
       {
         "pos": "v",
-        "en": "使⋯⋯永久持續、使⋯⋯長期存在",
-        "zh": "to make something continue indefinitely",
+        "en": "使⋯⋯永久持續、使⋯⋯長期存在（常用於負面事物）",
+        "zh": "to make something continue indefinitely, especially something negative",
         "examples": [
-          "Poor design decisions can <em>perpetuate</em> bad user habits."
+          "Poor design decisions can <em>perpetuate</em> bad user habits.",
+          "The policy unintentionally <em>perpetuated</em> inequality."
+        ]
+      },
+      {
+        "pos": "v",
+        "en": "使（記憶、傳統）永遠留存",
+        "zh": "to preserve something so it continues to be remembered",
+        "examples": [
+          "The monument was built to <em>perpetuate</em> the memory of the founder."
         ]
       }
     ],
@@ -2401,7 +4326,17 @@
       {
         "word": "perpetual",
         "pos": "adj.",
-        "zh": "永久的"
+        "zh": "永久的、持續不斷的"
+      },
+      {
+        "word": "perpetually",
+        "pos": "adv.",
+        "zh": "永久地、不斷地"
+      },
+      {
+        "word": "perpetuation",
+        "pos": "n.",
+        "zh": "使永久化的行為"
       },
       {
         "word": "perpetuity",
@@ -2412,7 +4347,15 @@
     "collocations": [
       {
         "en": "perpetuate a myth",
-        "zh": "使錯誤觀念持續"
+        "zh": "使錯誤觀念持續存在"
+      },
+      {
+        "en": "perpetuate a cycle",
+        "zh": "延續一個循環"
+      },
+      {
+        "en": "perpetuate inequality",
+        "zh": "延續不平等"
       },
       {
         "en": "perpetuate stereotypes",
@@ -2423,21 +4366,34 @@
       {
         "word": "sustain",
         "pos": "v.",
-        "zh": "維持",
-        "diff": "sustain 偏中性；perpetuate 常帶有負面含意"
+        "zh": "維持、持續",
+        "diff": "sustain 偏中性，可以是正面的；perpetuate 常帶有負面或「本不應如此」的意涵"
       },
       {
         "word": "prolong",
         "pos": "v.",
-        "zh": "延長"
+        "zh": "延長",
+        "diff": "prolong 強調時間上的拉長；perpetuate 強調讓某事「永遠存在」"
+      },
+      {
+        "word": "reinforce",
+        "pos": "v.",
+        "zh": "強化、鞏固",
+        "diff": "reinforce 強調讓某事變得更強；perpetuate 強調讓它持續下去"
       }
     ],
     "lookalikes": [
       {
         "a": "perpetuate",
         "b": "perpetrate",
-        "zh": "使永久存在 vs 犯（罪）",
-        "tip": "perpetrate = 犯下罪行，意思天差地別！"
+        "zh": "使永久存在 vs 犯（罪）、實施（惡行）",
+        "tip": "perpetrate = 犯下罪行（the perpetrator 是犯罪者）；兩個字差了中間幾個字母，意思天差地別！"
+      },
+      {
+        "a": "perpetual",
+        "b": "perpetuate",
+        "zh": "形容詞：永久的 vs 動詞：使永久化",
+        "tip": "perpetual motion machine（永動機）；perpetuate a system（使一個制度永久存在）"
       }
     ]
   },
@@ -2453,7 +4409,16 @@
         "en": "脆弱性、易受傷害的狀態；（資安）漏洞",
         "zh": "the quality of being exposed to harm; a weakness that can be exploited",
         "examples": [
+          "Brené Brown argues that <em>vulnerability</em> is the birthplace of connection.",
           "The team identified a critical security <em>vulnerability</em> in the authentication flow."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "（比喻）暴露在風險中的狀態",
+        "zh": "exposure to risk or potential harm",
+        "examples": [
+          "Market <em>vulnerability</em> increases during economic downturns."
         ]
       }
     ],
@@ -2461,12 +4426,22 @@
       {
         "word": "vulnerable",
         "pos": "adj.",
-        "zh": "脆弱的"
+        "zh": "脆弱的、易受傷的"
+      },
+      {
+        "word": "vulnerably",
+        "pos": "adv.",
+        "zh": "脆弱地"
       },
       {
         "word": "invulnerable",
         "pos": "adj.",
-        "zh": "堅不可摧的"
+        "zh": "不易受傷的、堅不可摧的"
+      },
+      {
+        "word": "invulnerability",
+        "pos": "n.",
+        "zh": "堅不可摧性"
       }
     ],
     "collocations": [
@@ -2479,21 +4454,32 @@
         "zh": "展現脆弱"
       },
       {
-        "en": "exploit a vulnerability",
-        "zh": "利用漏洞"
+        "en": "emotional vulnerability",
+        "zh": "情感上的脆弱"
+      },
+      {
+        "en": "vulnerability assessment",
+        "zh": "漏洞評估"
       }
     ],
     "similar": [
       {
         "word": "weakness",
         "pos": "n.",
-        "zh": "弱點"
+        "zh": "弱點",
+        "diff": "weakness 更廣泛；vulnerability 強調「容易被攻擊或傷害」的狀態"
       },
       {
         "word": "fragility",
         "pos": "n.",
-        "zh": "脆弱性",
-        "diff": "fragility 強調易碎；vulnerability 強調易被傷害"
+        "zh": "脆弱性、易碎性",
+        "diff": "fragility 強調容易破碎；vulnerability 強調容易被傷害或利用"
+      },
+      {
+        "word": "exposure",
+        "pos": "n.",
+        "zh": "暴露（於風險中）",
+        "diff": "exposure 強調暴露的狀態；vulnerability 強調本身的弱點"
       }
     ],
     "lookalikes": [
@@ -2501,13 +4487,13 @@
         "a": "vulnerability",
         "b": "durability",
         "zh": "脆弱性 vs 耐久性",
-        "tip": "durable = 耐用；vulnerable = 脆弱，是反義概念"
+        "tip": "durable = 耐用的；vulnerable = 脆弱的，是反義的概念，字尾都是 -ability"
       },
       {
         "a": "vulnerable",
         "b": "voluble",
-        "zh": "脆弱的 vs 話很多的",
-        "tip": "voluble = 滔滔不絕的，拼法相近但意思完全不同！"
+        "zh": "脆弱的 vs 話很多的、健談的",
+        "tip": "voluble（/ˈvɒl.jʊ.bəl/）= 滔滔不絕的，拼法相近但意思完全不同！"
       }
     ]
   },
@@ -2614,8 +4600,8 @@
       {
         "a": "assured",
         "b": "ensured",
-        "zh": "有把握的／被保證的 vs 被確保（採取行動）",
-        "tip": "assured 重點是人的心理狀態（放心、有把握）；ensured 重點是採取了行動讓某結果一定發生。'I was assured it would work'（有人告訴我）vs 'I ensured it would work'（我採取行動讓它成功）"
+        "zh": "有把握的 vs 被確保（採取行動）",
+        "tip": "assured 重點是人的心理狀態（放心、有把握）；ensured 重點是採取了行動讓某結果一定發生"
       },
       {
         "a": "self-assured",
