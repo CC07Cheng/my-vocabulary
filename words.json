@@ -4610,5 +4610,1369 @@
         "tip": "兩者幾乎同義，self-assured 帶有更沉穩、不需要外界認可的語感"
       }
     ]
+  },
+  {
+    "id": "robust",
+    "date": "6/16",
+    "title": "robust",
+    "phonetic": "🔊 /roʊˈbʌst/",
+    "hint": "強健的、穩健的",
+    "meanings": [
+      {
+        "pos": "adj",
+        "en": "強健的、結實的；（系統、計畫）穩健可靠的",
+        "zh": "strong and healthy; (of a system or plan) sturdy and reliable",
+        "examples": [
+          "We need a <em>robust</em> data pipeline before we launch.",
+          "The new framework is more <em>robust</em> than the old one."
+        ]
+      },
+      {
+        "pos": "adj",
+        "en": "（討論、辯論）有力而直接的",
+        "zh": "vigorous and forceful",
+        "examples": [
+          "There was a <em>robust</em> debate in the product review meeting."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "robust",
+        "pos": "adj.",
+        "zh": "強健的"
+      },
+      {
+        "word": "robustly",
+        "pos": "adv.",
+        "zh": "強健地、有力地"
+      },
+      {
+        "word": "robustness",
+        "pos": "n.",
+        "zh": "穩健性、強健"
+      }
+    ],
+    "col": [
+      {
+        "en": "robust system / framework",
+        "zh": "穩健的系統／框架"
+      },
+      {
+        "en": "robust growth",
+        "zh": "強勁成長"
+      },
+      {
+        "en": "robust debate",
+        "zh": "激烈辯論"
+      },
+      {
+        "en": "robust evidence",
+        "zh": "充分的證據"
+      },
+      {
+        "en": "robust solution",
+        "zh": "扎實的解決方案"
+      }
+    ],
+    "sim": [
+      {
+        "word": "resilient",
+        "pos": "adj.",
+        "zh": "有韌性的",
+        "diff": "強調從困境中恢復的能力；robust 偏重本身夠強"
+      },
+      {
+        "word": "sturdy",
+        "pos": "adj.",
+        "zh": "結實的",
+        "diff": "偏指物理上的堅固；robust 可用於抽象概念"
+      },
+      {
+        "word": "solid",
+        "pos": "adj.",
+        "zh": "扎實的",
+        "diff": "更口語，語氣較輕；robust 更有正式感"
+      }
+    ],
+    "look": [
+      {
+        "a": "robust",
+        "b": "robustness",
+        "zh": "強健的 vs 強健性",
+        "tip": "robust 是形容詞；robustness 是名詞，常用於科技或分析報告"
+      },
+      {
+        "a": "robust",
+        "b": "rugged",
+        "zh": "穩健的 vs 崎嶇的／耐用的",
+        "tip": "rugged 常指地形崎嶇或產品粗獷耐用；robust 強調整體可靠"
+      }
+    ]
+  },
+  {
+    "id": "moral",
+    "date": "6/16",
+    "title": "moral",
+    "phonetic": "🔊 /ˈmɔːr.əl/",
+    "hint": "道德的；教訓",
+    "meanings": [
+      {
+        "pos": "adj",
+        "en": "道德的、符合倫理的",
+        "zh": "relating to right and wrong behavior",
+        "examples": [
+          "It's a <em>moral</em> responsibility to be transparent with users.",
+          "The team faced a <em>moral</em> dilemma about how to use the data."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "（故事的）教訓、寓意",
+        "zh": "the lesson or message of a story",
+        "examples": [
+          "The <em>moral</em> of this case study is: don't skip user research."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "moral",
+        "pos": "adj./n.",
+        "zh": "道德的；教訓"
+      },
+      {
+        "word": "morality",
+        "pos": "n.",
+        "zh": "道德、倫理"
+      },
+      {
+        "word": "morally",
+        "pos": "adv.",
+        "zh": "在道德上"
+      },
+      {
+        "word": "immoral",
+        "pos": "adj.",
+        "zh": "不道德的"
+      },
+      {
+        "word": "morale",
+        "pos": "n.",
+        "zh": "士氣（注意：不同字！）"
+      }
+    ],
+    "col": [
+      {
+        "en": "moral obligation",
+        "zh": "道德義務"
+      },
+      {
+        "en": "moral dilemma",
+        "zh": "道德困境"
+      },
+      {
+        "en": "moral responsibility",
+        "zh": "道德責任"
+      },
+      {
+        "en": "the moral of the story",
+        "zh": "這個故事的教訓"
+      },
+      {
+        "en": "moral compass",
+        "zh": "道德指南針（比喻判斷是非的能力）"
+      }
+    ],
+    "sim": [
+      {
+        "word": "ethical",
+        "pos": "adj.",
+        "zh": "倫理的",
+        "diff": "偏向規範與制度面；moral 更偏個人良知"
+      },
+      {
+        "word": "virtuous",
+        "pos": "adj.",
+        "zh": "有美德的",
+        "diff": "語氣更正式，強調美德品格"
+      },
+      {
+        "word": "principled",
+        "pos": "adj.",
+        "zh": "有原則的",
+        "diff": "強調做事有準則，不因情況改變"
+      }
+    ],
+    "look": [
+      {
+        "a": "moral",
+        "b": "morale",
+        "zh": "道德 vs 士氣",
+        "tip": "morale（士氣）結尾多一個 e，是完全不同的字，很容易混淆"
+      },
+      {
+        "a": "moral",
+        "b": "immoral",
+        "zh": "道德的 vs 不道德的",
+        "tip": "im- 前綴表示否定；amoral 則是「不在乎道德」，語感又不同"
+      }
+    ]
+  },
+  {
+    "id": "unceremoniously",
+    "date": "6/16",
+    "title": "unceremoniously",
+    "phonetic": "🔊 /ˌʌn.ser.ɪˈmoʊ.ni.əs.li/",
+    "hint": "突然而粗魯地、毫不客氣地",
+    "meanings": [
+      {
+        "pos": "adv",
+        "en": "毫不客氣地、突然且無禮地（不給面子地）",
+        "zh": "in a sudden and rude way, without politeness or ceremony",
+        "examples": [
+          "He was <em>unceremoniously</em> removed from the project midway through.",
+          "The proposal was <em>unceremoniously</em> rejected without any explanation."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "ceremony",
+        "pos": "n.",
+        "zh": "儀式、典禮"
+      },
+      {
+        "word": "ceremonious",
+        "pos": "adj.",
+        "zh": "隆重的、拘禮的"
+      },
+      {
+        "word": "ceremoniously",
+        "pos": "adv.",
+        "zh": "隆重地"
+      },
+      {
+        "word": "unceremonious",
+        "pos": "adj.",
+        "zh": "不拘禮節的、突然無禮的"
+      },
+      {
+        "word": "unceremoniously",
+        "pos": "adv.",
+        "zh": "毫不客氣地"
+      }
+    ],
+    "col": [
+      {
+        "en": "unceremoniously dismissed",
+        "zh": "被毫不客氣地解雇"
+      },
+      {
+        "en": "unceremoniously removed",
+        "zh": "被突然撤除"
+      },
+      {
+        "en": "unceremoniously dropped",
+        "zh": "被突然捨棄"
+      },
+      {
+        "en": "unceremoniously interrupted",
+        "zh": "被突然打斷"
+      }
+    ],
+    "sim": [
+      {
+        "word": "abruptly",
+        "pos": "adv.",
+        "zh": "突然地",
+        "diff": "強調速度突然，不一定含無禮意味"
+      },
+      {
+        "word": "rudely",
+        "pos": "adv.",
+        "zh": "粗魯地",
+        "diff": "直接指無禮；unceremoniously 多了「不給面子」的語氣"
+      },
+      {
+        "word": "curtly",
+        "pos": "adv.",
+        "zh": "簡短而無禮地",
+        "diff": "偏指言語上簡短冷漠；unceremoniously 偏指行為上的突然"
+      }
+    ],
+    "look": [
+      {
+        "a": "unceremoniously",
+        "b": "ceremoniously",
+        "zh": "毫不客氣地 vs 隆重地",
+        "tip": "un- 前綴反轉意思；ceremoniously 是正式隆重，unceremoniously 是反其道而行"
+      },
+      {
+        "a": "unceremonious",
+        "b": "unnecessary",
+        "zh": "不拘禮節 vs 不必要",
+        "tip": "兩個字都有 un- 開頭，但字根完全不同，別看到 un- 就混淆"
+      }
+    ]
+  },
+  {
+    "id": "irony",
+    "date": "6/16",
+    "title": "irony",
+    "phonetic": "🔊 /ˈaɪ.rə.ni/",
+    "hint": "諷刺、反諷",
+    "meanings": [
+      {
+        "pos": "n",
+        "en": "諷刺、反諷（說的和意思相反）；事與願違的巧合",
+        "zh": "using words to mean the opposite; or a situation that is the opposite of what you'd expect",
+        "examples": [
+          "The <em>irony</em> is that we built a tool to save time but it took twice as long.",
+          "She said 'great job' with heavy <em>irony</em> after the launch failed."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "irony",
+        "pos": "n.",
+        "zh": "諷刺"
+      },
+      {
+        "word": "ironic",
+        "pos": "adj.",
+        "zh": "諷刺的"
+      },
+      {
+        "word": "ironically",
+        "pos": "adv.",
+        "zh": "諷刺地"
+      },
+      {
+        "word": "ironist",
+        "pos": "n.",
+        "zh": "善用諷刺的人"
+      }
+    ],
+    "col": [
+      {
+        "en": "the irony is that...",
+        "zh": "諷刺的是……"
+      },
+      {
+        "en": "heavy irony",
+        "zh": "濃厚的諷刺意味"
+      },
+      {
+        "en": "dramatic irony",
+        "zh": "戲劇性反諷（觀眾知道但角色不知道）"
+      },
+      {
+        "en": "bitter irony",
+        "zh": "令人苦澀的諷刺"
+      },
+      {
+        "en": "with irony",
+        "zh": "帶著諷刺意味"
+      }
+    ],
+    "sim": [
+      {
+        "word": "sarcasm",
+        "pos": "n.",
+        "zh": "諷刺、挖苦",
+        "diff": "sarcasm 語氣更尖刻、帶攻擊性；irony 可以是溫和的"
+      },
+      {
+        "word": "satire",
+        "pos": "n.",
+        "zh": "諷刺（文學或作品）",
+        "diff": "satire 是以作品形式批評社會；irony 是一種語言或情境技巧"
+      },
+      {
+        "word": "paradox",
+        "pos": "n.",
+        "zh": "矛盾、弔詭",
+        "diff": "paradox 強調邏輯上的矛盾；irony 強調結果與期望相反"
+      }
+    ],
+    "look": [
+      {
+        "a": "irony",
+        "b": "ironic",
+        "zh": "諷刺（名詞）vs 諷刺的（形容詞）",
+        "tip": "'It's ironic that...' 和 'The irony is...' 意思一樣，只是詞性不同"
+      },
+      {
+        "a": "irony",
+        "b": "irony vs sarcasm",
+        "zh": "反諷 vs 挖苦",
+        "tip": "irony 不一定有惡意；sarcasm 通常帶有傷人意圖"
+      }
+    ]
+  },
+  {
+    "id": "aspect",
+    "date": "6/16",
+    "title": "aspect",
+    "phonetic": "🔊 /ˈæs.pekt/",
+    "hint": "面向、層面",
+    "meanings": [
+      {
+        "pos": "n",
+        "en": "（事物的）面向、層面、角度",
+        "zh": "a particular part or feature of something",
+        "examples": [
+          "User trust is a critical <em>aspect</em> of product design.",
+          "We need to consider every <em>aspect</em> of the user journey."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "（建築）朝向、外觀",
+        "zh": "the direction a building faces; the appearance of something",
+        "examples": [
+          "The apartment has a southern <em>aspect</em> with lots of natural light."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "aspect",
+        "pos": "n.",
+        "zh": "面向"
+      },
+      {
+        "word": "aspects",
+        "pos": "n.",
+        "zh": "複數，各個層面"
+      }
+    ],
+    "col": [
+      {
+        "en": "key aspect",
+        "zh": "關鍵面向"
+      },
+      {
+        "en": "every aspect of",
+        "zh": "……的每個層面"
+      },
+      {
+        "en": "in this aspect",
+        "zh": "在這方面"
+      },
+      {
+        "en": "aspect of life / work",
+        "zh": "生活／工作的某個面向"
+      },
+      {
+        "en": "cover all aspects",
+        "zh": "涵蓋所有層面"
+      }
+    ],
+    "sim": [
+      {
+        "word": "dimension",
+        "pos": "n.",
+        "zh": "維度、面向",
+        "diff": "dimension 更強調深度或多維結構；aspect 更日常"
+      },
+      {
+        "word": "facet",
+        "pos": "n.",
+        "zh": "面向、切面",
+        "diff": "facet 源自寶石的切面，比 aspect 更強調「其中一小面」"
+      },
+      {
+        "word": "element",
+        "pos": "n.",
+        "zh": "要素、元素",
+        "diff": "element 強調組成部分；aspect 強調觀察角度"
+      }
+    ],
+    "look": [
+      {
+        "a": "aspect",
+        "b": "respect",
+        "zh": "面向 vs 尊重／方面",
+        "tip": "'in this respect' 和 'in this aspect' 意思接近，但 respect 在這用法更正式"
+      },
+      {
+        "a": "aspect",
+        "b": "prospect",
+        "zh": "面向 vs 前景",
+        "tip": "prospect 指未來的可能性；aspect 是當下的面向，字尾相同容易混"
+      }
+    ]
+  },
+  {
+    "id": "amateur",
+    "date": "6/16",
+    "title": "amateur",
+    "phonetic": "🔊 /ˈæm.ə.tɜːr/",
+    "hint": "業餘的、非專業的",
+    "meanings": [
+      {
+        "pos": "n",
+        "en": "業餘愛好者（非以此為職業的人）",
+        "zh": "a person who does something as a hobby, not as a profession",
+        "examples": [
+          "He's an <em>amateur</em> photographer who shoots on weekends.",
+          "The competition is open to both professionals and <em>amateurs</em>."
+        ]
+      },
+      {
+        "pos": "adj",
+        "en": "業餘的；（貶義）不夠專業的",
+        "zh": "done by amateurs; sometimes implying low quality",
+        "examples": [
+          "The presentation looked <em>amateur</em> — no data, no structure.",
+          "This is <em>amateur</em> work; we need to redo it before the client meeting."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "amateur",
+        "pos": "n./adj.",
+        "zh": "業餘者；業餘的"
+      },
+      {
+        "word": "amateurish",
+        "pos": "adj.",
+        "zh": "業餘水準的（帶貶義）"
+      },
+      {
+        "word": "amateurishly",
+        "pos": "adv.",
+        "zh": "以業餘方式地"
+      }
+    ],
+    "col": [
+      {
+        "en": "amateur photographer / athlete",
+        "zh": "業餘攝影師／運動員"
+      },
+      {
+        "en": "amateur hour",
+        "zh": "（俚語）非常業餘的狀況"
+      },
+      {
+        "en": "look amateur",
+        "zh": "看起來不專業"
+      },
+      {
+        "en": "amateur mistake",
+        "zh": "業餘錯誤、低級錯誤"
+      }
+    ],
+    "sim": [
+      {
+        "word": "hobbyist",
+        "pos": "n.",
+        "zh": "業餘愛好者",
+        "diff": "hobbyist 純指興趣，不帶貶義；amateur 有時暗示不夠好"
+      },
+      {
+        "word": "novice",
+        "pos": "n.",
+        "zh": "新手",
+        "diff": "novice 強調缺乏經驗；amateur 強調非職業身分"
+      },
+      {
+        "word": "layperson",
+        "pos": "n.",
+        "zh": "外行人",
+        "diff": "layperson 指對某領域不熟悉的人；amateur 有時有一定程度的熱情投入"
+      }
+    ],
+    "look": [
+      {
+        "a": "amateur",
+        "b": "amateurish",
+        "zh": "業餘者 vs 業餘水準的",
+        "tip": "amateurish 加了 -ish 後綴，語氣帶貶義，比 amateur 更強調「不專業」"
+      },
+      {
+        "a": "amateur",
+        "b": "amateurs vs armatures",
+        "zh": "業餘者 vs 電樞（電機零件）",
+        "tip": "armature 是電機學術語，拼法相近但毫不相關"
+      }
+    ]
+  },
+  {
+    "id": "derive",
+    "date": "6/16",
+    "title": "derive",
+    "phonetic": "🔊 /dɪˈraɪv/",
+    "hint": "衍生、獲得",
+    "meanings": [
+      {
+        "pos": "v",
+        "en": "獲得（益處、快樂等）；衍生自、源自",
+        "zh": "to get something from a source; to originate from",
+        "examples": [
+          "We can <em>derive</em> valuable insights from user behavior data.",
+          "The word 'product' is <em>derived</em> from Latin."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "derive",
+        "pos": "v.",
+        "zh": "衍生、獲得"
+      },
+      {
+        "word": "derivation",
+        "pos": "n.",
+        "zh": "衍生、來源"
+      },
+      {
+        "word": "derivative",
+        "pos": "n./adj.",
+        "zh": "衍生物；衍生的（或缺乏原創性的）"
+      },
+      {
+        "word": "derived",
+        "pos": "adj.",
+        "zh": "衍生的"
+      }
+    ],
+    "col": [
+      {
+        "en": "derive from",
+        "zh": "源自、來自"
+      },
+      {
+        "en": "derive value / benefit from",
+        "zh": "從……獲得價值／好處"
+      },
+      {
+        "en": "derive insights from",
+        "zh": "從……得出洞察"
+      },
+      {
+        "en": "derived data",
+        "zh": "衍生數據"
+      },
+      {
+        "en": "be derived from",
+        "zh": "（被動）源自於"
+      }
+    ],
+    "sim": [
+      {
+        "word": "obtain",
+        "pos": "v.",
+        "zh": "獲得",
+        "diff": "obtain 更直接，強調取得結果；derive 強調從某來源提取"
+      },
+      {
+        "word": "extract",
+        "pos": "v.",
+        "zh": "提取",
+        "diff": "extract 更強調「取出」的動作；derive 更抽象"
+      },
+      {
+        "word": "stem from",
+        "pos": "phr.",
+        "zh": "源自",
+        "diff": "stem from 強調根源；derive from 也可指主動獲取"
+      }
+    ],
+    "look": [
+      {
+        "a": "derive",
+        "b": "deprive",
+        "zh": "衍生 vs 剝奪",
+        "tip": "deprive = 奪走某人的東西；de- 有「去除」的意思，別和 derive 搞混"
+      },
+      {
+        "a": "derive",
+        "b": "arrive",
+        "zh": "衍生 vs 抵達",
+        "tip": "發音相近，但意思完全不同；derive 強調來源，arrive 強調到達"
+      }
+    ]
+  },
+  {
+    "id": "conflate",
+    "date": "6/16",
+    "title": "conflate",
+    "phonetic": "🔊 /kənˈfleɪt/",
+    "hint": "混為一談、混淆",
+    "meanings": [
+      {
+        "pos": "v",
+        "en": "將兩個或多個不同的事物混為一談、錯誤地視為相同",
+        "zh": "to combine two or more things incorrectly, treating them as the same",
+        "examples": [
+          "Don't <em>conflate</em> user engagement with user satisfaction — they're different.",
+          "People often <em>conflate</em> being busy with being productive."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "conflate",
+        "pos": "v.",
+        "zh": "混為一談"
+      },
+      {
+        "word": "conflation",
+        "pos": "n.",
+        "zh": "混淆、混為一談的行為"
+      }
+    ],
+    "col": [
+      {
+        "en": "conflate A with B",
+        "zh": "將A和B混為一談"
+      },
+      {
+        "en": "conflate two concepts",
+        "zh": "混淆兩個概念"
+      },
+      {
+        "en": "avoid conflating",
+        "zh": "避免混淆"
+      },
+      {
+        "en": "common conflation",
+        "zh": "常見的混淆"
+      }
+    ],
+    "sim": [
+      {
+        "word": "confuse",
+        "pos": "v.",
+        "zh": "混淆",
+        "diff": "confuse 更口語，指分不清楚；conflate 更正式，強調錯誤地合併"
+      },
+      {
+        "word": "equate",
+        "pos": "v.",
+        "zh": "等同視之",
+        "diff": "equate 說兩者相等；conflate 是把兩個不同的東西錯誤地合在一起"
+      },
+      {
+        "word": "mix up",
+        "pos": "phr.",
+        "zh": "搞混",
+        "diff": "mix up 更口語；conflate 有學術或討論語氣"
+      }
+    ],
+    "look": [
+      {
+        "a": "conflate",
+        "b": "inflate",
+        "zh": "混為一談 vs 膨脹",
+        "tip": "inflate 指誇大或充氣；conflate 的 con- 有「合在一起」的意思"
+      },
+      {
+        "a": "conflate",
+        "b": "confuse",
+        "zh": "混淆合併 vs 混淆不清",
+        "tip": "conflate 強調「誤以為是同一件事」；confuse 強調「分不清楚」，語意有細微差異"
+      }
+    ]
+  },
+  {
+    "id": "drill",
+    "date": "6/16",
+    "title": "drill",
+    "phonetic": "🔊 /drɪl/",
+    "hint": "深入探討；演練",
+    "meanings": [
+      {
+        "pos": "v",
+        "en": "深入探討、追問（drill down into）；反覆練習",
+        "zh": "to investigate in depth; to practice repeatedly",
+        "examples": [
+          "Let's <em>drill</em> down into the data to find the root cause.",
+          "The team <em>drilled</em> the presentation until it felt natural."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "演練、訓練；鑽孔機",
+        "zh": "a practice exercise; a tool for making holes",
+        "examples": [
+          "We ran a fire <em>drill</em> to test the emergency response.",
+          "Use a <em>drill</em> to make holes in the wall."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "drill",
+        "pos": "v./n.",
+        "zh": "演練；鑽孔機"
+      },
+      {
+        "word": "drilling",
+        "pos": "n.",
+        "zh": "鑽孔；反覆練習"
+      }
+    ],
+    "col": [
+      {
+        "en": "drill down into",
+        "zh": "深入探討、往下挖"
+      },
+      {
+        "en": "drill into someone",
+        "zh": "反覆灌輸給某人"
+      },
+      {
+        "en": "fire drill",
+        "zh": "消防演習"
+      },
+      {
+        "en": "practice drill",
+        "zh": "練習演練"
+      },
+      {
+        "en": "drill sergeant",
+        "zh": "（軍事）訓練士官；比喻嚴格訓練者"
+      }
+    ],
+    "sim": [
+      {
+        "word": "dig into",
+        "pos": "phr.",
+        "zh": "深入挖掘",
+        "diff": "更口語，語感相近；drill down 更常見於商業或數據分析情境"
+      },
+      {
+        "word": "investigate",
+        "pos": "v.",
+        "zh": "調查",
+        "diff": "investigate 更正式；drill down 強調層層深入"
+      },
+      {
+        "word": "rehearse",
+        "pos": "v.",
+        "zh": "排練",
+        "diff": "rehearse 偏指表演或演講的排練；drill 偏指反覆練習直到熟練"
+      }
+    ],
+    "look": [
+      {
+        "a": "drill",
+        "b": "drills",
+        "zh": "單次演練 vs 多次演練",
+        "tip": "名詞可數，drills 為複數；動詞三單現在式也是 drills"
+      },
+      {
+        "a": "drill down",
+        "b": "zoom in",
+        "zh": "深入探討 vs 放大細節",
+        "tip": "兩者語感相近，但 drill down 更常見於數據分析；zoom in 更視覺化"
+      }
+    ]
+  },
+  {
+    "id": "noble",
+    "date": "6/16",
+    "title": "noble",
+    "phonetic": "🔊 /ˈnoʊ.bəl/",
+    "hint": "高尚的；貴族的",
+    "meanings": [
+      {
+        "pos": "adj",
+        "en": "高尚的、有品德的；貴族的",
+        "zh": "having high moral qualities; belonging to the nobility",
+        "examples": [
+          "It's a <em>noble</em> goal to make education accessible to everyone.",
+          "She comes from a <em>noble</em> family with centuries of history."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "貴族（人）",
+        "zh": "a person of noble rank",
+        "examples": [
+          "The <em>nobles</em> had significant influence over the king's decisions."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "noble",
+        "pos": "adj./n.",
+        "zh": "高尚的；貴族"
+      },
+      {
+        "word": "nobility",
+        "pos": "n.",
+        "zh": "高尚；貴族階層"
+      },
+      {
+        "word": "nobly",
+        "pos": "adv.",
+        "zh": "高尚地"
+      },
+      {
+        "word": "nobleman",
+        "pos": "n.",
+        "zh": "貴族男性"
+      }
+    ],
+    "col": [
+      {
+        "en": "noble cause / goal",
+        "zh": "崇高的事業／目標"
+      },
+      {
+        "en": "noble intention",
+        "zh": "良善的意圖"
+      },
+      {
+        "en": "noble gesture",
+        "zh": "高尚的舉動"
+      },
+      {
+        "en": "noble character",
+        "zh": "高尚的品格"
+      },
+      {
+        "en": "noble prize → Nobel Prize",
+        "zh": "注意：諾貝爾獎是 Nobel，不是 noble"
+      }
+    ],
+    "sim": [
+      {
+        "word": "honorable",
+        "pos": "adj.",
+        "zh": "值得尊敬的",
+        "diff": "honorable 強調行為讓人尊重；noble 更強調品格與精神層次"
+      },
+      {
+        "word": "virtuous",
+        "pos": "adj.",
+        "zh": "有美德的",
+        "diff": "virtuous 強調道德行為；noble 有時含貴族氣質"
+      },
+      {
+        "word": "admirable",
+        "pos": "adj.",
+        "zh": "令人欽佩的",
+        "diff": "admirable 是他人視角的評價；noble 更主觀描述內在品質"
+      }
+    ],
+    "look": [
+      {
+        "a": "noble",
+        "b": "Nobel",
+        "zh": "高尚的 vs 諾貝爾",
+        "tip": "Nobel Prize 是人名（Alfred Nobel）；常被誤拼成 noble prize"
+      },
+      {
+        "a": "noble",
+        "b": "nobile",
+        "zh": "high-minded vs 義大利語貴族",
+        "tip": "nobile 是義大利語，長得像但是不同語言，英文不會用到"
+      }
+    ]
+  },
+  {
+    "id": "revere",
+    "date": "6/16",
+    "title": "revere",
+    "phonetic": "🔊 /rɪˈvɪər/",
+    "hint": "崇敬、景仰",
+    "meanings": [
+      {
+        "pos": "v",
+        "en": "深深崇敬、景仰（某人或某事）",
+        "zh": "to feel deep respect or admiration for someone or something",
+        "examples": [
+          "She is <em>revered</em> as a pioneer in the field of UX design.",
+          "The team <em>reveres</em> the founding values of the company."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "revere",
+        "pos": "v.",
+        "zh": "崇敬"
+      },
+      {
+        "word": "reverence",
+        "pos": "n.",
+        "zh": "崇敬之情"
+      },
+      {
+        "word": "revered",
+        "pos": "adj.",
+        "zh": "備受景仰的"
+      },
+      {
+        "word": "reverend",
+        "pos": "n./adj.",
+        "zh": "牧師（宗教頭銜）；受尊敬的"
+      },
+      {
+        "word": "irreverent",
+        "pos": "adj.",
+        "zh": "不敬的、不嚴肅的"
+      }
+    ],
+    "col": [
+      {
+        "en": "be revered as",
+        "zh": "被視為……而受崇敬"
+      },
+      {
+        "en": "revered figure / leader",
+        "zh": "備受景仰的人物／領袖"
+      },
+      {
+        "en": "hold in reverence",
+        "zh": "以崇敬之心對待"
+      },
+      {
+        "en": "deep reverence for",
+        "zh": "對……深深的崇敬"
+      },
+      {
+        "en": "revered tradition",
+        "zh": "被尊重的傳統"
+      }
+    ],
+    "sim": [
+      {
+        "word": "admire",
+        "pos": "v.",
+        "zh": "欽佩",
+        "diff": "admire 是日常欽佩；revere 帶有更強烈甚至神聖的崇敬感"
+      },
+      {
+        "word": "respect",
+        "pos": "v.",
+        "zh": "尊重",
+        "diff": "respect 是一般尊重；revere 強度更強，近乎崇拜"
+      },
+      {
+        "word": "venerate",
+        "pos": "v.",
+        "zh": "崇拜、敬奉",
+        "diff": "venerate 與 revere 幾乎同義，但更常用於宗教或歷史人物"
+      }
+    ],
+    "look": [
+      {
+        "a": "revere",
+        "b": "reverse",
+        "zh": "崇敬 vs 反轉",
+        "tip": "reverse 多了一個 s，意思完全不同；revere 是情感，reverse 是動作"
+      },
+      {
+        "a": "revere",
+        "b": "severe",
+        "zh": "崇敬 vs 嚴重的／嚴厲的",
+        "tip": "severe 和 revere 發音相近，但 se- 開頭，意思大相徑庭"
+      }
+    ]
+  },
+  {
+    "id": "neatly",
+    "date": "6/16",
+    "title": "neatly",
+    "phonetic": "🔊 /ˈniːt.li/",
+    "hint": "整齊地；恰好地",
+    "meanings": [
+      {
+        "pos": "adv",
+        "en": "整齊地、有條理地",
+        "zh": "in a tidy and orderly way",
+        "examples": [
+          "The report was <em>neatly</em> organized into three sections.",
+          "She <em>neatly</em> folded the documents and put them in the folder."
+        ]
+      },
+      {
+        "pos": "adv",
+        "en": "巧妙地、恰好地（解決問題或配合得剛剛好）",
+        "zh": "cleverly and conveniently",
+        "examples": [
+          "This solution <em>neatly</em> addresses both the usability and cost concerns.",
+          "The two ideas don't fit together as <em>neatly</em> as you might think."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "neat",
+        "pos": "adj.",
+        "zh": "整齊的；巧妙的"
+      },
+      {
+        "word": "neatly",
+        "pos": "adv.",
+        "zh": "整齊地；巧妙地"
+      },
+      {
+        "word": "neatness",
+        "pos": "n.",
+        "zh": "整齊、有條理"
+      }
+    ],
+    "col": [
+      {
+        "en": "neatly organized",
+        "zh": "整齊地整理好"
+      },
+      {
+        "en": "neatly summarized",
+        "zh": "條理清晰地總結"
+      },
+      {
+        "en": "fit neatly into",
+        "zh": "恰好符合……"
+      },
+      {
+        "en": "neatly sidestep",
+        "zh": "巧妙地迴避"
+      },
+      {
+        "en": "neatly capture",
+        "zh": "恰好呈現／捕捉到"
+      }
+    ],
+    "sim": [
+      {
+        "word": "tidily",
+        "pos": "adv.",
+        "zh": "整潔地",
+        "diff": "tidily 強調物理上的整齊；neatly 也可用於抽象的「邏輯清晰」"
+      },
+      {
+        "word": "cleanly",
+        "pos": "adv.",
+        "zh": "乾淨俐落地",
+        "diff": "cleanly 強調無雜質；neatly 強調有條理"
+      },
+      {
+        "word": "cleverly",
+        "pos": "adv.",
+        "zh": "巧妙地",
+        "diff": "cleverly 強調聰明；neatly 強調恰好、無縫地吻合"
+      }
+    ],
+    "look": [
+      {
+        "a": "neatly",
+        "b": "nearly",
+        "zh": "整齊地 vs 幾乎",
+        "tip": "只差一個字母位置，nearly = 幾乎，neatly = 整齊地，閱讀時要特別注意"
+      },
+      {
+        "a": "neat",
+        "b": "next",
+        "zh": "整齊的 vs 下一個",
+        "tip": "視覺相似度低，但初學者常把 neat 讀快時和 next 搞混"
+      }
+    ]
+  },
+  {
+    "id": "shielding",
+    "date": "6/16",
+    "title": "shielding",
+    "phonetic": "🔊 /ˈʃiːl.dɪŋ/",
+    "hint": "保護、遮擋",
+    "meanings": [
+      {
+        "pos": "v (gerund/present participle)",
+        "en": "保護（某人或某物）免受傷害或不適",
+        "zh": "protecting someone or something from harm or difficulty",
+        "examples": [
+          "The senior PM was <em>shielding</em> the team from executive pressure.",
+          "He kept <em>shielding</em> her from the bad news instead of being transparent."
+        ]
+      },
+      {
+        "pos": "n",
+        "en": "防護、遮蔽（行為或材料）",
+        "zh": "the act of protecting; protective material",
+        "examples": [
+          "<em>Shielding</em> your team from all conflict can actually hinder their growth."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "shield",
+        "pos": "v./n.",
+        "zh": "保護；盾牌"
+      },
+      {
+        "word": "shielding",
+        "pos": "v./n.",
+        "zh": "保護中；防護"
+      },
+      {
+        "word": "shielded",
+        "pos": "adj.",
+        "zh": "受到保護的"
+      }
+    ],
+    "col": [
+      {
+        "en": "shielding from criticism",
+        "zh": "保護免受批評"
+      },
+      {
+        "en": "shielding the team",
+        "zh": "為團隊遮風擋雨"
+      },
+      {
+        "en": "radiation shielding",
+        "zh": "輻射屏蔽"
+      },
+      {
+        "en": "emotional shielding",
+        "zh": "情感上的防護"
+      },
+      {
+        "en": "stop shielding and be transparent",
+        "zh": "停止遮掩、保持透明"
+      }
+    ],
+    "sim": [
+      {
+        "word": "protecting",
+        "pos": "v.",
+        "zh": "保護",
+        "diff": "protecting 更通用；shielding 強調主動擋在前面，像盾牌一樣"
+      },
+      {
+        "word": "sheltering",
+        "pos": "v.",
+        "zh": "庇護",
+        "diff": "sheltering 更偏提供避難所；shielding 強調阻擋外部威脅"
+      },
+      {
+        "word": "guarding",
+        "pos": "v.",
+        "zh": "守護",
+        "diff": "guarding 強調警戒防守；shielding 強調阻隔傷害"
+      }
+    ],
+    "look": [
+      {
+        "a": "shielding",
+        "b": "wielding",
+        "zh": "保護 vs 揮舞（權力）",
+        "tip": "wielding power = 行使權力；shielding 是保護，兩個字押韻但意思完全不同"
+      },
+      {
+        "a": "shield",
+        "b": "yield",
+        "zh": "保護 vs 讓步／產出",
+        "tip": "yield 可以是讓步或產出；shield 是防護，字形容易看錯"
+      }
+    ]
+  },
+  {
+    "id": "inevitably",
+    "date": "6/16",
+    "title": "inevitably",
+    "phonetic": "🔊 /ɪnˈev.ɪ.tə.bli/",
+    "hint": "不可避免地",
+    "meanings": [
+      {
+        "pos": "adv",
+        "en": "不可避免地、必然地",
+        "zh": "in a way that cannot be avoided or prevented",
+        "examples": [
+          "<em>Inevitably</em>, the project ran over budget.",
+          "If you don't address technical debt, it will <em>inevitably</em> slow you down."
+        ]
+      }
+    ],
+    "family": [
+      {
+        "word": "inevitable",
+        "pos": "adj.",
+        "zh": "不可避免的"
+      },
+      {
+        "word": "inevitably",
+        "pos": "adv.",
+        "zh": "不可避免地"
+      },
+      {
+        "word": "inevitability",
+        "pos": "n.",
+        "zh": "必然性"
+      },
+      {
+        "word": "evitable",
+        "pos": "adj.",
+        "zh": "可避免的（罕用）"
+      }
+    ],
+    "col": [
+      {
+        "en": "inevitably leads to",
+        "zh": "必然導致"
+      },
+      {
+        "en": "almost inevitably",
+        "zh": "幾乎不可避免地"
+      },
+      {
+        "en": "this will inevitably...",
+        "zh": "這必然會……"
+      },
+      {
+        "en": "the inevitable outcome",
+        "zh": "必然的結果"
+      },
+      {
+        "en": "face the inevitable",
+        "zh": "面對不可避免的事"
+      }
+    ],
+    "sim": [
+      {
+        "word": "unavoidably",
+        "pos": "adv.",
+        "zh": "無可避免地",
+        "diff": "幾乎同義，但 inevitably 更常出現在書面或正式語境"
+      },
+      {
+        "word": "necessarily",
+        "pos": "adv.",
+        "zh": "必然地",
+        "diff": "necessarily 強調邏輯上的必要；inevitably 強調結果無法逃避"
+      },
+      {
+        "word": "predictably",
+        "pos": "adv.",
+        "zh": "可預見地",
+        "diff": "predictably 帶有「早就料到」的語氣；inevitably 更強調無法改變"
+      }
+    ],
+    "look": [
+      {
+        "a": "inevitably",
+        "b": "inevitably vs eventually",
+        "zh": "必然地 vs 最終地",
+        "tip": "eventually 只說「最後會發生」，不一定是必然；inevitably 強調「無可避免」"
+      },
+      {
+        "a": "inevitable",
+        "b": "evitable",
+        "zh": "不可避免的 vs 可避免的",
+        "tip": "evitable 幾乎不用；但理解 in- 前綴（否定）有助於記憶整個字族"
+      }
+    ]
   }
 ]
