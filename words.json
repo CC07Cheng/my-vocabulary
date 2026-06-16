@@ -4653,7 +4653,7 @@
         "zh": "穩健性、強健"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "robust system / framework",
         "zh": "穩健的系統／框架"
@@ -4675,7 +4675,7 @@
         "zh": "扎實的解決方案"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "resilient",
         "pos": "adj.",
@@ -4695,7 +4695,7 @@
         "diff": "更口語，語氣較輕；robust 更有正式感"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "robust",
         "b": "robustness",
@@ -4762,7 +4762,7 @@
         "zh": "士氣（注意：不同字！）"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "moral obligation",
         "zh": "道德義務"
@@ -4784,7 +4784,7 @@
         "zh": "道德指南針（比喻判斷是非的能力）"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "ethical",
         "pos": "adj.",
@@ -4804,7 +4804,7 @@
         "diff": "強調做事有準則，不因情況改變"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "moral",
         "b": "morale",
@@ -4863,7 +4863,7 @@
         "zh": "毫不客氣地"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "unceremoniously dismissed",
         "zh": "被毫不客氣地解雇"
@@ -4881,7 +4881,7 @@
         "zh": "被突然打斷"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "abruptly",
         "pos": "adv.",
@@ -4901,7 +4901,7 @@
         "diff": "偏指言語上簡短冷漠；unceremoniously 偏指行為上的突然"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "unceremoniously",
         "b": "ceremoniously",
@@ -4955,7 +4955,7 @@
         "zh": "善用諷刺的人"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "the irony is that...",
         "zh": "諷刺的是……"
@@ -4977,7 +4977,7 @@
         "zh": "帶著諷刺意味"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "sarcasm",
         "pos": "n.",
@@ -4997,7 +4997,7 @@
         "diff": "paradox 強調邏輯上的矛盾；irony 強調結果與期望相反"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "irony",
         "b": "ironic",
@@ -5049,7 +5049,7 @@
         "zh": "複數，各個層面"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "key aspect",
         "zh": "關鍵面向"
@@ -5071,7 +5071,7 @@
         "zh": "涵蓋所有層面"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "dimension",
         "pos": "n.",
@@ -5091,7 +5091,7 @@
         "diff": "element 強調組成部分；aspect 強調觀察角度"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "aspect",
         "b": "respect",
@@ -5149,7 +5149,7 @@
         "zh": "以業餘方式地"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "amateur photographer / athlete",
         "zh": "業餘攝影師／運動員"
@@ -5167,7 +5167,7 @@
         "zh": "業餘錯誤、低級錯誤"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "hobbyist",
         "pos": "n.",
@@ -5187,7 +5187,7 @@
         "diff": "layperson 指對某領域不熟悉的人；amateur 有時有一定程度的熱情投入"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "amateur",
         "b": "amateurish",
@@ -5241,7 +5241,7 @@
         "zh": "衍生的"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "derive from",
         "zh": "源自、來自"
@@ -5263,7 +5263,7 @@
         "zh": "（被動）源自於"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "obtain",
         "pos": "v.",
@@ -5283,7 +5283,7 @@
         "diff": "stem from 強調根源；derive from 也可指主動獲取"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "derive",
         "b": "deprive",
@@ -5327,7 +5327,7 @@
         "zh": "混淆、混為一談的行為"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "conflate A with B",
         "zh": "將A和B混為一談"
@@ -5345,7 +5345,7 @@
         "zh": "常見的混淆"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "confuse",
         "pos": "v.",
@@ -5365,7 +5365,7 @@
         "diff": "mix up 更口語；conflate 有學術或討論語氣"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "conflate",
         "b": "inflate",
@@ -5418,7 +5418,7 @@
         "zh": "鑽孔；反覆練習"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "drill down into",
         "zh": "深入探討、往下挖"
@@ -5440,7 +5440,7 @@
         "zh": "（軍事）訓練士官；比喻嚴格訓練者"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "dig into",
         "pos": "phr.",
@@ -5460,7 +5460,7 @@
         "diff": "rehearse 偏指表演或演講的排練；drill 偏指反覆練習直到熟練"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "drill",
         "b": "drills",
@@ -5522,7 +5522,7 @@
         "zh": "貴族男性"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "noble cause / goal",
         "zh": "崇高的事業／目標"
@@ -5544,7 +5544,7 @@
         "zh": "注意：諾貝爾獎是 Nobel，不是 noble"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "honorable",
         "pos": "adj.",
@@ -5564,7 +5564,7 @@
         "diff": "admirable 是他人視角的評價；noble 更主觀描述內在品質"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "noble",
         "b": "Nobel",
@@ -5623,7 +5623,7 @@
         "zh": "不敬的、不嚴肅的"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "be revered as",
         "zh": "被視為……而受崇敬"
@@ -5645,7 +5645,7 @@
         "zh": "被尊重的傳統"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "admire",
         "pos": "v.",
@@ -5665,7 +5665,7 @@
         "diff": "venerate 與 revere 幾乎同義，但更常用於宗教或歷史人物"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "revere",
         "b": "reverse",
@@ -5723,7 +5723,7 @@
         "zh": "整齊、有條理"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "neatly organized",
         "zh": "整齊地整理好"
@@ -5745,7 +5745,7 @@
         "zh": "恰好呈現／捕捉到"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "tidily",
         "pos": "adv.",
@@ -5765,7 +5765,7 @@
         "diff": "cleverly 強調聰明；neatly 強調恰好、無縫地吻合"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "neatly",
         "b": "nearly",
@@ -5822,7 +5822,7 @@
         "zh": "受到保護的"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "shielding from criticism",
         "zh": "保護免受批評"
@@ -5844,7 +5844,7 @@
         "zh": "停止遮掩、保持透明"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "protecting",
         "pos": "v.",
@@ -5864,7 +5864,7 @@
         "diff": "guarding 強調警戒防守；shielding 強調阻隔傷害"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "shielding",
         "b": "wielding",
@@ -5918,7 +5918,7 @@
         "zh": "可避免的（罕用）"
       }
     ],
-    "col": [
+    "collocations": [
       {
         "en": "inevitably leads to",
         "zh": "必然導致"
@@ -5940,7 +5940,7 @@
         "zh": "面對不可避免的事"
       }
     ],
-    "sim": [
+    "similar": [
       {
         "word": "unavoidably",
         "pos": "adv.",
@@ -5960,7 +5960,7 @@
         "diff": "predictably 帶有「早就料到」的語氣；inevitably 更強調無法改變"
       }
     ],
-    "look": [
+    "lookalikes": [
       {
         "a": "inevitably",
         "b": "inevitably vs eventually",
