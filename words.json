@@ -5974,5 +5974,958 @@
         "tip": "evitable 幾乎不用；但理解 in- 前綴（否定）有助於記憶整個字族"
       }
     ]
+  },
+  {
+    "word": "premiere",
+    "phonetic": "/prɪˈmɪər/",
+    "date": "6/19",
+    "frequency": "⭐⭐",
+    "meanings": [
+      {
+        "partOfSpeech": "n.",
+        "en": "首映、首演",
+        "zh": "the first public performance or showing of a film, play, or show",
+        "examples": [
+          "The product's premiere at the conference generated enormous buzz.",
+          "She attended the world premiere of the documentary last night."
+        ]
+      },
+      {
+        "partOfSpeech": "v.",
+        "en": "首次公演、首播",
+        "zh": "to be shown or performed for the first time",
+        "examples": [
+          "The new series will premiere on streaming platforms next month."
+        ]
+      }
+    ],
+    "wordFamily": [
+      {
+        "word": "premier",
+        "partOfSpeech": "adj./n.",
+        "meaning": "最重要的；總理、首相"
+      },
+      {
+        "word": "premiership",
+        "partOfSpeech": "n.",
+        "meaning": "首相任期；英超聯賽"
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "world premiere",
+        "meaning": "世界首映",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "premiere of",
+        "meaning": "某作品的首映",
+        "frequency": "⭐⭐"
+      },
+      {
+        "phrase": "attend the premiere",
+        "meaning": "出席首映",
+        "frequency": "⭐⭐"
+      },
+      {
+        "phrase": "premiere on",
+        "meaning": "在某平台首播",
+        "frequency": "⭐⭐"
+      }
+    ],
+    "similar": [
+      {
+        "word": "debut",
+        "partOfSpeech": "n.",
+        "meaning": "首次亮相",
+        "note": "更廣泛，可指人或作品第一次出現",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "opening",
+        "partOfSpeech": "n.",
+        "meaning": "開幕、開場",
+        "note": "較正式場合使用",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "launch",
+        "partOfSpeech": "n.",
+        "meaning": "發布、推出",
+        "note": "多用於產品或計畫",
+        "frequency": "⭐⭐⭐"
+      }
+    ],
+    "lookalikes": [
+      {
+        "word": "premier",
+        "meaning": "首相；最重要的（形容詞）",
+        "tip": "premiere 是首映（名詞/動詞）；premier 是首相或「最重要的」",
+        "frequency": "⭐⭐"
+      },
+      {
+        "word": "preview",
+        "meaning": "預覽、試映",
+        "tip": "premiere 是正式首映；preview 是預覽，通常在正式發行前給特定人看",
+        "frequency": "⭐⭐⭐"
+      }
+    ]
+  },
+  {
+    "word": "nutshell",
+    "phonetic": "/ˈnʌtʃɛl/",
+    "date": "6/19",
+    "frequency": "⭐⭐",
+    "meanings": [
+      {
+        "partOfSpeech": "n.",
+        "en": "堅果殼",
+        "zh": "the hard shell enclosing the kernel of a nut",
+        "examples": [
+          "The walnut's nutshell is too tough to crack by hand."
+        ]
+      },
+      {
+        "partOfSpeech": "n.",
+        "en": "極小的空間；簡短摘要（常用於慣用語）",
+        "zh": "a very concise summary; a small space",
+        "examples": [
+          "In a nutshell, the feature was too complex for users to adopt quickly.",
+          "Let me put our Q3 strategy in a nutshell for the leadership team."
+        ]
+      }
+    ],
+    "wordFamily": [
+      {
+        "word": "nut",
+        "partOfSpeech": "n.",
+        "meaning": "堅果；螺母"
+      },
+      {
+        "word": "shell",
+        "partOfSpeech": "n.",
+        "meaning": "殼；外殼"
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "in a nutshell",
+        "meaning": "簡而言之",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "put it in a nutshell",
+        "meaning": "簡單說明",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "in a nutshell, ...",
+        "meaning": "開頭引導重點摘要",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "crack the nutshell",
+        "meaning": "突破核心難題",
+        "frequency": "⭐"
+      }
+    ],
+    "similar": [
+      {
+        "word": "in brief",
+        "partOfSpeech": "adv.",
+        "meaning": "簡言之",
+        "note": "較正式書面語",
+        "frequency": "⭐⭐"
+      },
+      {
+        "word": "in short",
+        "partOfSpeech": "adv.",
+        "meaning": "簡而言之",
+        "note": "語氣更直接",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "to sum up",
+        "partOfSpeech": "adv.",
+        "meaning": "總結來說",
+        "note": "常用於結論段",
+        "frequency": "⭐⭐⭐"
+      }
+    ],
+    "lookalikes": [
+      {
+        "word": "eggshell",
+        "meaning": "蛋殼",
+        "tip": "nutshell 是堅果殼（常用於慣用語）；eggshell 也可比喻脆弱（walk on eggshells）",
+        "frequency": "⭐⭐"
+      },
+      {
+        "word": "thumbnail",
+        "meaning": "縮圖；簡短概述",
+        "tip": "nutshell 指簡短摘要；thumbnail 是縮圖，也可指簡短概述（a thumbnail sketch）",
+        "frequency": "⭐⭐⭐"
+      }
+    ]
+  },
+  {
+    "word": "vibrate",
+    "phonetic": "/ˈvaɪbreɪt/",
+    "date": "6/19",
+    "frequency": "⭐⭐",
+    "meanings": [
+      {
+        "partOfSpeech": "v.",
+        "en": "振動、震動",
+        "zh": "to move back and forth rapidly",
+        "examples": [
+          "The phone will vibrate when you receive a notification.",
+          "The entire building began to vibrate during the earthquake."
+        ]
+      },
+      {
+        "partOfSpeech": "v.",
+        "en": "充滿某種氛圍或情緒",
+        "zh": "to be filled with or convey a strong feeling or energy",
+        "examples": [
+          "The room vibrated with excitement as the keynote speaker took the stage."
+        ]
+      }
+    ],
+    "wordFamily": [
+      {
+        "word": "vibration",
+        "partOfSpeech": "n.",
+        "meaning": "振動；氛圍、感覺"
+      },
+      {
+        "word": "vibrant",
+        "partOfSpeech": "adj.",
+        "meaning": "充滿活力的、鮮明的"
+      },
+      {
+        "word": "vibrantly",
+        "partOfSpeech": "adv.",
+        "meaning": "充滿活力地"
+      },
+      {
+        "word": "vibratory",
+        "partOfSpeech": "adj.",
+        "meaning": "振動的"
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "vibrate with",
+        "meaning": "充滿（情緒/能量）",
+        "frequency": "⭐⭐"
+      },
+      {
+        "phrase": "set to vibrate",
+        "meaning": "設為震動模式",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "vibrate at a frequency",
+        "meaning": "以某頻率振動",
+        "frequency": "⭐⭐"
+      },
+      {
+        "phrase": "vibrate through",
+        "meaning": "穿透振動",
+        "frequency": "⭐"
+      }
+    ],
+    "similar": [
+      {
+        "word": "oscillate",
+        "partOfSpeech": "v.",
+        "meaning": "來回擺動",
+        "note": "更偏物理/技術語境",
+        "frequency": "⭐"
+      },
+      {
+        "word": "resonate",
+        "partOfSpeech": "v.",
+        "meaning": "共鳴",
+        "note": "也有引起情感共鳴的意思，更常用",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "tremble",
+        "partOfSpeech": "v.",
+        "meaning": "顫抖",
+        "note": "多指因恐懼或寒冷而抖動",
+        "frequency": "⭐⭐"
+      }
+    ],
+    "lookalikes": [
+      {
+        "word": "liberate",
+        "meaning": "解放、釋放",
+        "tip": "vibrate 和 liberate 字形相近但意思完全不同",
+        "frequency": "⭐⭐"
+      },
+      {
+        "word": "vibration vs liberation",
+        "meaning": "振動 vs 解放運動",
+        "tip": "字尾相同（-ation），但 liberation 是社會/政治解放",
+        "frequency": "⭐⭐"
+      }
+    ]
+  },
+  {
+    "word": "spectrum",
+    "phonetic": "/ˈspɛktrəm/",
+    "date": "6/19",
+    "frequency": "⭐⭐⭐",
+    "meanings": [
+      {
+        "partOfSpeech": "n.",
+        "en": "光譜",
+        "zh": "the range of colors produced when light is separated",
+        "examples": [
+          "The rainbow displays the full visible spectrum of light."
+        ]
+      },
+      {
+        "partOfSpeech": "n.",
+        "en": "範圍、領域、各種層面",
+        "zh": "a wide range of different but related ideas, qualities, or situations",
+        "examples": [
+          "Our users come from a broad spectrum of industries and backgrounds.",
+          "The product needs to serve the entire spectrum of user needs, from beginner to expert."
+        ]
+      }
+    ],
+    "wordFamily": [
+      {
+        "word": "spectral",
+        "partOfSpeech": "adj.",
+        "meaning": "光譜的；幽靈般的"
+      },
+      {
+        "word": "spectrometer",
+        "partOfSpeech": "n.",
+        "meaning": "光譜儀"
+      },
+      {
+        "word": "spectacular",
+        "partOfSpeech": "adj.",
+        "meaning": "壯觀的、引人注目的"
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "a spectrum of",
+        "meaning": "各種各樣的",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "across the spectrum",
+        "meaning": "跨越各個層面",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "broad/wide spectrum",
+        "meaning": "廣泛的範圍",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "at the other end of the spectrum",
+        "meaning": "在另一個極端",
+        "frequency": "⭐⭐⭐"
+      }
+    ],
+    "similar": [
+      {
+        "word": "range",
+        "partOfSpeech": "n.",
+        "meaning": "範圍",
+        "note": "最通用，可替換大多數情境",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "continuum",
+        "partOfSpeech": "n.",
+        "meaning": "連續體",
+        "note": "強調連貫性、不間斷的變化",
+        "frequency": "⭐⭐"
+      },
+      {
+        "word": "gamut",
+        "partOfSpeech": "n.",
+        "meaning": "全範圍",
+        "note": "常見於 run the gamut（涵蓋全範圍）",
+        "frequency": "⭐⭐"
+      }
+    ],
+    "lookalikes": [
+      {
+        "word": "specter",
+        "meaning": "幽靈、陰影",
+        "tip": "spectrum 是光譜/範圍；specter 是幽靈（the specter of failure）",
+        "frequency": "⭐⭐"
+      },
+      {
+        "word": "spectacular",
+        "meaning": "壯觀的",
+        "tip": "字根相同（spec- 看）但詞性不同，spectrum 是名詞，spectacular 是形容詞",
+        "frequency": "⭐⭐⭐"
+      }
+    ]
+  },
+  {
+    "word": "perceive",
+    "phonetic": "/pərˈsiːv/",
+    "date": "6/19",
+    "frequency": "⭐⭐⭐",
+    "meanings": [
+      {
+        "partOfSpeech": "v.",
+        "en": "感知、察覺",
+        "zh": "to become aware of something through the senses or mind",
+        "examples": [
+          "Users perceived the new interface as more intuitive after the redesign.",
+          "She could perceive a slight hesitation in his response."
+        ]
+      },
+      {
+        "partOfSpeech": "v.",
+        "en": "認為、理解為",
+        "zh": "to think of something in a particular way",
+        "examples": [
+          "How customers perceive your brand matters more than what you intend.",
+          "The feature was perceived as too complex by early adopters."
+        ]
+      }
+    ],
+    "wordFamily": [
+      {
+        "word": "perception",
+        "partOfSpeech": "n.",
+        "meaning": "感知；看法、印象"
+      },
+      {
+        "word": "perceptive",
+        "partOfSpeech": "adj.",
+        "meaning": "有洞察力的"
+      },
+      {
+        "word": "perceptible",
+        "partOfSpeech": "adj.",
+        "meaning": "可察覺的"
+      },
+      {
+        "word": "imperceptible",
+        "partOfSpeech": "adj.",
+        "meaning": "難以察覺的"
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "perceive A as B",
+        "meaning": "將A視為B",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "be perceived as",
+        "meaning": "被認為是",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "perceive a difference",
+        "meaning": "察覺到差異",
+        "frequency": "⭐⭐"
+      },
+      {
+        "phrase": "perceive a threat",
+        "meaning": "感知到威脅",
+        "frequency": "⭐⭐"
+      }
+    ],
+    "similar": [
+      {
+        "word": "notice",
+        "partOfSpeech": "v.",
+        "meaning": "注意到",
+        "note": "較口語，強調有意識地看到",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "recognize",
+        "partOfSpeech": "v.",
+        "meaning": "認出、識別",
+        "note": "強調辨識已知的事物",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "observe",
+        "partOfSpeech": "v.",
+        "meaning": "觀察",
+        "note": "更正式，強調仔細觀看",
+        "frequency": "⭐⭐⭐"
+      }
+    ],
+    "lookalikes": [
+      {
+        "word": "receive",
+        "meaning": "接收、收到",
+        "tip": "perceive 是感知/認為；receive 是接收，字形相近但意思不同",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "deception",
+        "meaning": "欺騙",
+        "tip": "perception 是感知；deception 是欺騙，字尾相同（-ception）但意思相反",
+        "frequency": "⭐⭐"
+      }
+    ]
+  },
+  {
+    "word": "boot",
+    "phonetic": "/buːt/",
+    "date": "6/19",
+    "frequency": "⭐⭐⭐",
+    "meanings": [
+      {
+        "partOfSpeech": "n.",
+        "en": "靴子",
+        "zh": "a type of shoe that covers the foot and ankle or leg",
+        "examples": [
+          "She wore leather boots to the outdoor product launch event."
+        ]
+      },
+      {
+        "partOfSpeech": "n./v.",
+        "en": "（電腦）開機、啟動",
+        "zh": "to start a computer system; the process of starting up",
+        "examples": [
+          "The server failed to boot after the system update.",
+          "We need to reboot the system to apply the new configurations."
+        ]
+      },
+      {
+        "partOfSpeech": "v.",
+        "en": "踢；強制驅逐",
+        "zh": "to kick; to forcibly remove someone",
+        "examples": [
+          "He was booted from the platform for violating community guidelines."
+        ]
+      }
+    ],
+    "wordFamily": [
+      {
+        "word": "reboot",
+        "partOfSpeech": "v./n.",
+        "meaning": "重新啟動；重啟計畫"
+      },
+      {
+        "word": "bootstrap",
+        "partOfSpeech": "v.",
+        "meaning": "自力更生、用最少資源創業"
+      },
+      {
+        "word": "bootleg",
+        "partOfSpeech": "adj./n.",
+        "meaning": "盜版的；非法複製品"
+      },
+      {
+        "word": "bootcamp",
+        "partOfSpeech": "n.",
+        "meaning": "新兵訓練營；密集訓練課程"
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "boot up",
+        "meaning": "開機",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "reboot the system",
+        "meaning": "重新啟動系統",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "get the boot",
+        "meaning": "被解雇/被趕走",
+        "frequency": "⭐⭐"
+      },
+      {
+        "phrase": "bootstrap a startup",
+        "meaning": "白手起家創業",
+        "frequency": "⭐⭐"
+      },
+      {
+        "phrase": "boot camp",
+        "meaning": "密集訓練",
+        "frequency": "⭐⭐⭐"
+      }
+    ],
+    "similar": [
+      {
+        "word": "kick",
+        "partOfSpeech": "v.",
+        "meaning": "踢",
+        "note": "最基本的動作動詞",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "launch",
+        "partOfSpeech": "v.",
+        "meaning": "啟動",
+        "note": "更正式，用於系統或計畫",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "start up",
+        "partOfSpeech": "v.",
+        "meaning": "啟動",
+        "note": "通用於機器或企業",
+        "frequency": "⭐⭐⭐"
+      }
+    ],
+    "lookalikes": [
+      {
+        "word": "booth",
+        "meaning": "攤位、電話亭、投票間",
+        "tip": "boot 是靴子/開機；booth 多了一個 h，是小隔間或攤位",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "loot",
+        "meaning": "戰利品、掠奪物",
+        "tip": "boot 是靴子/踢；loot 是掠奪，常見於遊戲語境",
+        "frequency": "⭐⭐"
+      }
+    ]
+  },
+  {
+    "word": "wicked",
+    "phonetic": "/ˈwɪkɪd/",
+    "date": "6/19",
+    "frequency": "⭐⭐⭐",
+    "meanings": [
+      {
+        "partOfSpeech": "adj.",
+        "en": "邪惡的、惡劣的",
+        "zh": "morally bad or cruel",
+        "examples": [
+          "The villain in the story had a wicked plan to undermine the entire system.",
+          "That was a wicked thing to do to someone who trusted you."
+        ]
+      },
+      {
+        "partOfSpeech": "adj.",
+        "en": "（俚語）非常厲害的、很棒的",
+        "zh": "excellent or impressive (informal)",
+        "examples": [
+          "That presentation was absolutely wicked — the data storytelling was on point.",
+          "The new design system is wicked fast to work with."
+        ]
+      }
+    ],
+    "wordFamily": [
+      {
+        "word": "wickedly",
+        "partOfSpeech": "adv.",
+        "meaning": "邪惡地；（俚語）非常地"
+      },
+      {
+        "word": "wickedness",
+        "partOfSpeech": "n.",
+        "meaning": "邪惡、惡劣"
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "wicked sense of humor",
+        "meaning": "刁鑽的幽默感",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "wicked fast/smart/good",
+        "meaning": "非常快/聰明/好（俚語）",
+        "frequency": "⭐⭐"
+      },
+      {
+        "phrase": "wicked witch",
+        "meaning": "邪惡的女巫",
+        "frequency": "⭐⭐"
+      },
+      {
+        "phrase": "play a wicked game",
+        "meaning": "玩弄心機",
+        "frequency": "⭐⭐"
+      }
+    ],
+    "similar": [
+      {
+        "word": "evil",
+        "partOfSpeech": "adj.",
+        "meaning": "邪惡的",
+        "note": "更強烈、更正式",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "sinister",
+        "partOfSpeech": "adj.",
+        "meaning": "陰險的",
+        "note": "帶有不祥的感覺",
+        "frequency": "⭐⭐"
+      },
+      {
+        "word": "naughty",
+        "partOfSpeech": "adj.",
+        "meaning": "頑皮的、不乖的",
+        "note": "程度較輕，多用於小孩",
+        "frequency": "⭐⭐⭐"
+      }
+    ],
+    "lookalikes": [
+      {
+        "word": "wicker",
+        "meaning": "柳條編織",
+        "tip": "wicked 是邪惡的；wicker 是柳條（wicker basket 柳條籃），字尾不同",
+        "frequency": "⭐"
+      },
+      {
+        "word": "woken",
+        "meaning": "wake 的過去分詞，醒來",
+        "tip": "外形略似，但 woken 是 wake-woke-woken 的變化形",
+        "frequency": "⭐⭐"
+      }
+    ]
+  },
+  {
+    "word": "leak",
+    "phonetic": "/liːk/",
+    "date": "6/19",
+    "frequency": "⭐⭐⭐",
+    "meanings": [
+      {
+        "partOfSpeech": "v./n.",
+        "en": "洩漏（液體或氣體）",
+        "zh": "to let liquid or gas escape through a hole or crack",
+        "examples": [
+          "The pipe leaked overnight and caused significant water damage.",
+          "There's a gas leak in the building — everyone needs to evacuate."
+        ]
+      },
+      {
+        "partOfSpeech": "v./n.",
+        "en": "洩露（機密資訊）",
+        "zh": "to disclose confidential information, often intentionally",
+        "examples": [
+          "Someone leaked the roadmap to the press before the official announcement.",
+          "The data leak exposed millions of users' personal information."
+        ]
+      }
+    ],
+    "wordFamily": [
+      {
+        "word": "leaky",
+        "partOfSpeech": "adj.",
+        "meaning": "會漏的、不嚴密的"
+      },
+      {
+        "word": "leakage",
+        "partOfSpeech": "n.",
+        "meaning": "洩漏量；外洩"
+      },
+      {
+        "word": "leak-proof",
+        "partOfSpeech": "adj.",
+        "meaning": "防漏的"
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "data leak",
+        "meaning": "資料外洩",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "leak to the press",
+        "meaning": "向媒體洩露",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "spring a leak",
+        "meaning": "開始漏水",
+        "frequency": "⭐⭐"
+      },
+      {
+        "phrase": "plug the leak",
+        "meaning": "堵住漏洞",
+        "frequency": "⭐⭐⭐"
+      }
+    ],
+    "similar": [
+      {
+        "word": "disclose",
+        "partOfSpeech": "v.",
+        "meaning": "披露",
+        "note": "較正式，不一定是未經授權",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "reveal",
+        "partOfSpeech": "v.",
+        "meaning": "揭露",
+        "note": "中性，強調展示原本隱藏的事物",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "spill",
+        "partOfSpeech": "v.",
+        "meaning": "洩露（口語）",
+        "note": "如 spill the beans（說漏嘴）",
+        "frequency": "⭐⭐"
+      }
+    ],
+    "lookalikes": [
+      {
+        "word": "leek",
+        "meaning": "韭蔥（一種蔬菜）",
+        "tip": "發音完全相同！leak 是洩漏；leek 是韭蔥，是同音字（homophone）",
+        "frequency": "⭐⭐"
+      },
+      {
+        "word": "peak",
+        "meaning": "高峰、頂點",
+        "tip": "字形相近；peak 是最高點，leak 是洩漏",
+        "frequency": "⭐⭐⭐"
+      }
+    ]
+  },
+  {
+    "word": "slip",
+    "phonetic": "/slɪp/",
+    "date": "6/19",
+    "frequency": "⭐⭐⭐",
+    "meanings": [
+      {
+        "partOfSpeech": "v.",
+        "en": "滑倒、滑落",
+        "zh": "to slide accidentally and lose balance or fall",
+        "examples": [
+          "She slipped on the wet floor and sprained her ankle.",
+          "The phone slipped out of his hand during the meeting."
+        ]
+      },
+      {
+        "partOfSpeech": "v.",
+        "en": "不小心說出；悄悄做某事",
+        "zh": "to say or do something accidentally or quietly",
+        "examples": [
+          "He slipped up and mentioned the unannounced feature to the press.",
+          "She slipped the note under the door before leaving."
+        ]
+      },
+      {
+        "partOfSpeech": "n.",
+        "en": "失誤、口誤",
+        "zh": "a small mistake or error",
+        "examples": [
+          "A slip of the tongue during the demo caused some confusion.",
+          "That was just a slip — the overall presentation went very well."
+        ]
+      },
+      {
+        "partOfSpeech": "n.",
+        "en": "小紙條",
+        "zh": "a small piece of paper",
+        "examples": [
+          "She handed me a slip with the access code written on it."
+        ]
+      }
+    ],
+    "wordFamily": [
+      {
+        "word": "slippery",
+        "partOfSpeech": "adj.",
+        "meaning": "滑的；狡猾的"
+      },
+      {
+        "word": "slip-up",
+        "partOfSpeech": "n.",
+        "meaning": "失誤、出錯"
+      },
+      {
+        "word": "Freudian slip",
+        "partOfSpeech": "n.",
+        "meaning": "佛洛伊德式口誤（說出潛意識想法）"
+      },
+      {
+        "word": "slipper",
+        "partOfSpeech": "n.",
+        "meaning": "拖鞋"
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "slip up",
+        "meaning": "犯錯",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "slip of the tongue",
+        "meaning": "口誤",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "slip through the cracks",
+        "meaning": "從縫隙中漏掉、被忽略",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "phrase": "give someone the slip",
+        "meaning": "甩掉某人",
+        "frequency": "⭐⭐"
+      },
+      {
+        "phrase": "let something slip",
+        "meaning": "不小心說漏嘴",
+        "frequency": "⭐⭐⭐"
+      }
+    ],
+    "similar": [
+      {
+        "word": "slide",
+        "partOfSpeech": "v.",
+        "meaning": "滑動",
+        "note": "更中性，不一定是意外",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "stumble",
+        "partOfSpeech": "v.",
+        "meaning": "絆倒",
+        "note": "腳步不穩，也可指說話結巴",
+        "frequency": "⭐⭐"
+      },
+      {
+        "word": "err",
+        "partOfSpeech": "v.",
+        "meaning": "犯錯",
+        "note": "較正式書面語",
+        "frequency": "⭐⭐"
+      }
+    ],
+    "lookalikes": [
+      {
+        "word": "flip",
+        "meaning": "翻轉、快速翻頁",
+        "tip": "slip 是滑倒/失誤；flip 是翻轉（flip through 快速翻閱）",
+        "frequency": "⭐⭐⭐"
+      },
+      {
+        "word": "clip",
+        "meaning": "夾子、剪輯、片段",
+        "tip": "slip 是紙條/失誤；clip 是夾子或影片片段",
+        "frequency": "⭐⭐⭐"
+      }
+    ]
   }
 ]
