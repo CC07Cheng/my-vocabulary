@@ -8,7 +8,6 @@
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f8f8f6; color: #1a1a1a; min-height: 100vh; }
 
-  /* Layer 1 */
   #layer1 { max-width: 480px; margin: 0 auto; padding: 2rem 1.2rem; }
   .page-title { font-size: 22px; font-weight: 600; margin-bottom: 6px; }
   .page-sub { font-size: 13px; color: #888; margin-bottom: 1.8rem; }
@@ -17,7 +16,6 @@
   .date-label { font-size: 16px; font-weight: 600; }
   .date-count { font-size: 12px; color: #888; background: #f0f0f0; padding: 3px 10px; border-radius: 99px; }
 
-  /* Layer 2 */
   #layer2 { max-width: 480px; margin: 0 auto; padding: 1.5rem 1.2rem; display: none; }
   .back-btn { font-size: 13px; color: #888; cursor: pointer; margin-bottom: 1.2rem; display: inline-flex; align-items: center; gap: 5px; }
   .back-btn:hover { color: #1a1a1a; }
@@ -28,17 +26,18 @@
   .word-row-zh { font-size: 12px; color: #888; }
   .word-row-arrow { color: #ccc; font-size: 16px; }
 
-  /* Layer 3 */
   #layer3 { max-width: 560px; margin: 0 auto; padding: 1.5rem 1.2rem; display: none; }
 
-  /* Word header */
-  .word-header { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  /* 常見度標籤 */
+  .freq { display: inline-block; font-size: 10px; font-weight: 700; padding: 2px 8px; border-radius: 99px; vertical-align: middle; white-space: nowrap; }
+  .freq-3 { background: #fff0c2; color: #7a5c00; border: 1px solid #f0c040; }
+  .freq-2 { background: #e6f0ff; color: #1a5cc8; border: 1px solid #a0c0f0; }
+  .freq-1 { background: #f0f0f0; color: #999;    border: 1px solid #ddd; }
+
+  /* 單字標題 */
+  .word-header { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 4px; }
   .word-title { font-size: 30px; font-weight: 700; }
-  .word-freq-badge { font-size: 11px; font-weight: 600; padding: 3px 10px; border-radius: 99px; vertical-align: middle; }
-  .freq-high { background: #fff3cd; color: #856404; border: 1px solid #ffc107; }
-  .freq-mid  { background: #e8f4fd; color: #0a58ca; border: 1px solid #90c4f5; }
-  .freq-low  { background: #f0f0f0; color: #888;    border: 1px solid #ddd; }
-  .word-phonetic { font-size: 13px; color: #888; margin-top: 5px; margin-bottom: 1.4rem; }
+  .word-phonetic { font-size: 13px; color: #888; margin-bottom: 1.4rem; }
 
   .section { margin: 1.2rem 0; }
   .section-label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #aaa; margin-bottom: 10px; }
@@ -47,10 +46,9 @@
   /* Meanings */
   .pos-badge { display: inline-block; font-size: 10px; font-weight: 600; padding: 2px 8px; border-radius: 99px; background: #1a1a1a; color: #fff; margin-right: 6px; text-transform: uppercase; vertical-align: middle; }
   .meaning-block { margin-bottom: 1.2rem; }
-  .meaning-top { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
-  .meaning-zh-main { font-size: 16px; font-weight: 600; line-height: 1.5; display: inline; }
-  .meaning-freq { font-size: 10px; padding: 1px 7px; border-radius: 99px; font-weight: 600; }
-  .meaning-en-sub { font-size: 12px; color: #888; margin-top: 3px; }
+  .meaning-top { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 3px; }
+  .meaning-zh-main { font-size: 16px; font-weight: 600; line-height: 1.5; }
+  .meaning-en-sub { font-size: 12px; color: #888; margin-top: 2px; }
   .example { font-size: 13px; color: #555; font-style: italic; margin-top: 8px; padding-left: 10px; border-left: 2px solid #ddd; line-height: 1.6; }
   .example em { font-style: normal; font-weight: 700; text-decoration: underline; text-decoration-color: #bbb; }
 
@@ -63,14 +61,14 @@
 
   /* Collocations */
   .col-grid { display: flex; flex-direction: column; gap: 8px; }
-  .col-item { display: flex; gap: 10px; align-items: baseline; font-size: 13px; }
-  .col-en { font-weight: 600; min-width: 160px; }
-  .col-zh { color: #666; }
+  .col-item { display: flex; align-items: center; gap: 8px; font-size: 13px; flex-wrap: wrap; }
+  .col-en { font-weight: 600; }
+  .col-zh { color: #666; flex: 1; }
 
   /* Similar */
   .sim-grid { display: flex; flex-direction: column; gap: 8px; }
   .sim-card { background: #f9f9f7; border-radius: 10px; padding: 10px 12px; }
-  .sim-top { display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px; flex-wrap: wrap; }
+  .sim-top { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; flex-wrap: wrap; }
   .sim-word { font-size: 14px; font-weight: 700; }
   .sim-pos { font-size: 10px; color: #aaa; }
   .sim-zh { font-size: 12px; color: #555; font-weight: 500; }
@@ -111,15 +109,13 @@
 let allWords = [];
 let currentDate = null;
 
-// 將 ⭐ 字串轉換成標籤 HTML
-function freqBadge(freqStr, extraClass) {
-  if (!freqStr) return '';
-  const stars = (freqStr.match(/⭐/g) || []).length;
-  let cls, label;
-  if (stars >= 3)      { cls = 'freq-high'; label = '⭐⭐⭐ 極常見'; }
-  else if (stars === 2) { cls = 'freq-mid';  label = '⭐⭐ 常見'; }
-  else                  { cls = 'freq-low';  label = '⭐ 較少見'; }
-  return `<span class="word-freq-badge ${cls} ${extraClass||''}">${label}</span>`;
+function freqBadge(f) {
+  if (!f) return '';
+  const n = typeof f === 'number' ? f : (String(f).match(/⭐/g)||[]).length;
+  if (n >= 3) return '<span class="freq freq-3">必學</span>';
+  if (n === 2) return '<span class="freq freq-2">常見</span>';
+  if (n === 1) return '<span class="freq freq-1">較少見</span>';
+  return '';
 }
 
 async function loadWords() {
@@ -190,23 +186,22 @@ function goToLayer3(wordId) {
   const w = allWords.find(x => x.id === wordId);
   if (!w) return;
 
-  // 標題 + 單字整體常見度
+  // 標題 + 整體常見度
   let html = `<div class="word-header"><span class="word-title">${w.title}</span>${freqBadge(w.frequency)}</div>`;
   html += `<div class="word-phonetic">${w.phonetic}</div>`;
 
-  // Meanings（含各義項常見度）
+  // 意思
   html += `<div class="section"><div class="section-label">意思 &amp; 用法</div>`;
   w.meanings.forEach(m => {
     html += `<div class="meaning-block">`;
-    html += `<div class="meaning-top"><span class="pos-badge">${m.pos}</span><span class="meaning-zh-main">${m.en}</span>${freqBadge(m.frequency, 'meaning-freq')}</div>`;
+    html += `<div class="meaning-top"><span class="pos-badge">${m.pos}</span><span class="meaning-zh-main">${m.en}</span>${freqBadge(m.frequency)}</div>`;
     html += `<div class="meaning-en-sub">${m.zh}</div>`;
-    const exs = m.examples || m.ex || [];
-    exs.forEach(ex => { html += `<div class="example">${ex}</div>`; });
+    (m.examples || m.ex || []).forEach(ex => { html += `<div class="example">${ex}</div>`; });
     html += `</div>`;
   });
   html += `</div>`;
 
-  // Family
+  // 字族
   if (w.family && w.family.length) {
     html += `<hr class="divider"><div class="section"><div class="section-label">字族</div><div class="family-grid">`;
     w.family.forEach(f => {
@@ -215,35 +210,35 @@ function goToLayer3(wordId) {
     html += `</div></div>`;
   }
 
-  // Collocations（⭐ 已嵌在 en 字串中，直接顯示）
+  // 搭配用法（含常見度標籤）
   const cols = w.collocations || w.col || [];
   if (cols.length) {
     html += `<hr class="divider"><div class="section"><div class="section-label">搭配用法</div><div class="col-grid">`;
     cols.forEach(c => {
-      html += `<div class="col-item"><span class="col-en">${c.en}</span><span class="col-zh">${c.zh}</span></div>`;
+      html += `<div class="col-item"><span class="col-en">${c.en}</span>${freqBadge(c.frequency)}<span class="col-zh">${c.zh}</span></div>`;
     });
     html += `</div></div>`;
   }
 
-  // Similar（⭐ 已嵌在 zh 字串中，直接顯示）
+  // 相似詞（含常見度標籤）
   const sims = w.similar || w.sim || [];
   if (sims.length) {
     html += `<hr class="divider"><div class="section"><div class="section-label">相似詞</div><div class="sim-grid">`;
     sims.forEach(s => {
-      html += `<div class="sim-card"><div class="sim-top"><span class="sim-word">${s.word}</span><span class="sim-pos">${s.pos}</span><span class="sim-zh">${s.zh}</span></div>`;
+      html += `<div class="sim-card"><div class="sim-top"><span class="sim-word">${s.word}</span><span class="sim-pos">${s.pos}</span><span class="sim-zh">${s.zh}</span>${freqBadge(s.frequency)}</div>`;
       if (s.diff) html += `<div class="sim-diff">${s.diff}</div>`;
       html += `</div>`;
     });
     html += `</div></div>`;
   }
 
-  // Lookalikes（⭐ 已嵌在 zh 字串中，直接顯示）
+  // 長得很像的單詞（含常見度標籤）
   const looks = w.lookalikes || w.look || [];
   if (looks.length) {
     html += `<hr class="divider"><div class="section"><div class="section-label">長得很像的單詞</div><div class="look-grid">`;
     looks.forEach(l => {
       html += `<div class="look-card">`;
-      html += `<div class="look-pair"><span class="look-word">${l.a}</span><span class="look-vs">vs</span><span class="look-word">${l.b}</span></div>`;
+      html += `<div class="look-pair"><span class="look-word">${l.a}</span><span class="look-vs">vs</span><span class="look-word">${l.b}</span>${freqBadge(l.frequency)}</div>`;
       html += `<div class="look-zh">${l.zh}</div>`;
       html += `<div class="look-tip">${l.tip}</div>`;
       html += `</div>`;
