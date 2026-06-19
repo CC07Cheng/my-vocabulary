@@ -5981,7 +5981,7 @@
     "date": "6/19",
     "phonetic": "🔊 /prɪˈmɪər/",
     "hint": "首映、首演",
-    "frequency": "⭐⭐",
+    "frequency": 2,
     "meanings": [
       {
         "pos": "n.",
@@ -5991,7 +5991,7 @@
           "The product's <em>premiere</em> at the conference generated enormous buzz.",
           "She attended the world <em>premiere</em> of the documentary last night."
         ],
-        "frequency": "⭐⭐"
+        "frequency": 2
       },
       {
         "pos": "v.",
@@ -6000,7 +6000,7 @@
         "examples": [
           "The new series will <em>premiere</em> on streaming platforms next month."
         ],
-        "frequency": "⭐⭐"
+        "frequency": 2
       }
     ],
     "family": [
@@ -6017,54 +6017,63 @@
     ],
     "collocations": [
       {
-        "en": "world premiere ⭐⭐⭐",
-        "zh": "世界首映"
+        "en": "world premiere",
+        "zh": "世界首映",
+        "frequency": 3
       },
       {
-        "en": "premiere of ⭐⭐",
-        "zh": "某作品的首映"
+        "en": "premiere of",
+        "zh": "某作品的首映",
+        "frequency": 2
       },
       {
-        "en": "attend the premiere ⭐⭐",
-        "zh": "出席首映"
+        "en": "attend the premiere",
+        "zh": "出席首映",
+        "frequency": 2
       },
       {
-        "en": "premiere on ⭐⭐",
-        "zh": "在某平台首播"
+        "en": "premiere on",
+        "zh": "在某平台首播",
+        "frequency": 2
       }
     ],
     "similar": [
       {
         "word": "debut",
         "pos": "n.",
-        "zh": "首次亮相 ⭐⭐⭐",
-        "diff": "更廣泛，可指人或作品第一次出現"
+        "zh": "首次亮相",
+        "diff": "更廣泛，可指人或作品第一次出現",
+        "frequency": 3
       },
       {
         "word": "opening",
         "pos": "n.",
-        "zh": "開幕、開場 ⭐⭐⭐",
-        "diff": "較正式場合使用"
+        "zh": "開幕、開場",
+        "diff": "較正式場合使用",
+        "frequency": 3
       },
       {
         "word": "launch",
         "pos": "n.",
-        "zh": "發布、推出 ⭐⭐⭐",
-        "diff": "多用於產品或計畫"
+        "zh": "發布、推出",
+        "diff": "多用於產品或計畫",
+        "frequency": 3
       }
     ],
     "lookalikes": [
       {
         "a": "premiere",
         "b": "premier",
-        "zh": "首映 vs 首相；最重要的 ⭐⭐",
-        "tip": "premiere 是首映（名詞/動詞）；premier 是首相或「最重要的」（形容詞）"
+        "zh": "首映 vs 首相；最重要的",
+        "tip": "premiere 是首映（名詞/動詞）；premier 是首相或「最重要的」（形容詞）",
+        "frequency": 2
       },
       {
         "a": "premiere",
         "b": "preview",
-        "zh": "首映 vs 預覽、試映 ⭐⭐⭐",
-        "tip": "premiere 是正式首映；preview 是預覽，通常在正式發行前給特定人看"
+        "zh": "首映 vs 預覽、試映",
+        "tip": "premiere 是正式首映；preview 是預覽，通常在正式發行前給特定人看",
+        "frequency": 3
       }
     ]
   },
@@ -6074,7 +6083,7 @@
     "date": "6/19",
     "phonetic": "🔊 /ˈnʌtʃɛl/",
     "hint": "堅果殼；簡而言之",
-    "frequency": "⭐⭐",
+    "frequency": 2,
     "meanings": [
       {
         "pos": "n.",
@@ -6083,7 +6092,7 @@
         "examples": [
           "The walnut's <em>nutshell</em> is too tough to crack by hand."
         ],
-        "frequency": "⭐"
+        "frequency": 1
       },
       {
         "pos": "n.",
@@ -6093,7 +6102,7 @@
           "In a <em>nutshell</em>, the feature was too complex for users to adopt quickly.",
           "Let me put our Q3 strategy in a <em>nutshell</em> for the leadership team."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       }
     ],
     "family": [
@@ -6110,54 +6119,63 @@
     ],
     "collocations": [
       {
-        "en": "in a nutshell ⭐⭐⭐",
-        "zh": "簡而言之（最核心用法）"
+        "en": "in a nutshell",
+        "zh": "簡而言之（最核心用法）",
+        "frequency": 3
       },
       {
-        "en": "put it in a nutshell ⭐⭐⭐",
-        "zh": "簡單說明"
+        "en": "put it in a nutshell",
+        "zh": "簡單說明",
+        "frequency": 3
       },
       {
-        "en": "in a nutshell, ... ⭐⭐⭐",
-        "zh": "開頭引導重點摘要"
+        "en": "in a nutshell, ...",
+        "zh": "開頭引導重點摘要",
+        "frequency": 3
       },
       {
-        "en": "crack the nutshell ⭐",
-        "zh": "突破核心難題"
+        "en": "crack the nutshell",
+        "zh": "突破核心難題",
+        "frequency": 1
       }
     ],
     "similar": [
       {
         "word": "in brief",
         "pos": "adv.",
-        "zh": "簡言之 ⭐⭐",
-        "diff": "較正式書面語"
+        "zh": "簡言之",
+        "diff": "較正式書面語",
+        "frequency": 2
       },
       {
         "word": "in short",
         "pos": "adv.",
-        "zh": "簡而言之 ⭐⭐⭐",
-        "diff": "語氣更直接"
+        "zh": "簡而言之",
+        "diff": "語氣更直接",
+        "frequency": 3
       },
       {
         "word": "to sum up",
         "pos": "adv.",
-        "zh": "總結來說 ⭐⭐⭐",
-        "diff": "常用於結論段"
+        "zh": "總結來說",
+        "diff": "常用於結論段",
+        "frequency": 3
       }
     ],
     "lookalikes": [
       {
         "a": "nutshell",
         "b": "eggshell",
-        "zh": "堅果殼 vs 蛋殼 ⭐⭐",
-        "tip": "nutshell 常用於慣用語；eggshell 也可比喻脆弱（walk on eggshells）"
+        "zh": "堅果殼 vs 蛋殼",
+        "tip": "nutshell 常用於慣用語；eggshell 也可比喻脆弱（walk on eggshells）",
+        "frequency": 2
       },
       {
         "a": "nutshell",
         "b": "thumbnail",
-        "zh": "簡短摘要 vs 縮圖；簡短概述 ⭐⭐⭐",
-        "tip": "兩者都有「簡短概述」的意思，但 thumbnail 主要是縮圖"
+        "zh": "簡短摘要 vs 縮圖；簡短概述",
+        "tip": "兩者都有「簡短概述」的意思，但 thumbnail 主要是縮圖",
+        "frequency": 3
       }
     ]
   },
@@ -6167,7 +6185,7 @@
     "date": "6/19",
     "phonetic": "🔊 /ˈvaɪbreɪt/",
     "hint": "振動、震動",
-    "frequency": "⭐⭐",
+    "frequency": 2,
     "meanings": [
       {
         "pos": "v.",
@@ -6177,7 +6195,7 @@
           "The phone will <em>vibrate</em> when you receive a notification.",
           "The entire building began to <em>vibrate</em> during the earthquake."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       },
       {
         "pos": "v.",
@@ -6186,7 +6204,7 @@
         "examples": [
           "The room <em>vibrated</em> with excitement as the keynote speaker took the stage."
         ],
-        "frequency": "⭐⭐"
+        "frequency": 2
       }
     ],
     "family": [
@@ -6213,54 +6231,63 @@
     ],
     "collocations": [
       {
-        "en": "vibrate with ⭐⭐",
-        "zh": "充滿（情緒/能量）"
+        "en": "vibrate with",
+        "zh": "充滿（情緒/能量）",
+        "frequency": 2
       },
       {
-        "en": "set to vibrate ⭐⭐⭐",
-        "zh": "設為震動模式"
+        "en": "set to vibrate",
+        "zh": "設為震動模式",
+        "frequency": 3
       },
       {
-        "en": "vibrate at a frequency ⭐⭐",
-        "zh": "以某頻率振動"
+        "en": "vibrate at a frequency",
+        "zh": "以某頻率振動",
+        "frequency": 2
       },
       {
-        "en": "vibrate through ⭐",
-        "zh": "穿透振動"
+        "en": "vibrate through",
+        "zh": "穿透振動",
+        "frequency": 1
       }
     ],
     "similar": [
       {
         "word": "oscillate",
         "pos": "v.",
-        "zh": "來回擺動 ⭐",
-        "diff": "更偏物理/技術語境"
+        "zh": "來回擺動",
+        "diff": "更偏物理/技術語境",
+        "frequency": 1
       },
       {
         "word": "resonate",
         "pos": "v.",
-        "zh": "共鳴 ⭐⭐⭐",
-        "diff": "也有引起情感共鳴的意思，更常用"
+        "zh": "共鳴",
+        "diff": "也有引起情感共鳴的意思，更常用",
+        "frequency": 3
       },
       {
         "word": "tremble",
         "pos": "v.",
-        "zh": "顫抖 ⭐⭐",
-        "diff": "多指因恐懼或寒冷而抖動"
+        "zh": "顫抖",
+        "diff": "多指因恐懼或寒冷而抖動",
+        "frequency": 2
       }
     ],
     "lookalikes": [
       {
         "a": "vibrate",
         "b": "liberate",
-        "zh": "振動 vs 解放、釋放 ⭐⭐",
-        "tip": "字形相近但意思完全不同"
+        "zh": "振動 vs 解放、釋放",
+        "tip": "字形相近但意思完全不同",
+        "frequency": 2
       },
       {
         "a": "vibration",
         "b": "liberation",
-        "zh": "振動 vs 解放運動 ⭐⭐",
-        "tip": "字尾相同（-ation），但 liberation 是社會/政治解放"
+        "zh": "振動 vs 解放運動",
+        "tip": "字尾相同（-ation），但 liberation 是社會/政治解放",
+        "frequency": 2
       }
     ]
   },
@@ -6270,7 +6297,7 @@
     "date": "6/19",
     "phonetic": "🔊 /ˈspɛktrəm/",
     "hint": "光譜；範圍、領域",
-    "frequency": "⭐⭐⭐",
+    "frequency": 3,
     "meanings": [
       {
         "pos": "n.",
@@ -6279,7 +6306,7 @@
         "examples": [
           "The rainbow displays the full visible <em>spectrum</em> of light."
         ],
-        "frequency": "⭐⭐"
+        "frequency": 2
       },
       {
         "pos": "n.",
@@ -6289,7 +6316,7 @@
           "Our users come from a broad <em>spectrum</em> of industries and backgrounds.",
           "The product needs to serve the entire <em>spectrum</em> of user needs, from beginner to expert."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       }
     ],
     "family": [
@@ -6311,54 +6338,63 @@
     ],
     "collocations": [
       {
-        "en": "a spectrum of ⭐⭐⭐",
-        "zh": "各種各樣的"
+        "en": "a spectrum of",
+        "zh": "各種各樣的",
+        "frequency": 3
       },
       {
-        "en": "across the spectrum ⭐⭐⭐",
-        "zh": "跨越各個層面"
+        "en": "across the spectrum",
+        "zh": "跨越各個層面",
+        "frequency": 3
       },
       {
-        "en": "broad/wide spectrum ⭐⭐⭐",
-        "zh": "廣泛的範圍"
+        "en": "broad/wide spectrum",
+        "zh": "廣泛的範圍",
+        "frequency": 3
       },
       {
-        "en": "at the other end of the spectrum ⭐⭐⭐",
-        "zh": "在另一個極端"
+        "en": "at the other end of the spectrum",
+        "zh": "在另一個極端",
+        "frequency": 3
       }
     ],
     "similar": [
       {
         "word": "range",
         "pos": "n.",
-        "zh": "範圍 ⭐⭐⭐",
-        "diff": "最通用，可替換大多數情境"
+        "zh": "範圍",
+        "diff": "最通用，可替換大多數情境",
+        "frequency": 3
       },
       {
         "word": "continuum",
         "pos": "n.",
-        "zh": "連續體 ⭐⭐",
-        "diff": "強調連貫性、不間斷的變化"
+        "zh": "連續體",
+        "diff": "強調連貫性、不間斷的變化",
+        "frequency": 2
       },
       {
         "word": "gamut",
         "pos": "n.",
-        "zh": "全範圍 ⭐⭐",
-        "diff": "常見於 run the gamut（涵蓋全範圍）"
+        "zh": "全範圍",
+        "diff": "常見於 run the gamut（涵蓋全範圍）",
+        "frequency": 2
       }
     ],
     "lookalikes": [
       {
         "a": "spectrum",
         "b": "specter",
-        "zh": "光譜/範圍 vs 幽靈、陰影 ⭐⭐",
-        "tip": "specter 是幽靈（the specter of failure）"
+        "zh": "光譜/範圍 vs 幽靈、陰影",
+        "tip": "specter 是幽靈（the specter of failure）",
+        "frequency": 2
       },
       {
         "a": "spectrum",
         "b": "spectacular",
-        "zh": "範圍（名詞）vs 壯觀的（形容詞）⭐⭐⭐",
-        "tip": "字根相同（spec- 看），但詞性完全不同"
+        "zh": "範圍（名詞）vs 壯觀的（形容詞）",
+        "tip": "字根相同（spec- 看），但詞性完全不同",
+        "frequency": 3
       }
     ]
   },
@@ -6368,7 +6404,7 @@
     "date": "6/19",
     "phonetic": "🔊 /pərˈsiːv/",
     "hint": "感知、察覺；認為",
-    "frequency": "⭐⭐⭐",
+    "frequency": 3,
     "meanings": [
       {
         "pos": "v.",
@@ -6378,7 +6414,7 @@
           "Users <em>perceived</em> the new interface as more intuitive after the redesign.",
           "She could <em>perceive</em> a slight hesitation in his response."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       },
       {
         "pos": "v.",
@@ -6388,7 +6424,7 @@
           "How customers <em>perceive</em> your brand matters more than what you intend.",
           "The feature was <em>perceived</em> as too complex by early adopters."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       }
     ],
     "family": [
@@ -6415,54 +6451,63 @@
     ],
     "collocations": [
       {
-        "en": "perceive A as B ⭐⭐⭐",
-        "zh": "將A視為B"
+        "en": "perceive A as B",
+        "zh": "將A視為B",
+        "frequency": 3
       },
       {
-        "en": "be perceived as ⭐⭐⭐",
-        "zh": "被認為是"
+        "en": "be perceived as",
+        "zh": "被認為是",
+        "frequency": 3
       },
       {
-        "en": "perceive a difference ⭐⭐",
-        "zh": "察覺到差異"
+        "en": "perceive a difference",
+        "zh": "察覺到差異",
+        "frequency": 2
       },
       {
-        "en": "perceive a threat ⭐⭐",
-        "zh": "感知到威脅"
+        "en": "perceive a threat",
+        "zh": "感知到威脅",
+        "frequency": 2
       }
     ],
     "similar": [
       {
         "word": "notice",
         "pos": "v.",
-        "zh": "注意到 ⭐⭐⭐",
-        "diff": "較口語，強調有意識地看到"
+        "zh": "注意到",
+        "diff": "較口語，強調有意識地看到",
+        "frequency": 3
       },
       {
         "word": "recognize",
         "pos": "v.",
-        "zh": "認出、識別 ⭐⭐⭐",
-        "diff": "強調辨識已知的事物"
+        "zh": "認出、識別",
+        "diff": "強調辨識已知的事物",
+        "frequency": 3
       },
       {
         "word": "observe",
         "pos": "v.",
-        "zh": "觀察 ⭐⭐⭐",
-        "diff": "更正式，強調仔細觀看"
+        "zh": "觀察",
+        "diff": "更正式，強調仔細觀看",
+        "frequency": 3
       }
     ],
     "lookalikes": [
       {
         "a": "perceive",
         "b": "receive",
-        "zh": "感知/認為 vs 接收、收到 ⭐⭐⭐",
-        "tip": "字形相近，只差前綴（per- vs re-），但意思完全不同"
+        "zh": "感知/認為 vs 接收、收到",
+        "tip": "字形相近，只差前綴（per- vs re-），但意思完全不同",
+        "frequency": 3
       },
       {
         "a": "perception",
         "b": "deception",
-        "zh": "感知 vs 欺騙 ⭐⭐",
-        "tip": "字尾相同（-ception），但意思相反"
+        "zh": "感知 vs 欺騙",
+        "tip": "字尾相同（-ception），但意思相反",
+        "frequency": 2
       }
     ]
   },
@@ -6472,7 +6517,7 @@
     "date": "6/19",
     "phonetic": "🔊 /buːt/",
     "hint": "靴子；開機；踢",
-    "frequency": "⭐⭐⭐",
+    "frequency": 3,
     "meanings": [
       {
         "pos": "n.",
@@ -6481,7 +6526,7 @@
         "examples": [
           "She wore leather <em>boots</em> to the outdoor product launch event."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       },
       {
         "pos": "n./v.",
@@ -6491,7 +6536,7 @@
           "The server failed to <em>boot</em> after the system update.",
           "We need to re<em>boot</em> the system to apply the new configurations."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       },
       {
         "pos": "v.",
@@ -6500,7 +6545,7 @@
         "examples": [
           "He was <em>booted</em> from the platform for violating community guidelines."
         ],
-        "frequency": "⭐⭐"
+        "frequency": 2
       }
     ],
     "family": [
@@ -6527,58 +6572,68 @@
     ],
     "collocations": [
       {
-        "en": "boot up ⭐⭐⭐",
-        "zh": "開機"
+        "en": "boot up",
+        "zh": "開機",
+        "frequency": 3
       },
       {
-        "en": "reboot the system ⭐⭐⭐",
-        "zh": "重新啟動系統"
+        "en": "reboot the system",
+        "zh": "重新啟動系統",
+        "frequency": 3
       },
       {
-        "en": "get the boot ⭐⭐",
-        "zh": "被解雇/被趕走"
+        "en": "get the boot",
+        "zh": "被解雇/被趕走",
+        "frequency": 2
       },
       {
-        "en": "bootstrap a startup ⭐⭐",
-        "zh": "白手起家創業"
+        "en": "bootstrap a startup",
+        "zh": "白手起家創業",
+        "frequency": 2
       },
       {
-        "en": "boot camp ⭐⭐⭐",
-        "zh": "密集訓練"
+        "en": "boot camp",
+        "zh": "密集訓練",
+        "frequency": 3
       }
     ],
     "similar": [
       {
         "word": "kick",
         "pos": "v.",
-        "zh": "踢 ⭐⭐⭐",
-        "diff": "最基本的動作動詞"
+        "zh": "踢",
+        "diff": "最基本的動作動詞",
+        "frequency": 3
       },
       {
         "word": "launch",
         "pos": "v.",
-        "zh": "啟動 ⭐⭐⭐",
-        "diff": "更正式，用於系統或計畫"
+        "zh": "啟動",
+        "diff": "更正式，用於系統或計畫",
+        "frequency": 3
       },
       {
         "word": "start up",
         "pos": "v.",
-        "zh": "啟動 ⭐⭐⭐",
-        "diff": "通用於機器或企業"
+        "zh": "啟動",
+        "diff": "通用於機器或企業",
+        "frequency": 3
       }
     ],
     "lookalikes": [
       {
         "a": "boot",
         "b": "booth",
-        "zh": "靴子/開機 vs 攤位、電話亭、投票間 ⭐⭐⭐",
-        "tip": "boot 多了一個 h 變成 booth，是小隔間或攤位"
+        "zh": "靴子/開機 vs 攤位、電話亭、投票間",
+        "tip": "boot 多了一個 h 變成 booth，是小隔間或攤位",
+        "frequency": 3
       },
       {
         "a": "boot",
         "b": "loot",
-        "zh": "靴子/踢 vs 戰利品、掠奪物 ⭐⭐",
-        "tip": "loot 常見於遊戲語境，指獲得的戰利品"
+        "zh": "靴子/踢 vs 戰利品、掠奪物",
+        "tip": "loot 常見於遊戲語境，指獲得的戰利品",
+        "frequency": 2
       }
     ]
   },
@@ -6588,7 +6643,7 @@
     "date": "6/19",
     "phonetic": "🔊 /ˈwɪkɪd/",
     "hint": "邪惡的；（俚語）很棒的",
-    "frequency": "⭐⭐⭐",
+    "frequency": 3,
     "meanings": [
       {
         "pos": "adj.",
@@ -6598,7 +6653,7 @@
           "The villain had a <em>wicked</em> plan to undermine the entire system.",
           "That was a <em>wicked</em> thing to do to someone who trusted you."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       },
       {
         "pos": "adj.",
@@ -6608,7 +6663,7 @@
           "That presentation was absolutely <em>wicked</em> — the data storytelling was on point.",
           "The new design system is <em>wicked</em> fast to work with."
         ],
-        "frequency": "⭐⭐"
+        "frequency": 2
       }
     ],
     "family": [
@@ -6625,54 +6680,63 @@
     ],
     "collocations": [
       {
-        "en": "wicked sense of humor ⭐⭐⭐",
-        "zh": "刁鑽的幽默感"
+        "en": "wicked sense of humor",
+        "zh": "刁鑽的幽默感",
+        "frequency": 3
       },
       {
-        "en": "wicked fast/smart/good ⭐⭐",
-        "zh": "非常快/聰明/好（俚語）"
+        "en": "wicked fast/smart/good",
+        "zh": "非常快/聰明/好（俚語）",
+        "frequency": 2
       },
       {
-        "en": "wicked witch ⭐⭐",
-        "zh": "邪惡的女巫"
+        "en": "wicked witch",
+        "zh": "邪惡的女巫",
+        "frequency": 2
       },
       {
-        "en": "play a wicked game ⭐⭐",
-        "zh": "玩弄心機"
+        "en": "play a wicked game",
+        "zh": "玩弄心機",
+        "frequency": 2
       }
     ],
     "similar": [
       {
         "word": "evil",
         "pos": "adj.",
-        "zh": "邪惡的 ⭐⭐⭐",
-        "diff": "更強烈、更正式"
+        "zh": "邪惡的",
+        "diff": "更強烈、更正式",
+        "frequency": 3
       },
       {
         "word": "sinister",
         "pos": "adj.",
-        "zh": "陰險的 ⭐⭐",
-        "diff": "帶有不祥的感覺"
+        "zh": "陰險的",
+        "diff": "帶有不祥的感覺",
+        "frequency": 2
       },
       {
         "word": "naughty",
         "pos": "adj.",
-        "zh": "頑皮的、不乖的 ⭐⭐⭐",
-        "diff": "程度較輕，多用於小孩"
+        "zh": "頑皮的、不乖的",
+        "diff": "程度較輕，多用於小孩",
+        "frequency": 3
       }
     ],
     "lookalikes": [
       {
         "a": "wicked",
         "b": "wicker",
-        "zh": "邪惡的 vs 柳條編織 ⭐",
-        "tip": "wicked 字尾是 -ed；wicker 字尾是 -er，是柳條（wicker basket 柳條籃）"
+        "zh": "邪惡的 vs 柳條編織",
+        "tip": "wicked 字尾是 -ed；wicker 字尾是 -er，是柳條（wicker basket 柳條籃）",
+        "frequency": 1
       },
       {
         "a": "wicked",
         "b": "woken",
-        "zh": "邪惡的 vs wake 的過去分詞 ⭐⭐",
-        "tip": "woken 是 wake-woke-woken 的變化形，意思是醒來"
+        "zh": "邪惡的 vs wake 的過去分詞",
+        "tip": "woken 是 wake-woke-woken 的變化形，意思是醒來",
+        "frequency": 2
       }
     ]
   },
@@ -6682,7 +6746,7 @@
     "date": "6/19",
     "phonetic": "🔊 /liːk/",
     "hint": "洩漏（液體）；洩露（資訊）",
-    "frequency": "⭐⭐⭐",
+    "frequency": 3,
     "meanings": [
       {
         "pos": "v./n.",
@@ -6692,7 +6756,7 @@
           "The pipe <em>leaked</em> overnight and caused significant water damage.",
           "There's a gas <em>leak</em> in the building — everyone needs to evacuate."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       },
       {
         "pos": "v./n.",
@@ -6702,7 +6766,7 @@
           "Someone <em>leaked</em> the roadmap to the press before the official announcement.",
           "The data <em>leak</em> exposed millions of users' personal information."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       }
     ],
     "family": [
@@ -6724,54 +6788,63 @@
     ],
     "collocations": [
       {
-        "en": "data leak ⭐⭐⭐",
-        "zh": "資料外洩"
+        "en": "data leak",
+        "zh": "資料外洩",
+        "frequency": 3
       },
       {
-        "en": "leak to the press ⭐⭐⭐",
-        "zh": "向媒體洩露"
+        "en": "leak to the press",
+        "zh": "向媒體洩露",
+        "frequency": 3
       },
       {
-        "en": "spring a leak ⭐⭐",
-        "zh": "開始漏水"
+        "en": "spring a leak",
+        "zh": "開始漏水",
+        "frequency": 2
       },
       {
-        "en": "plug the leak ⭐⭐⭐",
-        "zh": "堵住漏洞"
+        "en": "plug the leak",
+        "zh": "堵住漏洞",
+        "frequency": 3
       }
     ],
     "similar": [
       {
         "word": "disclose",
         "pos": "v.",
-        "zh": "披露 ⭐⭐⭐",
-        "diff": "較正式，不一定是未經授權"
+        "zh": "披露",
+        "diff": "較正式，不一定是未經授權",
+        "frequency": 3
       },
       {
         "word": "reveal",
         "pos": "v.",
-        "zh": "揭露 ⭐⭐⭐",
-        "diff": "中性，強調展示原本隱藏的事物"
+        "zh": "揭露",
+        "diff": "中性，強調展示原本隱藏的事物",
+        "frequency": 3
       },
       {
         "word": "spill",
         "pos": "v.",
-        "zh": "洩露（口語）⭐⭐",
-        "diff": "如 spill the beans（說漏嘴）"
+        "zh": "洩露（口語）",
+        "diff": "如 spill the beans（說漏嘴）",
+        "frequency": 2
       }
     ],
     "lookalikes": [
       {
         "a": "leak",
         "b": "leek",
-        "zh": "洩漏 vs 韭蔥（蔬菜）⭐⭐",
-        "tip": "發音完全相同！是同音字（homophone），leak 是洩漏，leek 是韭蔥"
+        "zh": "洩漏 vs 韭蔥（蔬菜）",
+        "tip": "發音完全相同！是同音字（homophone），leak 是洩漏，leek 是韭蔥",
+        "frequency": 2
       },
       {
         "a": "leak",
         "b": "peak",
-        "zh": "洩漏 vs 高峰、頂點 ⭐⭐⭐",
-        "tip": "字形相近，只差第一個字母"
+        "zh": "洩漏 vs 高峰、頂點",
+        "tip": "字形相近，只差第一個字母",
+        "frequency": 3
       }
     ]
   },
@@ -6781,7 +6854,7 @@
     "date": "6/19",
     "phonetic": "🔊 /slɪp/",
     "hint": "滑倒；失誤；小紙條",
-    "frequency": "⭐⭐⭐",
+    "frequency": 3,
     "meanings": [
       {
         "pos": "v.",
@@ -6791,7 +6864,7 @@
           "She <em>slipped</em> on the wet floor and sprained her ankle.",
           "The phone <em>slipped</em> out of his hand during the meeting."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       },
       {
         "pos": "v.",
@@ -6801,7 +6874,7 @@
           "He <em>slipped</em> up and mentioned the unannounced feature to the press.",
           "She <em>slipped</em> the note under the door before leaving."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       },
       {
         "pos": "n.",
@@ -6811,7 +6884,7 @@
           "A <em>slip</em> of the tongue during the demo caused some confusion.",
           "That was just a <em>slip</em> — the overall presentation went very well."
         ],
-        "frequency": "⭐⭐⭐"
+        "frequency": 3
       },
       {
         "pos": "n.",
@@ -6820,7 +6893,7 @@
         "examples": [
           "She handed me a <em>slip</em> with the access code written on it."
         ],
-        "frequency": "⭐⭐"
+        "frequency": 2
       }
     ],
     "family": [
@@ -6847,58 +6920,68 @@
     ],
     "collocations": [
       {
-        "en": "slip up ⭐⭐⭐",
-        "zh": "犯錯"
+        "en": "slip up",
+        "zh": "犯錯",
+        "frequency": 3
       },
       {
-        "en": "slip of the tongue ⭐⭐⭐",
-        "zh": "口誤"
+        "en": "slip of the tongue",
+        "zh": "口誤",
+        "frequency": 3
       },
       {
-        "en": "slip through the cracks ⭐⭐⭐",
-        "zh": "從縫隙中漏掉、被忽略"
+        "en": "slip through the cracks",
+        "zh": "從縫隙中漏掉、被忽略",
+        "frequency": 3
       },
       {
-        "en": "give someone the slip ⭐⭐",
-        "zh": "甩掉某人"
+        "en": "give someone the slip",
+        "zh": "甩掉某人",
+        "frequency": 2
       },
       {
-        "en": "let something slip ⭐⭐⭐",
-        "zh": "不小心說漏嘴"
+        "en": "let something slip",
+        "zh": "不小心說漏嘴",
+        "frequency": 3
       }
     ],
     "similar": [
       {
         "word": "slide",
         "pos": "v.",
-        "zh": "滑動 ⭐⭐⭐",
-        "diff": "更中性，不一定是意外"
+        "zh": "滑動",
+        "diff": "更中性，不一定是意外",
+        "frequency": 3
       },
       {
         "word": "stumble",
         "pos": "v.",
-        "zh": "絆倒 ⭐⭐",
-        "diff": "腳步不穩，也可指說話結巴"
+        "zh": "絆倒",
+        "diff": "腳步不穩，也可指說話結巴",
+        "frequency": 2
       },
       {
         "word": "err",
         "pos": "v.",
-        "zh": "犯錯 ⭐⭐",
-        "diff": "較正式書面語"
+        "zh": "犯錯",
+        "diff": "較正式書面語",
+        "frequency": 2
       }
     ],
     "lookalikes": [
       {
         "a": "slip",
         "b": "flip",
-        "zh": "滑倒/失誤 vs 翻轉、快速翻頁 ⭐⭐⭐",
-        "tip": "flip 是翻轉（flip through 快速翻閱）"
+        "zh": "滑倒/失誤 vs 翻轉、快速翻頁",
+        "tip": "flip 是翻轉（flip through 快速翻閱）",
+        "frequency": 3
       },
       {
         "a": "slip",
         "b": "clip",
-        "zh": "紙條/失誤 vs 夾子、剪輯、片段 ⭐⭐⭐",
-        "tip": "clip 可以是夾子或影片片段"
+        "zh": "紙條/失誤 vs 夾子、剪輯、片段",
+        "tip": "clip 可以是夾子或影片片段",
+        "frequency": 3
       }
     ]
   }
