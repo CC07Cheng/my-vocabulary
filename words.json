@@ -5990,7 +5990,8 @@
         "examples": [
           "The product's <em>premiere</em> at the conference generated enormous buzz.",
           "She attended the world <em>premiere</em> of the documentary last night."
-        ]
+        ],
+        "frequency": "⭐⭐"
       },
       {
         "pos": "v.",
@@ -5998,7 +5999,8 @@
         "zh": "to be shown or performed for the first time",
         "examples": [
           "The new series will <em>premiere</em> on streaming platforms next month."
-        ]
+        ],
+        "frequency": "⭐⭐"
       }
     ],
     "family": [
@@ -6080,7 +6082,8 @@
         "zh": "the hard shell enclosing the kernel of a nut",
         "examples": [
           "The walnut's <em>nutshell</em> is too tough to crack by hand."
-        ]
+        ],
+        "frequency": "⭐"
       },
       {
         "pos": "n.",
@@ -6089,7 +6092,8 @@
         "examples": [
           "In a <em>nutshell</em>, the feature was too complex for users to adopt quickly.",
           "Let me put our Q3 strategy in a <em>nutshell</em> for the leadership team."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       }
     ],
     "family": [
@@ -6172,7 +6176,8 @@
         "examples": [
           "The phone will <em>vibrate</em> when you receive a notification.",
           "The entire building began to <em>vibrate</em> during the earthquake."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       },
       {
         "pos": "v.",
@@ -6180,7 +6185,8 @@
         "zh": "to be filled with or convey a strong feeling or energy",
         "examples": [
           "The room <em>vibrated</em> with excitement as the keynote speaker took the stage."
-        ]
+        ],
+        "frequency": "⭐⭐"
       }
     ],
     "family": [
@@ -6272,7 +6278,8 @@
         "zh": "the range of colors produced when light is separated",
         "examples": [
           "The rainbow displays the full visible <em>spectrum</em> of light."
-        ]
+        ],
+        "frequency": "⭐⭐"
       },
       {
         "pos": "n.",
@@ -6281,7 +6288,8 @@
         "examples": [
           "Our users come from a broad <em>spectrum</em> of industries and backgrounds.",
           "The product needs to serve the entire <em>spectrum</em> of user needs, from beginner to expert."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       }
     ],
     "family": [
@@ -6369,7 +6377,8 @@
         "examples": [
           "Users <em>perceived</em> the new interface as more intuitive after the redesign.",
           "She could <em>perceive</em> a slight hesitation in his response."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       },
       {
         "pos": "v.",
@@ -6378,7 +6387,8 @@
         "examples": [
           "How customers <em>perceive</em> your brand matters more than what you intend.",
           "The feature was <em>perceived</em> as too complex by early adopters."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       }
     ],
     "family": [
@@ -6470,7 +6480,8 @@
         "zh": "a type of shoe that covers the foot and ankle or leg",
         "examples": [
           "She wore leather <em>boots</em> to the outdoor product launch event."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       },
       {
         "pos": "n./v.",
@@ -6479,7 +6490,8 @@
         "examples": [
           "The server failed to <em>boot</em> after the system update.",
           "We need to re<em>boot</em> the system to apply the new configurations."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       },
       {
         "pos": "v.",
@@ -6487,7 +6499,8 @@
         "zh": "to kick; to forcibly remove someone",
         "examples": [
           "He was <em>booted</em> from the platform for violating community guidelines."
-        ]
+        ],
+        "frequency": "⭐⭐"
       }
     ],
     "family": [
@@ -6584,7 +6597,8 @@
         "examples": [
           "The villain had a <em>wicked</em> plan to undermine the entire system.",
           "That was a <em>wicked</em> thing to do to someone who trusted you."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       },
       {
         "pos": "adj.",
@@ -6593,7 +6607,8 @@
         "examples": [
           "That presentation was absolutely <em>wicked</em> — the data storytelling was on point.",
           "The new design system is <em>wicked</em> fast to work with."
-        ]
+        ],
+        "frequency": "⭐⭐"
       }
     ],
     "family": [
@@ -6676,7 +6691,8 @@
         "examples": [
           "The pipe <em>leaked</em> overnight and caused significant water damage.",
           "There's a gas <em>leak</em> in the building — everyone needs to evacuate."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       },
       {
         "pos": "v./n.",
@@ -6685,7 +6701,8 @@
         "examples": [
           "Someone <em>leaked</em> the roadmap to the press before the official announcement.",
           "The data <em>leak</em> exposed millions of users' personal information."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       }
     ],
     "family": [
@@ -6773,7 +6790,8 @@
         "examples": [
           "She <em>slipped</em> on the wet floor and sprained her ankle.",
           "The phone <em>slipped</em> out of his hand during the meeting."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       },
       {
         "pos": "v.",
@@ -6782,7 +6800,8 @@
         "examples": [
           "He <em>slipped</em> up and mentioned the unannounced feature to the press.",
           "She <em>slipped</em> the note under the door before leaving."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       },
       {
         "pos": "n.",
@@ -6791,7 +6810,8 @@
         "examples": [
           "A <em>slip</em> of the tongue during the demo caused some confusion.",
           "That was just a <em>slip</em> — the overall presentation went very well."
-        ]
+        ],
+        "frequency": "⭐⭐⭐"
       },
       {
         "pos": "n.",
@@ -6799,7 +6819,8 @@
         "zh": "a small piece of paper",
         "examples": [
           "She handed me a <em>slip</em> with the access code written on it."
-        ]
+        ],
+        "frequency": "⭐⭐"
       }
     ],
     "family": [
